@@ -1,0 +1,264 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Electrolytes, ionisation and conductivity</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39935</md:content-id>
+  <md:title>Electrolytes, ionisation and conductivity</md:title>
+  <md:abstract/>
+  <md:uuid>61775e90-8033-4863-bc1a-6cdb749d8647</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid7">
+      <title>Electrolytes, ionisation and conductivity</title>
+      <para id="id338608"><emphasis effect="bold">Conductivity</emphasis> in aqueous solutions, is a measure of the ability of water to conduct an electric current. The more <emphasis effect="bold">ions</emphasis> there are in the solution, the higher its conductivity.</para>
+<definition id="fhsst_id635"><term id="termfhsst_id635"> Conductivity </term> <meaning id="meaningfhsst_id635">
+      <para id="id338629">Conductivity is a measure of a solution's ability to conduct an electric current. </para>
+      </meaning></definition>
+      <section id="uid52">
+        <title>Electrolytes</title>
+        <para id="id338650">An <emphasis effect="bold">electrolyte</emphasis> is a material that <emphasis effect="italics">increases</emphasis> the conductivity of water when dissolved in it. Electrolytes can be further divided into <emphasis effect="bold">strong electrolytes</emphasis> and <emphasis effect="bold">weak electrolytes</emphasis>.</para>
+<definition id="fhsst_id641"><term id="termfhsst_id641"> Electrolyte </term> <meaning id="meaningfhsst_id641">
+        <para id="id338684">An electrolyte is a substance that contains free ions and behaves as an electrically conductive medium. Because they generally consist of ions in solution, electrolytes are also known as ionic solutions. </para>
+        </meaning></definition>
+        <list id="id338697" display="block" list-type="enumerated">
+          <item id="uid53"><emphasis effect="bold">Strong electrolytes</emphasis>
+A strong electrolyte is a material that ionises completely when it is dissolved in water:
+<equation id="id338720"><m:math overflow="scroll" mode="display"><m:mrow><m:mi>A</m:mi><m:mi>B</m:mi><m:mrow><m:mo>(</m:mo><m:mi>s</m:mi><m:mo>,</m:mo><m:mi>l</m:mi><m:mo>,</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>→</m:mo><m:msup><m:mi>A</m:mi><m:mo>+</m:mo></m:msup><m:mrow><m:mo>(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:msup><m:mi>B</m:mi><m:mo>-</m:mo></m:msup><m:mrow><m:mo>(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math></equation>
+This is a <emphasis effect="bold">chemical change</emphasis> because the original compound has been split into its component ions and bonds have been broken. In a strong electrolyte, we say that the <emphasis effect="italics">extent of ionisation</emphasis> is high. In other words, the original material dissociates completely so that there is a high concentration of ions in the solution. An example is a solution of potassium nitrate:
+<equation id="id338807"><m:math overflow="scroll" mode="display"><m:mrow><m:mi>K</m:mi><m:mi>N</m:mi><m:msub><m:mi>O</m:mi><m:mn>3</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi>s</m:mi><m:mo>)</m:mo></m:mrow><m:mo>→</m:mo><m:msup><m:mi>K</m:mi><m:mo>+</m:mo></m:msup><m:mrow><m:mo>(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mi>N</m:mi><m:msubsup><m:mi>O</m:mi><m:mrow><m:mn>3</m:mn></m:mrow><m:mo>-</m:mo></m:msubsup><m:mrow><m:mo>(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math></equation></item>
+          <item id="uid54"><emphasis effect="bold">Weak electrolytes</emphasis>
+A weak electrolyte is a material that goes into solution and will be surrounded by water molecules when it is added to water. However, not <emphasis effect="italics">all</emphasis> of the molecules will dissociate into ions. The <emphasis effect="italics">extent of ionisation</emphasis> of a weak electrolyte is low and therefore the concentration of ions in the solution is also low.
+<equation id="id338913"><m:math overflow="scroll" mode="display"><m:mrow><m:mi>A</m:mi><m:mi>B</m:mi><m:mrow><m:mo>(</m:mo><m:mi>s</m:mi><m:mo>,</m:mo><m:mi>l</m:mi><m:mo>,</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>→</m:mo><m:mi>A</m:mi><m:mi>B</m:mi><m:mrow><m:mo>(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo>)</m:mo></m:mrow><m:mo>⇌</m:mo><m:msup><m:mi>A</m:mi><m:mo>+</m:mo></m:msup><m:mrow><m:mo>(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:msup><m:mi>B</m:mi><m:mo>-</m:mo></m:msup><m:mrow><m:mo>(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math></equation>
+The following example shows that in the final solution of a weak electrolyte, some of the original compound <emphasis effect="italics">plus</emphasis> some dissolved ions are present.
+<equation id="id339008"><m:math overflow="scroll" mode="display"><m:mrow><m:msub><m:mi>C</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi>H</m:mi><m:mn>3</m:mn></m:msub><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub><m:mi>H</m:mi><m:mrow><m:mo>(</m:mo><m:mi>l</m:mi><m:mo>)</m:mo></m:mrow><m:mo>→</m:mo><m:msub><m:mi>C</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi>H</m:mi><m:mn>3</m:mn></m:msub><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub><m:mi>H</m:mi><m:mo>⇌</m:mo><m:msub><m:mi>C</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi>H</m:mi><m:mn>3</m:mn></m:msub><m:msubsup><m:mi>O</m:mi><m:mrow><m:mn>2</m:mn></m:mrow><m:mo>-</m:mo></m:msubsup><m:mrow><m:mo>(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:msup><m:mi>H</m:mi><m:mo>+</m:mo></m:msup><m:mrow><m:mo>(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math></equation></item>
+        </list>
+      </section>
+      <section id="uid55">
+        <title>Non-electrolytes</title>
+        <para id="id339146">A <emphasis effect="bold">non-electrolyte</emphasis> is a material that does not increase the conductivity of water when dissolved in it. The substance goes into solution and becomes surrounded by water molecules, so that the molecules of the chemical become separated from each other. However, although the substance does dissolve, it is not changed in any way and no chemical bonds are broken. The change is a <emphasis effect="bold">physical change</emphasis>. In the oxygen example below, the reaction is shown to be reversible because oxygen is only partially soluble in water and comes out of solution very easily.</para>
+        <equation id="id339165">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mi>C</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:msub>
+                <m:mi>H</m:mi>
+                <m:mn>5</m:mn>
+              </m:msub>
+              <m:mi>O</m:mi>
+              <m:mi>H</m:mi>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi>l</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mo>→</m:mo>
+              <m:msub>
+                <m:mi>C</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:msub>
+                <m:mi>H</m:mi>
+                <m:mn>5</m:mn>
+              </m:msub>
+              <m:mi>O</m:mi>
+              <m:mi>H</m:mi>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi>a</m:mi>
+                <m:mi>q</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <equation id="id339233">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mi>O</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi>g</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mo>⇌</m:mo>
+              <m:msub>
+                <m:mi>O</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi>a</m:mi>
+                <m:mi>q</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+            </m:mrow>
+          </m:math>
+        </equation>
+      </section>
+      <section id="uid56">
+        <title>Factors that affect the conductivity of water</title>
+        <para id="id339287">The conductivity of water is therefore affected by the following factors:</para>
+        <list id="id339291" display="block" list-type="bulleted"><item id="uid57">The <emphasis effect="bold">type of substance</emphasis> that dissolves in water.
+Whether a material is a strong electrolyte (e.g. potassium nitrate, KNO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>), a weak electrolyte (e.g. acetate, CH<sub>3</sub>COOH) or a non-electrolyte (e.g. sugar, alcohol, oil) will affect the conductivity of water because the concentration of ions in solution will be different in each case.
+</item>
+          <item id="uid58">The <emphasis effect="bold">concentration of ions</emphasis> in solution.
+The higher the concentration of ions in solution, the higher its conductivity will be.
+</item>
+          <item id="uid59"><emphasis effect="bold">Temperature.</emphasis>
+The warmer the solution, the higher the solubility of the material being dissolved and therefore the higher the conductivity as well.
+</item>
+        </list>
+<section id="secfhsst_id739"><title> Experiment : Electrical conductivity
+        </title>
+        <para id="id339425">
+          <emphasis effect="bold">Aim:</emphasis>
+        </para>
+        <para id="id339434">To investigate the electrical conductivities of different substances and solutions.</para>
+        <para id="id339438">
+          <emphasis effect="bold">Apparatus:</emphasis>
+        </para>
+        <para id="id339448">Solid salt (NaCl) crystals; different liquids such as distilled water, tap water, seawater, benzene and alcohol; solutions of salts e.g. NaCl, KBr; a solution of an acid (e.g. HCl) and a solution of a base (e.g. NaOH); torch cells; ammeter; conducting wire, crocodile clips and 2 carbon rods.</para>
+        <para id="id334346">
+          <emphasis effect="bold">Method:</emphasis>
+        </para>
+        <para id="id334355">Set up the experiment by connecting the circuit as shown in the diagram below. In the diagram, 'X' represents the substance or solution that you will be testing. When you are using the solid crystals, the crocodile clips can be attached directly to each end of the crystal. When you are using solutions, two carbon rods are placed into the liquid and the clips are attached to each of the rods. In each case, complete the circuit and allow the current to flow for about 30 seconds. Observe whether the ammeter shows a reading.</para>
+        <para id="id334362">
+          <figure id="id334366">
+            <media id="id334366_media" alt="">
+              <image mime-type="image/png" src="../../media/CG10C8_003.png" id="id334366_onlineimage" width="251"><!-- NOTE: attribute width changes image size online (pixels). original width is 251. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/CG10C8_003.eps" id="id334366_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id334372">
+          <emphasis effect="bold">Results:</emphasis>
+        </para>
+        <para id="id334382">Record your observations in a table similar to the one below:</para>
+        <table id="id334385" summary="">
+          <tgroup cols="2">
+            <tbody>
+              <row>
+                <entry>Test substance</entry>
+                <entry>Ammeter reading</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <!--empty paragraphs get left behind.-->
+        <para id="id339669">What do you notice? Can you explain these observations?</para>
+        <para id="id339672">Remember that for electricity to flow, there needs to be a movement of charged particles e.g. ions. With the solid NaCl crystals, there was no flow of electricity recorded on the ammeter. Although the solid is made up of ions, they are held together very tightly within the crystal lattice and therefore no current will flow. Distilled water, benzene and alcohol also don't conduct a current because they are <emphasis effect="italics">covalent compounds</emphasis> and therefore do not contain ions.</para>
+        <para id="id339687">The ammeter should have recorded a current when the salt solutions and the acid and base solutions were connected in the circuit. In solution, salts <emphasis effect="italics">dissociate</emphasis> into their ions, so that these are free to move in the solution. Acids and bases behave in a similar way and dissociate to form hydronium and oxonium ions. Look at the following examples:</para>
+        <para id="id339701">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:mi> KBr </m:mi>
+              <m:mo>→</m:mo>
+              <m:msup>
+                <m:mi mathvariant="normal">K</m:mi>
+                <m:mo>+</m:mo>
+              </m:msup>
+              <m:mo>+</m:mo>
+              <m:msup>
+                <m:mi> Br </m:mi>
+                <m:mo>-</m:mo>
+              </m:msup>
+            </m:mrow>
+          </m:math>
+        </para>
+        <para id="id339737">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:mi> NaCl </m:mi>
+              <m:mo>→</m:mo>
+              <m:msup>
+                <m:mi> Na </m:mi>
+                <m:mo>+</m:mo>
+              </m:msup>
+              <m:mo>+</m:mo>
+              <m:msup>
+                <m:mi> Cl </m:mi>
+                <m:mo>-</m:mo>
+              </m:msup>
+            </m:mrow>
+          </m:math>
+        </para>
+        <para id="id339770">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:mi> HCl </m:mi>
+              <m:mo>+</m:mo>
+              <m:msub>
+                <m:mi mathvariant="normal">H</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mi mathvariant="normal">O</m:mi>
+              <m:mo>→</m:mo>
+              <m:msub>
+                <m:mi mathvariant="normal">H</m:mi>
+                <m:mn>3</m:mn>
+              </m:msub>
+              <m:msup>
+                <m:mi mathvariant="normal">O</m:mi>
+                <m:mo>+</m:mo>
+              </m:msup>
+              <m:mo>+</m:mo>
+              <m:msup>
+                <m:mi> Cl </m:mi>
+                <m:mo>-</m:mo>
+              </m:msup>
+            </m:mrow>
+          </m:math>
+        </para>
+        <para id="id339831">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:mi> NaOH </m:mi>
+              <m:mo>→</m:mo>
+              <m:msup>
+                <m:mi> Na </m:mi>
+                <m:mo>+</m:mo>
+              </m:msup>
+              <m:mo>+</m:mo>
+              <m:msup>
+                <m:mi> OH </m:mi>
+                <m:mo>-</m:mo>
+              </m:msup>
+            </m:mrow>
+          </m:math>
+        </para>
+        <para id="id339864">
+          <emphasis effect="bold">Conclusions:</emphasis>
+        </para>
+        <para id="id339873">Solutions that contain free-moving ions are able to conduct electricity because of the movement of charged particles. Solutions that do not contain free-moving ions do not conduct electricity.
+ </para>
+</section>
+<note id="notfhsst_id879"><title> Interesting Fact </title> 
+Conductivity in streams and rivers is affected by the geology of the area where the water is flowing through. Streams that run through areas with granite bedrock tend to have lower conductivity because granite is made of materials that do not ionise when washed into the water. On the other hand, streams that run through areas with clay soils tend to have higher conductivity because the materials ionise when they are washed into the water. Pollution can also affect conductivity. A failing sewage system or an inflow of fertiliser runoff would raise the conductivity because of the presence of chloride, phosphate, and nitrate (ions) while an oil spill (non-ionic) would lower the conductivity. It is very important that conductivity is kept within a certain acceptable range so that the organisms living in these water systems are able to survive.
+</note>
+      </section>
+    </section>
+
+  </content>
+</document>

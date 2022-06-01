@@ -1,0 +1,173 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Graphs of particle motion</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m40109</md:content-id>
+  <md:title>Graphs of particle motion</md:title>
+  <md:abstract/>
+  <md:uuid>cce907e4-cc22-4b85-b1a7-190900af3c1a</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid4">
+      <title>Graphs of Particle Motion</title>
+      <para id="id321236">In Chapter <link target-id=""/>, we saw that when a pulse moves through a medium, there are two different motions: the motion of the particles of the medium and the motion of the pulse. These two motions are at right angles to each other when the pulse is transverse. Since a transverse wave is a series of transverse pulses, the particle in the medium and the wave move in exactly the same way as for the pulse.</para>
+      <para id="id321245">When a transverse wave moves horizontally through the medium, the particles in the medium <emphasis effect="bold">only</emphasis> move up and down. We can see this in the figure below, which shows the motion of a single particle as a transverse wave moves through the medium.</para>
+      <para id="id321257">
+        <figure id="id321262">
+          <media id="id321262_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C5_015.png" id="id321262_onlineimage" width="371"><!-- NOTE: attribute width changes image size online (pixels). original width is 371. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C5_015.eps" id="id321262_printimage"/>
+          </media>
+        </figure>
+      </para>
+<note id="notfhsst_id1032" type="tip">A particle in the medium <emphasis effect="bold">only</emphasis> moves up and down when a transverse wave moves horizontally through the medium.</note>
+      <para id="id321282">As in <link document="m35714"/>, we can draw a graph of the particles' position as a function of time. For the wave shown in the above figure, we can draw the graph shown below.</para>
+      <para id="id321289">
+        <figure id="id321292">
+          <media id="id321292_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C5_016.png" id="id321292_onlineimage" width="353"><!-- NOTE: attribute width changes image size online (pixels). original width is 353. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C5_016.eps" id="id321292_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id321299">The graph of the particle's velocity as a function of time is obtained by taking the gradient of the position vs. time graph. The graph of velocity vs. time for the position vs. time graph above, is shown in the graph below.</para>
+      <para id="id321304">
+        <figure id="id321307">
+          <media id="id321307_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C5_017.png" id="id321307_onlineimage" width="356"><!-- NOTE: attribute width changes image size online (pixels). original width is 356. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C5_017.eps" id="id321307_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id321314">The graph of the particle's acceleration as a function of time is obtained by taking the gradient of the velocity vs. time graph. The graph of acceleration vs. time for the position vs. time graph shown above, is shown below.</para>
+      <para id="id321319">
+        <figure id="id321322">
+          <media id="id321322_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C5_018.png" id="id321322_onlineimage" width="380"><!-- NOTE: attribute width changes image size online (pixels). original width is 380. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C5_018.eps" id="id321322_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id321329">As for motion in one dimension, these graphs can be used to describe the motion of the particle in the medium. This is illustrated in the worked examples below.</para>
+<exercise id="secfhsst_id1061"><title> Graphs of particle motion 1 </title>
+      <problem id="probfhsst_id1062">
+      <para id="id321347">The following graph shows the position of a particle of a wave as a function of time.</para>
+      <para id="id321353">
+        <figure id="id321357">
+          <media id="id321357_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C5_019.png" id="id321357_onlineimage" width="250"><!-- NOTE: attribute width changes image size online (pixels). original width is 250. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C5_019.eps" id="id321357_printimage" print-width="1">
+              <!--NOTE: attribute width changes image size in printed PDF (if specified in .tex file)-->
+            </image>
+          </media>
+        </figure>
+      </para>
+      <list id="id321367" display="block" list-type="enumerated">
+        <item id="uid59">Draw the corresponding velocity vs. time graph for the particle.
+</item>
+        <item id="uid60">Draw the corresponding acceleration vs. time graph for the particle.
+</item>
+</list>
+</problem>
+<solution id="solfhsst_id1080"> <list id="listfhsst_id1080" list-type="enumerated" number-style="arabic" class="stepwise">
+<item> <label> Determine what is given and what is required. </label>
+The <m:math overflow="scroll"><m:mi>y</m:mi></m:math> vs. <m:math overflow="scroll"><m:mi>t</m:mi></m:math> graph is given.
+The <m:math overflow="scroll"><m:msub><m:mi>v</m:mi><m:mi>y</m:mi></m:msub></m:math> vs. <m:math overflow="scroll"><m:mi>t</m:mi></m:math> and <m:math overflow="scroll"><m:msub><m:mi>a</m:mi><m:mi>y</m:mi></m:msub></m:math> vs. <m:math overflow="scroll"><m:mi>t</m:mi></m:math> graphs are required.
+</item> <item> <label> Draw the velocity vs. time graph </label>
+To find the velocity of the particle we need to find the gradient of the <m:math overflow="scroll"><m:mi>y</m:mi></m:math> vs. <m:math overflow="scroll"><m:mi>t</m:mi></m:math> graph at each time.
+At point A the gradient is a maximum and positive.
+At point B the gradient is zero.
+At point C the gradient is a maximum, but negative.
+At point D the gradient is zero.
+At point E the gradient is a maximum and positive again.
+
+<figure id="id321556"><media id="id321556_media" alt=""><image mime-type="image/png" src="../../media/PG10C5_020.png" id="id321556_onlineimage" width="250"><!-- NOTE: attribute width changes image size online (pixels). original width is 250. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C5_020.eps" id="id321556_printimage"/></media></figure>
+</item> <item> <label> Draw the acceleration vs. time graph </label>
+To find the acceleration of the particle we need to find the gradient of the <m:math overflow="scroll"><m:msub><m:mi>v</m:mi><m:mi>y</m:mi></m:msub></m:math> vs. <m:math overflow="scroll"><m:mi>t</m:mi></m:math> graph at each time.
+At point A the gradient is zero.
+At point B the gradient is negative and a maximum.
+At point C the gradient is zero.
+At point D the gradient is positive and a maximum.
+At point E the gradient is zero.
+
+<figure id="id321628"><media id="id321628_media" alt=""><image mime-type="image/png" src="../../media/PG10C5_021.png" id="id321628_onlineimage" width="256"><!-- NOTE: attribute width changes image size online (pixels). original width is 256. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C5_021.eps" id="id321628_printimage"/></media></figure>
+      
+      </item> </list> </solution>
+</exercise>
+<section id="secfhsst_id1106"><title> Mathematical Description of Waves </title>
+      <para id="id321658">If you look carefully at the pictures of waves you will notice that they look very much like <emphasis effect="italics">sine</emphasis> or <emphasis effect="italics">cosine</emphasis> functions. This is correct. Waves can be described by
+trigonometric functions that are functions of time or of position.
+Depending on which case we are dealing with the function will be a
+function of <m:math overflow="scroll"><m:mi>t</m:mi></m:math> or <m:math overflow="scroll"><m:mi>x</m:mi></m:math>.
+For example, a function of position would be:</para>
+      <equation id="id321696">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>y</m:mi>
+            <m:mrow>
+              <m:mo>(</m:mo>
+              <m:mi>x</m:mi>
+              <m:mo>)</m:mo>
+            </m:mrow>
+            <m:mo>=</m:mo>
+            <m:mi>A</m:mi>
+            <m:mo form="prefix">sin</m:mo>
+            <m:mfenced separators="" open="(" close=")">
+              <m:msup>
+                <m:mn>360</m:mn>
+                <m:mo>∘</m:mo>
+              </m:msup>
+              <m:mfrac>
+                <m:mi>x</m:mi>
+                <m:mi>λ</m:mi>
+              </m:mfrac>
+              <m:mo>+</m:mo>
+              <m:mi>φ</m:mi>
+            </m:mfenced>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id321750">where <m:math overflow="scroll"><m:mi>A</m:mi></m:math> is the amplitude, <m:math overflow="scroll"><m:mi>λ</m:mi></m:math> the wavelength and <m:math overflow="scroll"><m:mi>φ</m:mi></m:math> is a <emphasis effect="italics">phase shift</emphasis>. The phase shift accounts for the fact that the wave at <m:math overflow="scroll"><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math> does not start at the equilibrium position.
+A function of time would be:</para>
+      <equation id="id321804">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>y</m:mi>
+            <m:mrow>
+              <m:mo>(</m:mo>
+              <m:mi>t</m:mi>
+              <m:mo>)</m:mo>
+            </m:mrow>
+            <m:mo>=</m:mo>
+            <m:mi>A</m:mi>
+            <m:mo form="prefix">sin</m:mo>
+            <m:mfenced separators="" open="(" close=")">
+              <m:msup>
+                <m:mn>360</m:mn>
+                <m:mo>∘</m:mo>
+              </m:msup>
+              <m:mfrac>
+                <m:mi>t</m:mi>
+                <m:mi>T</m:mi>
+              </m:mfrac>
+              <m:mo>+</m:mo>
+              <m:mi>φ</m:mi>
+            </m:mfenced>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id321857">where <m:math overflow="scroll"><m:mi>T</m:mi></m:math> is the period of the wave.
+Descriptions of the wave incorporate the amplitude, wavelength, frequency or period and a phase shift. </para>
+</section>
+<section id="secfhsst_id1171"><title> Graphs of Particle Motion </title>
+      <list id="id321886" display="block" list-type="enumerated"><item id="uid61">The following velocity vs. time graph for a particle in a wave is given.
+<figure id="id321905"><media id="id321905_media" alt=""><image mime-type="image/png" src="../../media/PG10C5_022.png" id="id321905_onlineimage" width="251"><!-- NOTE: attribute width changes image size online (pixels). original width is 251. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C5_022.eps" id="id321905_printimage"/></media></figure><list id="id321911" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid62">Draw the corresponding position vs. time graph for the particle.
+</item><item id="uid63">Draw the corresponding acceleration vs. time graph for the particle.
+</item></list><link class="fullmarks" window="new" url="http://www.fhsst.org.za/lrU">Click here for the solution.</link></item>
+      </list>
+      
+</section>
+    </section>
+
+  </content>
+</document>

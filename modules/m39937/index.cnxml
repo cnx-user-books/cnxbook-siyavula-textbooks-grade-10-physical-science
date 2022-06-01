@@ -1,0 +1,275 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Ions in aqueous solution</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39937</md:content-id>
+  <md:title>Ions in aqueous solution</md:title>
+  <md:abstract/>
+  <md:uuid>7dd01eb5-6b14-405c-bd79-060f5a2357c3</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid6">
+      <title>Ions in aqueous solution</title>
+      <para id="id335294">As we mentioned earlier, water is seldom pure. Because of the structure of the water molecule, it is able to dissolve substances in it. This is very important because if water wasn't able to do this, life would not be able to survive. In rivers and the oceans for example, dissolved oxygen means that organisms (such as fish) are still able to respire (breathe). For plants, dissolved nutrients are also available. In the human body, water is able to carry dissolved substances from one part of the body to another.</para>
+      <para id="id335302">Many of the substances that dissolve are <emphasis effect="italics">ionic</emphasis> and when they dissolve they form ions in solution. We are going to look at how water is able to dissolve ionic compounds, how these ions maintain a balance in the human body, how they affect water hardness and how specific ions determine the pH of solutions.</para>
+      <section id="uid19">
+        <title>Dissociation in water</title>
+        <para id="id335324">Water is a <emphasis effect="bold">polar molecule</emphasis> (<link target-id="uid20"/>). This means that one part of the molecule has a slightly positive charge (positive pole) and the other part has a slightly negative charge (negative pole).</para>
+        <figure id="uid20">
+          <media id="uid20_media" alt="">
+            <image mime-type="image/png" src="../../media/CG10C8_001.png" id="uid20_onlineimage" width="114"><!-- NOTE: attribute width changes image size online (pixels). original width is 114. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG10C8_001.eps" id="uid20_printimage"/>
+          </media>
+          <caption>Water is a polar molecule</caption>
+        </figure>
+        <para id="id335349">It is the polar nature of water that allows ionic compounds to dissolve in it. In the case of sodium chloride (NaCl) for example, the positive sodium ions (Na<sup>+</sup>) will be attracted to the negative pole of the water molecule, while the negative chloride ions (Cl<sup><m:math overflow="scroll"><m:mo>-</m:mo></m:math></sup>) will be attracted to the positive pole of the water molecule. In the process, the ionic bonds between the sodium and chloride ions are weakened and the water molecules are able to work their way between the individual ions, surrounding them and slowly dissolving the compound. This process is called <emphasis effect="bold">dissociation</emphasis>. A simplified representation of this is shown in <link target-id="uid21"/>.</para>
+<definition id="fhsst_id155"><term id="termfhsst_id155"> Dissociation </term> <meaning id="meaningfhsst_id155">
+        <para id="id335397">Dissociation in chemistry and biochemistry is a general process in which ionic compounds separate or split into smaller molecules or ions, usually in a reversible manner.  </para>
+        </meaning></definition>
+        <figure id="uid21"><media id="uid21_media" alt="">
+            <image mime-type="image/png" src="../../media/CG10C8_002.png" id="uid21_onlineimage" width="183"><!-- NOTE: attribute width changes image size online (pixels). original width is 173. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG10C8_002.eps" id="uid21_printimage"/>
+          </media>
+          
+        <caption>Sodium chloride dissolves in water</caption></figure>
+        <para id="id335421">The dissolution of sodium chloride can be represented by the following equation:</para>
+        <para id="uid3241">
+NaCl(s) <m:math overflow="scroll"><m:mo>→</m:mo></m:math>
+Na<sup>+</sup>(aq) + Cl<sup><m:math><m:mo>-</m:mo></m:math></sup>(aq)
+        </para>
+        <para id="id333999">The symbols <emphasis effect="bold">s</emphasis> (solid), <emphasis effect="bold">l</emphasis> (liquid), <emphasis effect="bold">g</emphasis> (gas) and <emphasis effect="bold">aq</emphasis> (material is dissolved in water) are written after the chemical formula to show the state or phase of the material. The dissolution of potassium sulphate into potassium and sulphate ions is shown below as another example:</para>
+        <para id="uid971321">
+K<sub>2</sub>SO<sub>4</sub>(s)<m:math overflow="scroll">
+              <m:mo>→</m:mo></m:math> 2K<sup>+</sup>(aq) + SO<sub>4</sub><sup>2<m:math><m:mo>-</m:mo></m:math></sup>(aq)
+        </para>
+        <para id="id335781">Remember that <emphasis effect="bold">molecular</emphasis> substances (e.g. covalent compounds) may also dissolve, but most will not form ions. One example is sugar.</para>
+        <para id="uid922381">
+C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>(s) <m:math><m:mo>⇌</m:mo></m:math> C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>(aq)
+        </para>
+        <para id="id335863">There are exceptions to this and some molecular substances <emphasis effect="italics">will</emphasis> form ions when they dissolve. Hydrogen chloride for example can ionise to form hydrogen and chloride ions.</para>
+        <para id="uid98732">
+HCl(g)
+          <m:math>
+              <m:mo>→</m:mo></m:math> H<sup>+</sup>(aq) + Cl<sup><m:math><m:mo>-</m:mo></m:math></sup>(aq)
+        </para>
+<note id="notfhsst_id337"><title> Interesting Fact </title> The ability of ionic compounds to dissolve in water is extremely important in the human body! The body is made up of <emphasis effect="italics">cells</emphasis>, each of which is surrounded by a <emphasis effect="italics">membrane</emphasis>. Dissolved ions are found inside and outside of body cells in different concentrations. Some of these ions are positive (e.g. Mg<sup>2+</sup>) and some are negative (e.g. Cl<sup><m:math><m:mo>-</m:mo></m:math></sup>). If there is a difference in the charge that is inside and outside the cell, then there is a <emphasis effect="italics">potential difference</emphasis> across the cell membrane. This is called the <emphasis effect="bold">membrane potential</emphasis> of the cell. The membrane potential acts like a battery and affects the movement of all charged substances across the membrane. Membrane potentials play a role in muscle functioning, digestion, excretion and in maintaining blood pH to name just a few. The movement of ions across the membrane can also be converted into an electric signal that can be transferred along <emphasis effect="italics">neurons</emphasis> (nerve cells), which control body processes. If ionic substances were not able to dissociate in water, then none of these processes would be possible! It is also important to realise that our bodies can <emphasis effect="italics">lose</emphasis> ions such as Na<sup>+</sup>, K<sup>+</sup>, Ca<sup>2+</sup>, Mg<sup>2+</sup>, and Cl<sup><m:math><m:mo>-</m:mo></m:math></sup>, for example when we sweat during exercise. Sports drinks such as Lucozade and Powerade are designed to replace these lost ions so that the body's normal functioning is not affected.</note>
+<section id="secfhsst_id338"><title>Ions in solution         </title><list id="id336094" display="block" list-type="enumerated">
+          <item id="uid22">For each of the following, say whether the substance is ionic or molecular.
+<list id="id336110" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid23">potassium nitrate (KNO<sub>3</sub>)
+</item><item id="uid24">ethanol (C<sub>2</sub>H<sub>5</sub>OH)
+</item><item id="uid25">sucrose (a type of sugar) (C<sub>12</sub>H<sub>22</sub>O<sub>11</sub>)</item><item id="uid26">sodium bromide (NaBr)
+</item></list><link window="new" class="fullmarks" resource="http://www.fhsst.org/l33">Click here for the solution</link>
+
+</item>
+          <item id="uid27">Write a balanced equation to show how each of the following ionic compounds dissociate in water.
+<list id="id336252" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid28">sodium sulphate (Na<sub>2</sub>SO<sub>4</sub>)
+</item><item id="uid29">potassium bromide (KBr)
+</item><item id="uid30">potassium permanganate (KMNO<sub>4</sub>)
+</item><item id="uid31">sodium phosphate (Na<sub>3</sub>PO<sub>4</sub>)
+</item></list><link window="new" class="fullmarks" resource="http://www.fhsst.org/l3q">Click here for the solution</link>
+</item>
+        </list>
+        
+</section>
+      </section>
+      <section id="uid32">
+        <title>Ions and water hardness</title>
+<definition id="fhsst_id358"><term id="termfhsst_id358"> Water hardness </term> <meaning id="meaningfhsst_id358">
+        <para id="id336395">Water hardness is a measure of the mineral content of water. Minerals are substances such as calcite, quartz and mica that occur naturally as a result of geological processes. </para>
+        </meaning></definition>
+        <para id="id336408"><emphasis effect="bold">Hard water</emphasis> is water that has a high mineral content. Water that has a low mineral content is known as <emphasis effect="bold">soft water</emphasis>. If water has a high mineral content, it usually contains high levels of metal ions, mainly calcium (Ca) and magnesium (Mg). The calcium enters the water from either CaCO<sub>3</sub> (limestone or chalk) or from mineral deposits of CaSO<sub>4</sub>. The main source of magnesium is a sedimentary rock called dolomite, CaMg(CO<sub>3</sub>)<sub>2</sub>. Hard water may also contain other metals as well as bicarbonates and sulphates.</para>
+<note id="notfhsst_id362"><title> Interesting Fact </title> The simplest way to check whether water is hard or soft is to use the lather/froth test. If the water is very soft, soap will lather more easily when it is rubbed against the skin. With hard water this won't happen. Toothpaste will also not froth well in hard water.</note>
+        <para id="id336486">A <emphasis effect="bold">water softener</emphasis> works on the principle of <emphasis effect="bold">ion exchange</emphasis>. Hard water passes through a media bed, usually made of resin beads that are supersaturated with sodium. As the water passes through the beads, the hardness minerals (e.g. calcium and magnesium) attach themselves to the beads. The sodium that was originally on the beads is released into the water. When the resin becomes saturated with calcium and magnesium, it must be recharged. A salt solution is passed through the resin. The sodium replaces the calcium and magnesium and these ions are released into the waste water and discharged.</para>
+      </section>
+      <section id="uid33">
+        <title>The pH scale</title>
+        <para id="id336516">The concentration of specific ions in solution affects whether the solution is acidic or basic. You will learn about acids and bases in Grade 11. Acids and bases can be described as substances that either increase or decrease the concentration of hydrogen (H<sup>+</sup> or H<sub>3</sub>O<sup>+</sup>) ions in a solution. An acid <emphasis effect="italics">increases</emphasis> the hydrogen ion concentration in a solution, while a base <emphasis effect="italics">decreases</emphasis> the hydrogen ion concentration. <emphasis effect="bold">pH</emphasis> is used to measure whether a substance is acidic or basic (alkaline).</para>
+<definition id="fhsst_id368"><term id="termfhsst_id368"> pH </term> <meaning id="meaningfhsst_id368">
+        <para id="id336584">pH is a measure of the acidity or alkalinity of a solution. The pH scale ranges from 0 to 14. Solutions with a pH less than seven are acidic, while those with a pH greater than seven are basic (alkaline). pH 7 is considered neutral. </para>
+        </meaning></definition>
+        <para id="id336598">pH can be calculated using the following equation:</para>
+        <equation id="id336602">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>p</m:mi>
+              <m:mi>H</m:mi>
+              <m:mo>=</m:mo>
+              <m:mo>-</m:mo>
+              <m:mi>l</m:mi>
+              <m:mi>o</m:mi>
+              <m:mi>g</m:mi>
+              <m:mo>[</m:mo>
+              <m:msup>
+                <m:mi>H</m:mi>
+                <m:mo>+</m:mo>
+              </m:msup>
+              <m:mo>]</m:mo>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id336639">or</para>
+        <equation id="id336642">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>p</m:mi>
+              <m:mi>H</m:mi>
+              <m:mo>=</m:mo>
+              <m:mo>-</m:mo>
+              <m:mi>l</m:mi>
+              <m:mi>o</m:mi>
+              <m:mi>g</m:mi>
+              <m:mo>[</m:mo>
+              <m:msub>
+                <m:mi>H</m:mi>
+                <m:mn>3</m:mn>
+              </m:msub>
+              <m:msup>
+                <m:mi>O</m:mi>
+                <m:mo>+</m:mo>
+              </m:msup>
+              <m:mo>]</m:mo>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id336687">The brackets in the above equation are used to show <emphasis effect="italics">concentration</emphasis> in mol<m:math overflow="scroll"><m:mo>·</m:mo></m:math>dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:math>.</para>
+<exercise id="secfhsst_id416"><title> pH calculations </title>
+        <problem id="probfhsst_id417">
+        <para id="id336725">Calculate the pH of a solution where the concentration of hydrogen ions is <newline/> 1 <m:math overflow="scroll"><m:mo>×</m:mo></m:math> 10<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>7</m:mn></m:mrow></m:msup></m:math> mol<m:math overflow="scroll"><m:mo>·</m:mo></m:math>dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:math>.</para>
+        
+        </problem>
+        <solution id="solfhsst_id421"> <list id="listfhsst_id421" list-type="enumerated" number-style="arabic" class="stepwise">
+        
+       
+        <item> <label> Determine the concentration of hydrogen ions in mol<m:math overflow="scroll"><m:mo>·</m:mo></m:math>dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:math> </label>
+        <para id="id336828">In this example, the concentration has been given and is 1 <m:math overflow="scroll"><m:mo>×</m:mo></m:math> 10<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>7</m:mn></m:mrow></m:msup></m:math> mol<m:math overflow="scroll"><m:mo>·</m:mo></m:math>dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:math></para>
+        </item> <item> <label> Substitute this value into the pH equation and calculate the pH value </label>
+        <para id="id336876">pH = -log[H<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>+</m:mo></m:msup></m:math>]</para>
+        <para id="id336892">= -log(1 <m:math overflow="scroll"><m:mo>×</m:mo></m:math> 10<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>7</m:mn></m:mrow></m:msup></m:math>)</para>
+        <para id="id336920">= 7</para>
+</item></list>
+</solution>
+</exercise>
+<exercise id="secfhsst_id431"><title> pH calculations </title>
+        <problem id="probfhsst_id432">
+        <para id="id336936">In a solution of ethanoic acid (or acetic acid), the following equilibrium is established:</para>
+        <para id="id336942">
+CH<sub>3</sub>COOH (aq) + H<sub>2</sub>O
+          <m:math overflow="scroll">
+              <m:mo>⇌</m:mo>
+</m:math> CH<sub>3</sub>COO<sup><m:math><m:mo>-</m:mo></m:math></sup>(aq) + H<sub>3</sub>O<sup>+</sup>
+        </para>
+        <para id="id337043">The concentration of CH<sub>3</sub>COO<sup><m:math overflow="scroll"><m:mo>-</m:mo></m:math></sup> ions is found to be 0,003 mol<m:math overflow="scroll"><m:mo>·</m:mo></m:math>dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:math>. Calculate the pH of the solution.</para>
+ </problem>       
+        <solution id="solfhsst_id491"> <list id="listfhsst_id491" list-type="enumerated" number-style="arabic" class="stepwise">
+        
+       
+        <item> <label> Determine the concentration of hydrogen ions in the solution </label>
+        <para id="id337128">According to the balanced equation for this reaction, the mole ratio of CH<sub>3</sub>COO<sup><m:math overflow="scroll"><m:mo>-</m:mo></m:math></sup> ions to H<sub>3</sub>O<sup>+</sup> ions is the same, therefore the concentration of these two ions in the solution will also be the same. So, [H<sub>3</sub>O<sup>+</sup>] = 0,003 mol<m:math overflow="scroll"><m:mo>·</m:mo></m:math>dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:math>.</para>
+        </item> <item> <label> Substitute this value into the pH equation and calculate the pH value </label>
+        <para id="id337231">pH = -log[H<sub>3</sub>O<sup>+</sup>]</para>
+        <para id="id337260">= -log(0,003)</para>
+        <para id="id337263">= 2,52</para>
+ </item> </list> </solution>
+</exercise>
+        <para id="id337266">Understanding pH is very important. In living organisms, it is necessary to maintain a constant pH so that chemical reactions can occur under optimal conditions.</para>
+<note id="notfhsst_id502" type="tip">It may also be useful for calculations involving the pH scale, to know that the following equation can also be used:
+        <para id="id337278">[H<sub>3</sub>O<sup>+</sup>][OH<sup><m:math overflow="scroll"><m:mo>-</m:mo></m:math></sup>] = 1 <m:math overflow="scroll"><m:mo>×</m:mo></m:math> 10<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>14</m:mn></m:mrow></m:msup></m:math></para>
+</note>
+<note id="notfhsst_id505"><title> Interesting Fact </title> A build up of acid in the human body can be very dangerous. <emphasis effect="bold">Lactic acidosis</emphasis> is a condition caused by the buildup of lactic acid in the body. It leads to acidification of the blood (acidosis) and can make a person very ill. Some of the symptoms of lactic acidosis are deep and rapid breathing, vomiting and abdominal pain. In the fight against HIV, lactic acidosis is a problem. One of the antiretrovirals (ARV's) that is used in anti-HIV treatment is Stavudine (also known as Zerit or d4T). One of the side effects of Stavudine is lactic acidosis, particularly in overweight women. If it is not treated quickly, it can result in death.
+</note>
+        <para id="id337367">In agriculture, farmers need to know the pH of their soils so that they are able to plant the right kinds of crops. The pH of soils can vary depending on a number of factors such as rainwater, the kinds of rocks and materials from which the soil was formed and also human influences such as pollution and fertilisers. The pH of rain water can also vary and this too has an effect on agriculture, buildings, water courses, animals and plants. Rainwater is naturally acidic because carbon dioxide in the atmosphere combines with water to form carbonic acid. Unpolluted rainwater has a pH of approximately 5,6. However, human activities can alter the acidity of rain and this can cause serious problems such as acid rain.</para>
+<section id="secfhsst_id508"><title>Calculating pH         </title><list id="id337389" display="block" list-type="enumerated"><item id="uid34">Calculate the pH of each of the following solutions:
+<list id="id337404" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid35">A 0,2 mol<m:math overflow="scroll"><m:mo>·</m:mo></m:math>dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:math> KOH solution
+</item><item id="uid36">A 0,5 mol<m:math overflow="scroll"><m:mo>·</m:mo></m:math>dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:math> HCl solution
+</item></list><link window="new" class="fullmarks" resource="http://www.fhsst.org/l34">Click here for the solution</link>
+</item>
+          <item id="uid37">What is the concentration (in mol<m:math overflow="scroll"><m:mo>·</m:mo></m:math>dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:math>) of H<sub>3</sub>O<sup>+</sup> ions in a NaOH solution which has a pH of 12?
+<newline/><link window="new" class="fullmarks" resource="http://www.fhsst.org/l32">Click here for the solution</link>
+</item>
+          <item id="uid38">The concentrations of hydronium (H<sub>3</sub>O<sup>+</sup>) and hydroxyl (OH<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>-</m:mo></m:msup></m:math>) ions in a typical sample of seawater are 10<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>8</m:mn></m:mrow></m:msup></m:math> mol<m:math overflow="scroll"><m:mo>·</m:mo></m:math>dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:math> and 10<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>6</m:mn></m:mrow></m:msup></m:math> mol<m:math overflow="scroll"><m:mo>·</m:mo></m:math>dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:math> respectively.
+<list id="id337638" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid39">Is the seawater acidic or basic?
+</item><item id="uid40">What is the pH of the seawater?
+</item><item id="uid41">Give a possible explanation for the pH of the seawater.
+</item>
+</list>
+(IEB Paper 2, 2002)
+<newline/><link window="new" class="fullmarks" resource="http://www.fhsst.org/l3T">Click here for the solution</link>
+</item>
+        </list>
+        
+</section><para id="eip-179">The following simulation allows you to test the pH of various substances.
+<figure id="id63458"><media id="id63458_media" alt="">
+            <image mime-type="image/png" src="../../media/ph_scale.png" id="id63458_onlineimage" width="200"><!-- NOTE: attribute width changes image size online (pixels). original width is 	149. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/ph_scale.eps" id="id63458_printimage"/>
+            </media>
+            </figure>
+<link class="phetsim" window="new" url="http://phet.colorado.edu/sims/ph-scale/ph-scale_en.jnlp">run demo</link></para>
+      </section>
+      <section id="uid42"><title>Acid rain</title><para id="id337702">The acidity of rainwater comes from the natural presence of three substances (CO<sub>2</sub>, NO, and SO<sub>2</sub>) in the lowest layer of the atmosphere. These gases are able to dissolve in water and therefore make rain more acidic than it would otherwise be. Of these gases, carbon dioxide (CO<sub>2</sub>) has the highest concentration and therefore contributes the most to the natural acidity of rainwater. We will look at each of these gases in turn.</para>
+<definition id="fhsst_id531"><term id="termfhsst_id531"> Acid rain </term> <meaning id="meaningfhsst_id531">
+        <para id="id337754">Acid rain refers to the deposition of acidic components in rain, snow and dew. Acid rain occurs when sulphur dioxide and nitrogen oxides are emitted into the atmosphere, undergo chemical transformations and are absorbed by water droplets in clouds. The droplets then fall to earth as rain, snow, mist, dry dust, hail, or sleet. This increases the acidity of the soil and affects the chemical balance of lakes and streams. </para>
+        </meaning></definition>
+        <list id="id337769" display="block" list-type="enumerated"><item id="uid43"><emphasis effect="bold">Carbon dioxide</emphasis>
+Carbon dioxide reacts with water in the atmosphere to form <emphasis effect="bold">carbonic acid</emphasis> (H<sub>2</sub>CO<sub>3</sub>).
+<newline/>CO<sub>2</sub> + H<sub>2</sub>O <m:math><m:mo>→</m:mo></m:math> H<sub>2</sub>CO<sub>3</sub><newline/>
+The carbonic acid dissociates to form hydrogen and hydrogen carbonate ions. It is the presence of hydrogen ions that lowers the pH of the solution making the rain acidic.
+<newline/>H<sub>2</sub>CO<sub>3</sub><m:math><m:mo>→</m:mo></m:math>H<sup>+</sup> + HCO<sub>3</sub><sup><m:math><m:mo>-</m:mo></m:math></sup></item>
+          <item id="uid44"><emphasis effect="bold">Nitric oxide</emphasis>
+Nitric oxide (NO) also contributes to the natural acidity of rainwater and is formed during lightning storms when nitrogen and oxygen react. In air, NO is oxidised to form nitrogen dioxide (NO<sub>2</sub>). It is the nitrogen dioxide which then reacts with water in the atmosphere to form <emphasis effect="bold">nitric acid</emphasis> (HNO<sub>3</sub>).
+<newline/>3NO<sub>2</sub>(g) + H<sub>2</sub>O<m:math><m:mo>→</m:mo></m:math>2HNO<sub>3</sub>(aq) + NO(g)<newline/>
+The nitric acid dissociates in water to produce hydrogen ions and nitrate ions. This again lowers the pH of the solution making it acidic.
+<newline/>HNO<sub>3</sub><m:math overflow="scroll"><m:mo>→</m:mo></m:math> H<sup>+</sup> + NO<sub>3</sub><sup><m:math><m:mo>-</m:mo></m:math></sup></item>
+          <item id="uid45"><emphasis effect="bold">Sulphur dioxide</emphasis>
+Sulphur dioxide in the atmosphere first reacts with oxygen to form sulphur trioxide, before reacting with water to form <emphasis effect="bold">sulphuric acid</emphasis>.
+<newline/>2SO<sub>2</sub> + O<sub>2</sub><m:math overflow="scroll"><m:mo>→</m:mo></m:math> 2SO<sub>3</sub>
+<newline/>SO<sub>3</sub> + H<sub>2</sub>O<m:math overflow="scroll"> <m:mo>→</m:mo></m:math> H<sub>2</sub>SO<sub>4</sub>
+<newline/>Sulphuric acid dissociates in a similar way to the previous reactions.
+<newline/>H<sub>2</sub>SO<sub>4</sub><m:math overflow="scroll"><m:mo>→</m:mo></m:math> HSO<sub>4</sub><sup><m:math><m:mo>-</m:mo></m:math></sup> + H<sup>+</sup></item>
+        </list>
+        <para id="id338300">Although these reactions do take place naturally, human activities can greatly increase the concentration of these gases in the atmosphere, so that rain becomes far more acidic than it would otherwise be. The burning of fossil fuels in industries, vehicles etc is one of the biggest culprits. If the acidity of the rain drops to below 5, it is referred to as <emphasis effect="bold">acid rain</emphasis>.</para>
+        <para id="id338311">Acid rain can have a very damaging effect on the environment. In rivers, dams and lakes, increased acidity can mean that some species of animals and plants will not survive. Acid rain can also degrade soil minerals, producing metal ions that are washed into water systems. Some of these ions may be toxic e.g. Al<sup>3+</sup>. From an economic perspective, altered soil pH can drastically affect agricultural productivity.</para>
+        <para id="id338337">Acid rain can also affect buildings and monuments, many of which are made from marble and limestone. A chemical reaction takes place between CaCO<sub>3</sub> (limestone) and sulphuric acid to produce aqueous ions which can be easily washed away. The same reaction can occur in the lithosphere where limestone rocks are present e.g. limestone caves can be eroded by acidic rainwater.</para>
+<para id="uid098231">H<sub>2</sub>SO<sub>4</sub> + CaCO<sub>3</sub>
+              <m:math><m:mo>→</m:mo></m:math>
+CaSO<sub>4</sub><m:math>
+              <m:mo>.</m:mo></m:math>
+H<sub>2</sub>O + CO<sub>2</sub>
+</para>
+<section id="secfhsst_id597"><title> Investigation : Acid rain
+        </title>
+        <para id="id338453">You are going to test the effect of 'acid rain' on a number of substances.</para>
+        <para id="id338460">
+          <emphasis effect="italics">Materials needed:</emphasis>
+        </para>
+        
+        <para id="id338476">samples of chalk, marble, zinc, iron, lead, dilute sulphuric acid, test tubes, beaker, glass dropper</para>
+        <para id="id338480">
+          <emphasis effect="italics">Method:</emphasis>
+        </para>
+        
+        <list id="id338496" display="block" list-type="enumerated">
+          <item id="uid46">Place a small sample of each of the following substances in a separate test tube: chalk, marble, zinc, iron and lead
+</item>
+          <item id="uid47">To each test tube, add a few drops of dilute sulphuric acid.
+</item>
+          <item id="uid48">Observe what happens and record your results.
+</item>
+        </list>
+        <para id="id338539">
+          <emphasis effect="italics">Discussion questions:</emphasis>
+        </para>
+        <list id="id338545" display="block" list-type="bulleted">
+          <item id="uid49">In which of the test tubes did reactions take place? What happened to the sample substances?
+</item>
+          <item id="uid50">What do your results tell you about the effect that acid rain could have on each of the following: buildings, soils, rocks and geology, water ecosystems?
+</item>
+          <item id="uid51">What precautions could be taken to reduce the potential impact of acid rain?
+</item>
+        </list>
+        
+</section>
+      </section>
+    </section>
+
+  </content>
+</document>

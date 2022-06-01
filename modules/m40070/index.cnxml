@@ -1,0 +1,649 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Total internal reflection</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m40070</md:content-id>
+  <md:title>Total internal reflection</md:title>
+  <md:abstract/>
+  <md:uuid>fe21429b-f166-4a0a-8a41-84c05a83b265</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid7">
+      <title>Total Internal Reflection and Fibre Optics</title>
+      <section id="uid160">
+        <title>Total Internal Reflection</title>
+<section id="secfhsst_id1993"><title> Investigation : Total Internal Reflection </title>
+        <para id="id187702">Work in groups of four. Each group will need a raybox (or torch) with slit, triangular glass prism and protractor. If you do not have a raybox, use a torch and stick two pieces of tape over the lens so that only a thin beam of light is visible.</para>
+        <para id="id187709">
+          <emphasis effect="bold">Aim:</emphasis>
+        </para>
+        <para id="id187718">To investigate total internal reflection.</para>
+        <para id="id187724">
+          <emphasis effect="bold">Method:</emphasis>
+        </para>
+        <list id="id187733" display="block" list-type="enumerated">
+          <item id="uid161">Place the raybox next to the glass block so that the light shines right through without any refraction. See "Position 1" in diagram.
+<figure id="id187753"><media id="id187753_media" alt=""><image mime-type="image/png" src="../../media/PG10C6_041.png" id="id187753_onlineimage" width="321"><!-- NOTE: attribute width changes image size online (pixels). original width is 321. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_041.eps" id="id187753_printimage"/></media></figure></item>
+          <item id="uid162">Move the raybox such that the light is refracted by the glass. See "Position 2".
+<figure id="id187776"><media id="id187776_media" alt=""><image mime-type="image/png" src="../../media/PG10C6_042.png" id="id187776_onlineimage" width="252"><!-- NOTE: attribute width changes image size online (pixels). original width is 252. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_042.eps" id="id187776_printimage"/></media></figure></item>
+          <item id="uid163">Move the raybox further and observe what happens.
+
+<figure id="id187800"><media id="id187800_media" alt=""><image mime-type="image/png" src="../../media/PG10C6_043.png" id="id187800_onlineimage" width="286"><!-- NOTE: attribute width changes image size online (pixels). original width is 286. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_043.eps" id="id187800_printimage"/></media></figure></item>
+          <item id="uid164">Move the raybox until the refracted ray seems to disappear. See "Position 4". The angle of the incident light is called the critical angle.
+
+<figure id="id187826"><media id="id187826_media" alt=""><image mime-type="image/png" src="../../media/PG10C6_044.png" id="id187826_onlineimage" width="273"><!-- NOTE: attribute width changes image size online (pixels). original width is 273. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_044.eps" id="id187826_printimage"/></media></figure></item>
+          <item id="uid165">Move the raybox further and observe what happens. See "Position 5". The light shines back into the glass block. This is called total internal reflection.
+<figure id="id187849"><media id="id187849_media" alt=""><image mime-type="image/png" src="../../media/PG10C6_045.png" id="id187849_onlineimage" width="299"><!-- NOTE: attribute width changes image size online (pixels). original width is 299. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_045.eps" id="id187849_printimage"/></media></figure></item>
+        </list>
+        
+</section>
+        <para id="id187866">When we increase the angle of incidence, we reach a point where the angle of refraction is 90<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> and the refracted ray runs along the surface of the medium. This angle of incidence is called the critical angle.</para>
+<definition id="fhsst_id2019"><term id="termfhsst_id2019"> Critical Angle </term> <meaning id="meaningfhsst_id2019">
+        <para id="id187891">The critical angle is the angle of incidence where the angle of reflection is 90<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>. The light must shine from a dense to a less dense medium. </para>
+        </meaning></definition>
+        <para id="id187917">If the angle of incidence is bigger than this critical angle, the refracted ray will not emerge from the medium, but will be reflected back into the medium. This is called total internal reflection.</para>
+        <para id="id187922">Total internal reflection takes place when</para>
+        <list id="id187926" display="block" list-type="bulleted">
+          <item id="uid166">light shines from an optically denser medium to an optically less dense medium.
+</item>
+          <item id="uid167">the angle of incidence is greater than the critical angle.
+</item>
+        </list>
+<definition id="fhsst_id2030"><term id="termfhsst_id2030"> Total Internal Reflection </term> <meaning id="meaningfhsst_id2030">
+        <para id="id187961">Total internal reflection takes place when light is reflected back into the medium because the angle of incidence is greater than the critical angle. </para>
+        </meaning></definition>
+        <figure id="uid168">
+          <media id="uid168_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C6_046.png" id="uid168_onlineimage" width="281"><!-- NOTE: attribute width changes image size online (pixels). original width is 281. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_046.eps" id="uid168_printimage"/>
+          </media>
+          <caption>Diagrams to show the critical angle and total internal reflection.</caption>
+        </figure>
+        <para id="id187986">Each medium has its own unique critical angle. For example, the critical angle for glass is 42<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>, and that of water is 48,8<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>. We can calculate the critical angle for any medium.</para>
+        <section id="uid169">
+          <title>Calculating the Critical Angle</title>
+          <para id="id188027">Now we shall learn how to derive the value of the critical angle for two given media. The process is fairly simple and involves just the use of Snell's Law that we have already studied. To recap, Snell's Law states:</para>
+          <equation id="id188032">
+            <m:math overflow="scroll" mode="display">
+              <m:mrow>
+                <m:msub>
+                  <m:mi>n</m:mi>
+                  <m:mn>1</m:mn>
+                </m:msub>
+                <m:mo form="prefix">sin</m:mo>
+                <m:msub>
+                  <m:mi>θ</m:mi>
+                  <m:mn>1</m:mn>
+                </m:msub>
+                <m:mo>=</m:mo>
+                <m:msub>
+                  <m:mi>n</m:mi>
+                  <m:mn>2</m:mn>
+                </m:msub>
+                <m:mo form="prefix">sin</m:mo>
+                <m:msub>
+                  <m:mi>θ</m:mi>
+                  <m:mn>2</m:mn>
+                </m:msub>
+              </m:mrow>
+            </m:math>
+          </equation>
+          <para id="id188083">where <m:math overflow="scroll"><m:msub><m:mi>n</m:mi><m:mn>1</m:mn></m:msub></m:math> is the refractive index of material 1, <m:math overflow="scroll"><m:msub><m:mi>n</m:mi><m:mn>2</m:mn></m:msub></m:math> is the refractive index of material 2, <m:math overflow="scroll"><m:msub><m:mi>θ</m:mi><m:mn>1</m:mn></m:msub></m:math> is the angle of incidence and <m:math overflow="scroll"><m:msub><m:mi>θ</m:mi><m:mn>2</m:mn></m:msub></m:math> is the angle of refraction. For total internal reflection we know that the angle of incidence is the critical angle. So,</para>
+          <equation id="id188148">
+            <m:math overflow="scroll" mode="display">
+              <m:mrow>
+                <m:msub>
+                  <m:mi>θ</m:mi>
+                  <m:mn>1</m:mn>
+                </m:msub>
+                <m:mo>=</m:mo>
+                <m:msub>
+                  <m:mi>θ</m:mi>
+                  <m:mi>c</m:mi>
+                </m:msub>
+                <m:mo>.</m:mo>
+              </m:mrow>
+            </m:math>
+          </equation>
+          <para id="id188177">However, we also know that the angle of refraction at the critical angle is 90<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>. So we have:</para>
+          <equation id="id188197">
+            <m:math overflow="scroll" mode="display">
+              <m:mrow>
+                <m:msub>
+                  <m:mi>θ</m:mi>
+                  <m:mn>2</m:mn>
+                </m:msub>
+                <m:mo>=</m:mo>
+                <m:msup>
+                  <m:mn>90</m:mn>
+                  <m:mo>∘</m:mo>
+                </m:msup>
+                <m:mo>.</m:mo>
+              </m:mrow>
+            </m:math>
+          </equation>
+          <para id="id188226">We can then write Snell's Law as:</para>
+          <equation id="id188232">
+            <m:math overflow="scroll" mode="display">
+              <m:mrow>
+                <m:msub>
+                  <m:mi>n</m:mi>
+                  <m:mn>1</m:mn>
+                </m:msub>
+                <m:mo form="prefix">sin</m:mo>
+                <m:msub>
+                  <m:mi>θ</m:mi>
+                  <m:mi>c</m:mi>
+                </m:msub>
+                <m:mo>=</m:mo>
+                <m:msub>
+                  <m:mi>n</m:mi>
+                  <m:mn>2</m:mn>
+                </m:msub>
+                <m:mo form="prefix">sin</m:mo>
+                <m:msup>
+                  <m:mn>90</m:mn>
+                  <m:mo>∘</m:mo>
+                </m:msup>
+              </m:mrow>
+            </m:math>
+          </equation>
+          <para id="id188283">Solving for <m:math overflow="scroll"><m:msub><m:mi>θ</m:mi><m:mi>c</m:mi></m:msub></m:math> gives:</para>
+          <equation id="id188304">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>n</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:msub>
+                      <m:mo form="prefix">sin</m:mo>
+                      <m:msub>
+                        <m:mi>θ</m:mi>
+                        <m:mi>c</m:mi>
+                      </m:msub>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>n</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msub>
+                      <m:mo form="prefix">sin</m:mo>
+                      <m:msup>
+                        <m:mn>90</m:mn>
+                        <m:mo>∘</m:mo>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mo form="prefix">sin</m:mo>
+                      <m:msub>
+                        <m:mi>θ</m:mi>
+                        <m:mi>c</m:mi>
+                      </m:msub>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:msub>
+                          <m:mi>n</m:mi>
+                          <m:mn>2</m:mn>
+                        </m:msub>
+                        <m:msub>
+                          <m:mi>n</m:mi>
+                          <m:mn>1</m:mn>
+                        </m:msub>
+                      </m:mfrac>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mn>1</m:mn>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mo>∴</m:mo>
+                      <m:msub>
+                        <m:mi>θ</m:mi>
+                        <m:mi>c</m:mi>
+                      </m:msub>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:msup>
+                        <m:mo form="prefix">sin</m:mo>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mfrac>
+                          <m:msub>
+                            <m:mi>n</m:mi>
+                            <m:mn>2</m:mn>
+                          </m:msub>
+                          <m:msub>
+                            <m:mi>n</m:mi>
+                            <m:mn>1</m:mn>
+                          </m:msub>
+                        </m:mfrac>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+<note id="notfhsst_id2239" type="tip">Take care that for total internal reflection the incident ray is always in the denser medium.</note>
+<para id="eip-635"><figure id="circuits-2" class="khanacademy">
+	  <title>Khan academy video on refraction - 1</title>
+	  <media id="yt-media2" display="block" alt="video on refraction 1">
+	  <flash id="yt-video2" mime-type="application/x-shockwave-flash" src="http://www.youtube.com/v/WRuatAcd2WY&amp;rel=0" width="425" height="344">
+	  <param name="allowscriptaccess" value="always"/>
+	  <param name="allowsfullscreen" value="true"/>
+	  </flash>
+	  </media>
+	  </figure></para><exercise id="secfhsst_id2240"><title> Critical Angle 1 </title>
+          <problem id="probfhsst_id2241">
+          <para id="id188495">Given that the refractive indices of air and water are 1 and 1,33, respectively, find the critical angle. </para>
+          </problem>
+          <solution id="solfhsst_id2244"> <list id="listfhsst_id2244" list-type="enumerated" number-style="arabic" class="stepwise">
+          <item> <label> Determine how to approach the problem </label>
+          <para id="id188520">We know that the critical angle is given by:</para>
+          <equation id="id188524">
+            <m:math overflow="scroll" mode="display">
+              <m:mrow>
+                <m:msub>
+                  <m:mi>θ</m:mi>
+                  <m:mi>c</m:mi>
+                </m:msub>
+                <m:mo>=</m:mo>
+                <m:msup>
+                  <m:mo form="prefix">sin</m:mo>
+                  <m:mrow>
+                    <m:mo>-</m:mo>
+                    <m:mn>1</m:mn>
+                  </m:mrow>
+                </m:msup>
+                <m:mrow>
+                  <m:mo>(</m:mo>
+                  <m:mfrac>
+                    <m:msub>
+                      <m:mi>n</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                    <m:msub>
+                      <m:mi>n</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:msub>
+                  </m:mfrac>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+              </m:mrow>
+            </m:math>
+          </equation>
+          </item> <item> <label> Solve the problem </label>
+          <equation id="id188583">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:msub>
+                      <m:mi>θ</m:mi>
+                      <m:mi>c</m:mi>
+                    </m:msub>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:msup>
+                        <m:mo form="prefix">sin</m:mo>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mfrac>
+                          <m:msub>
+                            <m:mi>n</m:mi>
+                            <m:mn>2</m:mn>
+                          </m:msub>
+                          <m:msub>
+                            <m:mi>n</m:mi>
+                            <m:mn>1</m:mn>
+                          </m:msub>
+                        </m:mfrac>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:msup>
+                        <m:mo form="prefix">sin</m:mo>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mfrac>
+                          <m:mn>1</m:mn>
+                          <m:mrow>
+                            <m:mn>1</m:mn>
+                            <m:mo>,</m:mo>
+                            <m:mn>33</m:mn>
+                          </m:mrow>
+                        </m:mfrac>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>48</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:msup>
+                        <m:mn>8</m:mn>
+                        <m:mo>∘</m:mo>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          </item> <item> <label> Write the final answer </label>
+          <para id="id188715">The critical angle for light travelling from water to air is <m:math overflow="scroll"><m:mrow><m:mn>48</m:mn><m:mo>,</m:mo><m:msup><m:mn>8</m:mn><m:mo>∘</m:mo></m:msup></m:mrow></m:math>.
+ </para>
+          </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id2372"><title> Critical Angle 2 </title>
+          <problem id="probfhsst_id2373">
+          <para id="id188763">Complete the following ray diagrams to show the path of light in each situation.</para>
+          <para id="id188769">
+            <figure id="id188770">
+              <media id="id188770_media" alt="">
+                <image mime-type="image/png" src="../../media/PG10C6_047.png" id="id188770_onlineimage" width="137"><!-- NOTE: attribute width changes image size online (pixels). original width is 137. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_047.eps" id="id188770_printimage"/>
+              </media>
+            </figure>
+          </para>
+          <para id="id188777">
+            <figure id="id188778">
+              <media id="id188778_media" alt="">
+                <image mime-type="image/png" src="../../media/PG10C6_048.png" id="id188778_onlineimage" width="138"><!-- NOTE: attribute width changes image size online (pixels). original width is 138. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_048.eps" id="id188778_printimage"/>
+              </media>
+            </figure>
+          </para>
+          <para id="id188785">
+            <figure id="id188786">
+              <media id="id188786_media" alt="">
+                <image mime-type="image/png" src="../../media/PG10C6_049.png" id="id188786_onlineimage" width="137"><!-- NOTE: attribute width changes image size online (pixels). original width is 137. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_049.eps" id="id188786_printimage"/>
+              </media>
+            </figure>
+          </para>
+          <para id="id188792"><figure id="id188794"><media id="id188794_media" alt=""><image mime-type="image/png" src="../../media/PG10C6_050.png" id="id188794_onlineimage" width="138"><!-- NOTE: attribute width changes image size online (pixels). original width is 138. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_050.eps" id="id188794_printimage"/></media></figure>
+ </para>
+          </problem>
+          <solution id="solfhsst_id2402"> <list id="listfhsst_id2402" list-type="enumerated" number-style="arabic" class="stepwise">
+          <item> <label> Identify what is given and what is asked </label>
+          <para id="id188820">The critical angle for water is <m:math overflow="scroll"><m:mrow><m:mn>48</m:mn><m:mo>,</m:mo><m:msup><m:mn>8</m:mn><m:mo>∘</m:mo></m:msup></m:mrow></m:math>.</para>
+          <para id="id188843">We are asked to complete the diagrams.</para>
+          <para id="id188849">For incident angles smaller than <m:math overflow="scroll"><m:mrow><m:mn>48</m:mn><m:mo>,</m:mo><m:msup><m:mn>8</m:mn><m:mo>∘</m:mo></m:msup></m:mrow></m:math> refraction will occur.</para>
+          <para id="id188875">For incident angles greater than <m:math overflow="scroll"><m:mrow><m:mn>48</m:mn><m:mo>,</m:mo><m:msup><m:mn>8</m:mn><m:mo>∘</m:mo></m:msup></m:mrow></m:math> total internal reflection will occur.</para>
+          <para id="id188901">For incident angles equal to <m:math overflow="scroll"><m:mrow><m:mn>48</m:mn><m:mo>,</m:mo><m:msup><m:mn>8</m:mn><m:mo>∘</m:mo></m:msup></m:mrow></m:math> refraction will occur at <m:math overflow="scroll"><m:msup><m:mn>90</m:mn><m:mo>∘</m:mo></m:msup></m:math>.</para>
+          <para id="id188940">The light must travel from a high optical density to a lower one.</para>
+          </item> <item> <label> Complete the diagrams </label>
+          <para id="id188950">
+            <figure id="id188951">
+              <media id="id188951_media" alt="">
+                <image mime-type="image/png" src="../../media/PG10C6_051.png" id="id188951_onlineimage" width="235"><!-- NOTE: attribute width changes image size online (pixels). original width is 235. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_051.eps" id="id188951_printimage"/>
+              </media>
+            </figure>
+          </para>
+          <para id="id188957">Refraction occurs (ray is bent away from the normal)</para>
+          <para id="id188961">
+            <figure id="id188962">
+              <media id="id188962_media" alt="">
+                <image mime-type="image/png" src="../../media/PG10C6_052.png" id="id188962_onlineimage" width="230"><!-- NOTE: attribute width changes image size online (pixels). original width is 230. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_052.eps" id="id188962_printimage"/>
+              </media>
+            </figure>
+          </para>
+          <para id="id188969">Total internal reflection occurs</para>
+          <para id="id188972">
+            <figure id="id188974">
+              <media id="id188974_media" alt="">
+                <image mime-type="image/png" src="../../media/PG10C6_053.png" id="id188974_onlineimage" width="230"><!-- NOTE: attribute width changes image size online (pixels). original width is 230. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_053.eps" id="id188974_printimage"/>
+              </media>
+            </figure>
+          </para>
+          <para id="id188980">
+            <m:math overflow="scroll">
+              <m:mrow>
+                <m:msub>
+                  <m:mi>θ</m:mi>
+                  <m:mi>c</m:mi>
+                </m:msub>
+                <m:mo>=</m:mo>
+                <m:mn>48</m:mn>
+                <m:mo>,</m:mo>
+                <m:msup>
+                  <m:mn>8</m:mn>
+                  <m:mo>∘</m:mo>
+                </m:msup>
+              </m:mrow>
+            </m:math>
+          </para>
+          <para id="id189011">
+            <figure id="id189012">
+              <media id="id189012_media" alt="">
+                <image mime-type="image/png" src="../../media/PG10C6_054.png" id="id189012_onlineimage" width="237"><!-- NOTE: attribute width changes image size online (pixels). original width is 237. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_054.eps" id="id189012_printimage"/>
+              </media>
+            </figure>
+          </para>
+          <para id="id189018">Refraction towards the normal (air is less dense than water)
+ </para>
+          </item> </list> </solution>
+</exercise>
+        </section>
+      </section>
+      <section id="uid170">
+        <title>Fibre Optics</title>
+        <para id="id189044">Total internal reflection is a powerful tool since it can be used to confine light. One of the most common applications of total internal reflection is in <emphasis effect="italics">fibre optics</emphasis>. An optical fibre is a thin, transparent fibre, usually made of glass or plastic, for transmitting light. Optical fibres are
+usually thinner than a human hair! The construction of a single optical fibre is shown in <link target-id="uid171"/>.</para>
+        <para id="id189062">The basic functional structure of an optical fibre consists of an outer protective <emphasis effect="italics">cladding</emphasis> and an <emphasis effect="italics">inner core</emphasis> through which light pulses travel. The overall diameter of the fibre is about 125 <m:math overflow="scroll"><m:mi>μ</m:mi></m:math>m (<m:math overflow="scroll"><m:mrow><m:mn>125</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>6</m:mn></m:mrow></m:msup><m:mspace width="0.166667em"/><m:mi mathvariant="normal">m</m:mi></m:mrow></m:math>) and that of the core is just about 50 <m:math overflow="scroll"><m:mi>μ</m:mi></m:math>m (<m:math overflow="scroll"><m:mrow><m:mn>10</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>6</m:mn></m:mrow></m:msup><m:mspace width="0.166667em"/><m:mi mathvariant="normal">m</m:mi></m:mrow></m:math>). The mode of operation of the optical fibres, as mentioned above, depends on the phenomenon of total internal reflection. The difference in refractive index of the cladding and the core allows total internal reflection in the same way as happens at an air-water surface. If light is incident on a cable end with an angle of incidence greater than the critical angle then the light will remain trapped inside the glass strand. In this way, light travels very quickly down the length of the cable.</para>
+        <figure id="uid171">
+          <media id="uid171_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C6_055.png" id="uid171_onlineimage" width="228"><!-- NOTE: attribute width changes image size online (pixels). original width is 228. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_055.eps" id="uid171_printimage"/>
+          </media>
+          <caption>Structure of a single optical fibre.</caption>
+        </figure>
+        <section id="uid172">
+          <title>Fibre Optics in Telecommunications</title>
+          <para id="id189188">Optical fibres are most common in telecommunications, because information can be transported over long distances, with minimal loss of data. The minimised loss of data gives optical fibres an advantage over conventional cables.</para>
+          <para id="id189194">Data is transmitted from one end of the fibre to another in the form of laser pulses. A single strand is capable of handling over 3000 simultaneous transmissions which is a huge improvement over the conventional co-axial cables. Multiple signal transmission is achieved by sending individual light pulses at slightly different angles. For example if one of the pulses makes a 72,23<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> angle of incidence then a separate pulse can be sent at an angle of 72,26<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>! The transmitted data is received almost instantaneously at the other end of the cable since the information coded onto the laser travels at the speed of light! During transmission over long distances <emphasis effect="italics">repeater stations</emphasis> are used to amplify the signal which has weakened somewhat by the time it reaches the station. The amplified signals are then relayed towards their destination and may encounter several other repeater stations on the way.</para>
+        </section>
+        <section id="uid173">
+          <title>Fibre Optics in Medicine</title>
+          <para id="id189247">Optic fibres are used in medicine in <emphasis effect="italics">endoscopes</emphasis>.</para>
+<note id="notfhsst_id2488"><title> Interesting Fact </title>
+          <para id="id189262">Endoscopy means <emphasis effect="italics">to look inside</emphasis> and refers to looking inside the human body for diagnosing medical conditions.</para>
+</note>
+          <para id="id189280">The main part of an endoscope is the optical fibre. Light is shone down the optical fibre and a medical doctor can use the endoscope to look inside a patient. Endoscopes are used to examine the inside of a patient's stomach, by inserting the endoscope down the patient's throat.</para>
+          <para id="id189285">Endoscopes allow minimally invasive surgery. This means that a person can be diagnosed and treated through a small incision. This has advantages over open surgery because endoscopy is quicker and cheaper and the patient recovers more quickly. The alternative is open surgery which is expensive, requires more time and is more traumatic for the patient.</para>
+<section id="secfhsst_id2493"><title> Total Internal Reflection and Fibre Optics </title>
+          <list id="id189299" display="block" list-type="enumerated"><item id="uid174">Describe total internal reflection, referring to the conditions that must be satisfied for total internal reflection to occur.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYB">Click here for the solution.</link>
+</item>
+            <item id="uid175">Define what is meant by the <emphasis effect="italics">critical angle</emphasis> when referring to total internal reflection. Include a ray diagram to explain the concept.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYk">Click here for the solution.</link>
+</item>
+            <item id="uid176">Will light travelling from diamond to silicon ever undergo total internal reflection?<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYk">Click here for the solution.</link>
+</item>
+            <item id="uid177">Will light travelling from sapphire to diamond undergo total internal reflection?<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lY0">Click here for the solution.</link>
+</item>
+            <item id="uid178">What is the critical angle for light traveling from air to acetone?<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lY8">Click here for the solution.</link>
+</item>
+            <item id="uid179">Light traveling from diamond to water strikes the interface with an angle of incidence of 86<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>. Calculate the critical angle to determine whether the light be totally internally reflected and so be trapped within the water.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lY9">Click here for the solution.</link>
+</item>
+            <item id="uid180">Which of the following interfaces will have the largest critical angle?
+<list id="id189412" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid181">a glass to water interface
+</item><item id="uid182">a diamond to water interface
+</item><item id="uid183">a diamond to glass interface
+</item></list><link class="fullmarks" window="new" url="http://www.fhsst.org/lYX">Click here for the solution.</link></item>
+            <item id="uid184">If the fibre optic strand is made from glass, determine the critical angle of the light ray so that the ray stays within the fibre optic strand.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYI">Click here for the solution.</link>
+</item>
+            <item id="uid185">A glass slab is inserted in a tank of water. If the refractive index of water is 1,33 and that of glass is 1,5, find the critical angle.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lY5">Click here for the solution.</link>
+</item>
+            <item id="uid186">A diamond ring is placed in a container full of glycerin. If the critical angle is found to be 37,4<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> and the refractive index of glycerin is given to be 1,47, find the refractive index of diamond.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYN">Click here for the solution.</link>
+</item>
+            <item id="uid187">An optical fibre is made up of a core of refractive index 1,9, while the refractive index of the cladding is 1,5. Calculate the maximum angle which a light pulse can make with the wall of the core. NOTE: The question does not ask for the angle of incidence but for the angle made by the ray with the wall of the core, which will be equal to 90<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>- angle of incidence.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYR">Click here for the solution.</link>
+</item>
+          </list>
+          
+</section>
+        </section>
+      </section>
+    </section>
+    <para id="eip-619"><figure id="slidesharefigure" class="slideshare">
+    	<media id="slidesharemedia" alt="Powerpoint presentation on electric circuits">
+    	<flash id="slideshareflash" height="355" width="425" mime-type="application/x-shockwave- flash" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=lightg10-100511072123-phpapp01&amp;stripped_title=light-g10&amp;userName=kwarne">
+    	<param name="allowScriptAccess" value="always"/>
+    	<param name="allowFullScreen" value="true"/>
+    	</flash>
+    	</media>
+    	</figure></para><section id="cid8">
+      <title>Summary</title>
+      <list id="id189554" display="block" list-type="enumerated">
+        <item id="uid188">We can see objects when light from the objects enters our eyes.
+</item>
+        <item id="uid189">Light rays are thin imaginary lines of light and are indicated in drawings by means of arrows.
+</item>
+        <item id="uid190">Light travels in straight lines. Light can therefore not travel around corners. Shadows are formed because light shines in straight lines.
+</item>
+        <item id="uid191">Light rays reflect off surfaces. The incident ray shines in on the surface and the reflected ray is the one that bounces off the surface. The surface normal is the perpendicular line to the surface where the light strikes the surface.
+</item>
+        <item id="uid192">The angle of incidence is the angle between the incident ray and the surface, and the angle of reflection is the angle between the reflected ray and the surface.
+</item>
+        <item id="uid193">The Law of Reflection states the angle of incidence is equal to the angle of reflection and that the reflected ray lies in the plane of incidence.
+</item>
+        <item id="uid194">Specular reflection takes place when parallel rays fall on a surface and they leave the object as parallel rays. Diffuse reflection takes place when parallel rays are reflected in different directions.
+</item>
+        <item id="uid195">Refraction is the bending of light when it travels from one medium to another. Light travels at different speeds in different media.
+</item>
+        <item id="uid196">The refractive index of a medium is a measure of how easily light travels through the medium. It is a ratio of the speed of light in a vacuum to the speed of light in the medium.
+<m:math overflow="scroll"><m:mrow><m:mi>n</m:mi><m:mo>=</m:mo><m:mfrac><m:mi>c</m:mi><m:mi>v</m:mi></m:mfrac></m:mrow></m:math></item>
+        <item id="uid197">Snell's Law gives the relationship between the refractive indices, angles of incidence and reflection of two media.
+<m:math overflow="scroll"><m:mrow><m:msub><m:mi>n</m:mi><m:mn>1</m:mn></m:msub><m:mo form="prefix">sin</m:mo><m:msub><m:mi>θ</m:mi><m:mn>1</m:mn></m:msub><m:mo>=</m:mo><m:msub><m:mi>n</m:mi><m:mn>2</m:mn></m:msub><m:mo form="prefix">sin</m:mo><m:msub><m:mi>θ</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math></item>
+        <item id="uid198">Light travelling from one medium to another of lighter optical density will be refracted towards the normal.
+Light travelling from one medium to another of lower optical density will be refracted away from the normal.
+</item>
+        <item id="uid199">Objects in a medium (e.g. under water) appear closer to the surface than they really are. This is due to the refraction of light, and the refractive index of the medium.
+<m:math overflow="scroll"><m:mrow><m:mi>n</m:mi><m:mo>=</m:mo><m:mfrac><m:mrow><m:mi> real </m:mi><m:mi> depth </m:mi></m:mrow><m:mrow><m:mi> apparent </m:mi><m:mi> depth </m:mi></m:mrow></m:mfrac></m:mrow></m:math></item>
+        <item id="uid200">Mirrors are highly reflective surfaces. Flat mirrors are called plane mirrors. Curved mirrors can be convex or concave. The properties of the images formed by mirrors are summarised in Table 3.2.
+</item>
+        <item id="uid201">A real image can be cast on a screen, is inverted and in front of the mirror.
+A virtual image cannot be cast on a screen, is upright and behind the mirror.
+</item>
+        <item id="uid202">The magnification of a mirror is how many times the image is bigger or smaller than the object.
+<m:math overflow="scroll"><m:mrow><m:mi>m</m:mi><m:mo>=</m:mo><m:mfrac><m:mrow><m:mrow><m:mi> image </m:mi><m:mi> height </m:mi></m:mrow><m:mo>(</m:mo><m:msub><m:mi mathvariant="normal">h</m:mi><m:mi mathvariant="normal">i</m:mi></m:msub><m:mo>)</m:mo></m:mrow><m:mrow><m:mrow><m:mi> object </m:mi><m:mi> height </m:mi></m:mrow><m:mo>(</m:mo><m:msub><m:mi mathvariant="normal">h</m:mi><m:mn>0</m:mn></m:msub><m:mo>)</m:mo></m:mrow></m:mfrac></m:mrow></m:math></item>
+        <item id="uid203">The critical angle of a medium is the angle of incidence when the angle of refraction is <m:math overflow="scroll"><m:msup><m:mn>90</m:mn><m:mo>∘</m:mo></m:msup></m:math> and the refracted ray runs along the interface between the two media.
+</item>
+        <item id="uid204">Total internal reflection takes place when light travels from one medium to another of lower optical density. If the angle of incidence is greater than the critical angle for the medium, the light will be reflected back into the medium. No refraction takes place.
+</item>
+        <item id="uid205">Total internal reflection is used in optical fibres in telecommunication and in medicine in endoscopes. Optical fibres transmit information much more quickly and accurately than traditional methods.
+</item>
+      </list>
+    </section>
+    <section id="cid9">
+      <title>Exercises</title>
+      <list id="id189998" display="block" list-type="enumerated"><item id="uid206">Give one word for each of the following descriptions:
+<list id="id190014" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid207">The image that is formed by a plane mirror.
+</item><item id="uid208">The perpendicular line that is drawn at right angles to a reflecting surface at the point of incidence.
+</item><item id="uid209">The bending of light as it travels from one medium to another.
+</item><item id="uid210">The ray of light that falls in on an object.
+</item><item id="uid211">A type of mirror that focuses all rays behind the mirror.
+</item></list><link class="fullmarks" window="new" url="http://www.fhsst.org/lYn">Click here for the solution.</link></item>
+        <item id="uid212">State whether the following statements are TRUE or FALSE. If they are false, rewrite the statement correcting it.
+<list id="id190094" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid213">The refractive index of a medium is an indication of how fast light will travel through the medium.
+</item><item id="uid214">Total internal refraction takes place when the incident angle is larger than the critical angle.
+</item><item id="uid215">The magnification of an object can be calculated if the speed of light in a vacuum and the speed of light in the medium is known.
+</item><item id="uid216">The speed of light in a vacuum is about <m:math overflow="scroll"><m:mrow><m:mn>3</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>8</m:mn></m:msup></m:mrow></m:math> m.s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>.
+</item><item id="uid217">Specular reflection takes place when light is reflected off a rough surface.
+</item></list><link class="fullmarks" window="new" url="http://www.fhsst.org/lYQ">Click here for the solution.</link></item>
+        <item id="uid218">Choose words from Column B to match the concept/description in Column A. All the appropriate words should be identified. Words can be used more than once.
+<table id="id190211" summary=""><tgroup cols="3"><tbody><row><entry/><entry><emphasis effect="underline">Column A</emphasis></entry><entry><emphasis effect="underline">Column B</emphasis></entry></row><row><entry>(a)</entry><entry>Real image</entry><entry>Upright</entry></row><row><entry>(b)</entry><entry>Virtual image</entry><entry>Can be cast on a screen</entry></row><row><entry>(c)</entry><entry>Concave mirror</entry><entry>In front</entry></row><row><entry>(d)</entry><entry>Convex mirror</entry><entry>Behind</entry></row><row><entry>(e)</entry><entry>Plane mirror</entry><entry>Inverted</entry></row><row><entry/><entry/><entry>Light travels to it</entry></row><row><entry/><entry/><entry>Upside down</entry></row><row><entry/><entry/><entry>Light does not reach it</entry></row><row><entry/><entry/><entry>Erect</entry></row><row><entry/><entry/><entry>Same size</entry></row></tbody></tgroup></table><newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYU">Click here for the solution.</link></item>
+        <item id="uid219">Complete the following ray diagrams to show the path of light.
+<figure id="id190421"><media id="id190421_media" alt=""><image mime-type="image/png" src="../../media/PG10C6_056.png" id="id190421_onlineimage" width="100"><!-- NOTE: attribute width changes image size online (pixels). original width is 100. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_056.eps" id="id190421_printimage"/></media></figure><figure id="id190427"><media id="id190427_media" alt=""><image mime-type="image/png" src="../../media/PG10C6_057.png" id="id190427_onlineimage" width="100"><!-- NOTE: attribute width changes image size online (pixels). original width is 100. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_057.eps" id="id190427_printimage"/></media></figure><figure id="id190434"><media id="id190434_media" alt=""><image mime-type="image/png" src="../../media/PG10C6_058.png" id="id190434_onlineimage" width="100"><!-- NOTE: attribute width changes image size online (pixels). original width is 100. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_058.eps" id="id190434_printimage"/></media></figure><figure id="id190441"><media id="id190441_media" alt=""><image mime-type="image/png" src="../../media/PG10C6_059.png" id="id190441_onlineimage" width="100"><!-- NOTE: attribute width changes image size online (pixels). original width is 100. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_059.eps" id="id190441_printimage"/></media></figure><figure id="id190447"><media id="id190447_media" alt=""><image mime-type="image/png" src="../../media/PG10C6_060.png" id="id190447_onlineimage" width="100"><!-- NOTE: attribute width changes image size online (pixels). original width is 100. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_060.eps" id="id190447_printimage"/></media></figure><figure id="id190454"><media id="id190454_media" alt=""><image mime-type="image/png" src="../../media/PG10C6_061.png" id="id190454_onlineimage" width="100"><!-- NOTE: attribute width changes image size online (pixels). original width is 100. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_061.eps" id="id190454_printimage"/></media></figure><link class="fullmarks" window="new" url="http://www.fhsst.org/lYP">Click here for the solution.</link></item>
+        <item id="uid220">A ray of light strikes a surface at 35<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> to the surface normal. Draw a ray diagram showing the incident ray, reflected ray and surface normal. Calculate the angles of incidence and reflection and fill them in on your diagram.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYE">Click here for the solution.</link>
+</item>
+        <item id="uid221">Light travels from glass (n = 1,5) to acetone (n = 1,36). The angle of incidence is 25<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>.
+<list id="id190514" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid222">Describe the path of light as it moves into the acetone.
+</item><item id="uid223">Calculate the angle of refraction.
+</item><item id="uid224">What happens to the speed of the light as it moves from the glass to the acetone?
+</item><item id="uid225">What happens to the wavelength of the light as it moves into the acetone?
+</item><item id="uid226">What is the name of the phenomenon that occurs at the interface between the two media?
+</item></list><newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYm">Click here for the solution.</link></item>
+        <item id="uid227">A stone lies at the bottom of a swimming pool. The water is 120 cm deep. The refractive index of water is 1,33. How deep does the stone appear to be?<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYy">Click here for the solution.</link>
+</item>
+        <item id="uid228">Light strikes the interface between air and an unknown medium with an incident angle of 32<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>. The angle of refraction is measured to be 48<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>. Calculate the refractive index of the medium and identify the medium.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYV">Click here for the solution.</link>
+</item>
+        <item id="uid229">Explain what total internal reflection is and how it is used in medicine and telecommunications. Why is this technology much better to use?<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYp">Click here for the solution.</link>
+</item>
+        <item id="uid230">A candle 10 cm high is placed 25 cm in front of a plane mirror. Draw a ray diagram to show how the image is formed. Include all labels and write down the properties of the image.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYd">Click here for the solution.</link>
+</item>
+        <item id="uid231">A virtual image, 4 cm high, is formed 3 cm from a plane mirror. Draw a labelled ray diagram to show the position and height of the object. What is the magnification?<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYv">Click here for the solution.</link>
+</item>
+        <item id="uid232">An object, 3 cm high, is placed 4 cm from a concave mirror of focal length 2 cm. Draw a labelled ray diagram to find the position, height and properties of the image.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYw">Click here for the solution.</link>
+</item>
+      </list>
+    </section>
+  </content>
+</document>

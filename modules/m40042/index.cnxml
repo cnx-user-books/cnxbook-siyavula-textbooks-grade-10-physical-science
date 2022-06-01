@@ -1,0 +1,147 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>The Earth's magnetic field</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m40042</md:content-id>
+  <md:title>The Earth's magnetic field</md:title>
+  <md:abstract/>
+  <md:uuid>3e9dbaf1-e12d-4077-8e19-bab3d25ff962</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid5">
+      <title>The compass and the earth's magnetic field</title>
+      <para id="id129246">A <emphasis effect="bold">compass</emphasis> is an instrument which is used to find the direction of a
+magnetic
+field. A compass consists of a small metal needle which
+is magnetised itself and which is free to turn in any direction.
+Therefore, when in the presence of a magnetic field,
+the needle is able to line up in the same direction as the field.</para>
+      <para id="id127852">
+        <figure id="id127855">
+          <media id="id127855_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C7_014.png" id="id127855_onlineimage" width="178"><!-- NOTE: attribute width changes image size online (pixels). original width is 178. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C7_014.eps" id="id127855_printimage"/>
+          </media>
+        </figure>
+      </para>
+<note id="notfhsst_id347"><title> Interesting Fact </title>
+      <para id="id127867">Lodestone, a magnetised form of iron-oxide, was found to orientate itself
+in a north-south direction if left free to rotate by suspension
+on a string or on a float in water. Lodestone was therefore used as
+an early navigational compass.</para>
+</note>
+      <para id="id128225">Compasses are mainly used in navigation to find direction on the earth.
+This works because
+the earth itself has a magnetic field which is similar to that of a bar magnet
+(see the picture below). The compass needle aligns with the earth's magnetic field
+direction and points north-south. Once you know where north is, you can
+figure out any other direction. A picture of a compass is shown below:</para>
+      <para id="id128232">
+        <figure id="id128235">
+          <media id="id128235_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C7_015.png" id="id128235_onlineimage" width="170"><!-- NOTE: attribute width changes image size online (pixels). original width is 170. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C7_015.eps" id="id128235_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id128241">Some animals can detect magnetic fields, which
+helps them orientate themselves and navigate. Animals which can do this include pigeons, bees, Monarch
+butterflies, sea turtles and certain fish.</para>
+      <section id="uid22">
+        <title>The earth's magnetic field</title>
+        <para id="id128255">In the picture below, you can see a representation of the earth's magnetic
+field which is very similar to the magnetic field of a giant bar magnet like
+the one on the right of the picture. So the earth has two sets of north poles
+and south poles: <emphasis effect="bold">geographic poles</emphasis> and <emphasis effect="bold">magnetic poles</emphasis>.</para>
+        <para id="id128272">
+          <figure id="id128275">
+            <media id="id128275_media" alt="">
+              <image mime-type="image/png" src="../../media/PG10C7_016.png" id="id128275_onlineimage" width="414"><!-- NOTE: attribute width changes image size online (pixels). original width is 414. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG10C7_016.eps" id="id128275_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id129590">The earth's magnetic field is thought to be caused by flowing liquid metals
+in the outer core which causes electric currents and a magnetic field. From the picture
+you can see that the direction of magnetic north and true north are not
+identical. The <emphasis effect="bold">geographic north pole</emphasis>, which is the point through which
+the earth's rotation axis goes, is about 11,5<sup>o</sup> away from the direction of
+the <emphasis effect="bold">magnetic north pole</emphasis> (which is where a compass will point). However,
+the magnetic poles shift slightly all the time.</para>
+        <para id="id129612">Another interesting thing to note is that if we think of the earth as a big
+bar magnet, and we know that magnetic field lines always point
+<emphasis effect="italics">from north to south</emphasis>, then the compass tells us that what we call the
+<emphasis effect="italics">magnetic north pole</emphasis> is actually the <emphasis effect="italics">south pole</emphasis> of the bar magnet!</para>
+<note id="notfhsst_id395"><title> Interesting Fact </title>
+        <para id="id129640">The direction of the earth's magnetic field flips direction about once every
+200 000 years! You can picture this as a bar magnet whose north and south pole
+periodically switch sides. The reason for this is still not fully understood.</para>
+</note>
+        <para id="id129655">The earth's magnetic field is very important for humans and other animals on earth because it stops electrically charged particles emitted by the sun from hitting the earth and us. Charged particles can also damage and cause
+interference with telecommunications (such as cell phones). The stream of charged particles (mainly protons and electrons) coming from the sun is called the solar wind. These particles spiral
+in the earth's magnetic field towards the poles. If they collide with particles in the earth's atmosphere
+they sometimes cause red or green lights or a glow in the sky which is called the aurora. This happens close to the north
+and south pole and so we cannot see the aurora from South Africa.</para><para id="eip-356">This simulation shows you the Earth's magnetic field and a compass.
+<figure id="id63458"><media id="id63458_media" alt="">
+            <image mime-type="image/png" src="../../media/earthmag1.png" id="id63458_onlineimage" width="149"><!-- NOTE: attribute width changes image size online (pixels). original width is 	149. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/earthmag1.eps" id="id63458_printimage"/>
+            </media>
+            </figure>
+<link class="phetsim" window="new" url="http://phet.colorado.edu/sims/faraday/magnet-and-compass_en.jnlp">run demo</link>
+</para>
+      </section>
+    </section>
+    <section id="cid6">
+      <title>Summary</title>
+      <list id="id129673" display="block" list-type="enumerated">
+        <item id="uid23">Magnets have two poles - North and South.
+</item>
+        <item id="uid24">Some substances can be easily magnetised.
+</item>
+        <item id="uid25">Like poles repel each other and unlike poles attract each other.
+</item>
+        <item id="uid26">The Earth also has a magnetic field.
+</item>
+        <item id="uid27">A compass can be used to find the magnetic north pole and help us find our direction.
+</item>
+      </list><para id="eip-568">This video provides a summary of the work covered in this chapter.
+<figure id="magnets-1" class="khanacademy">
+	  <title>Khan academy video on magnets</title>
+	  <media id="yt-media1" display="block" alt="video on magnets">
+	  <flash id="yt-video1" mime-type="application/x-shockwave-flash" src="http://www.youtube.com/v/8Y4JSp5U82I&amp;rel=0" width="425" height="344">
+	  <param name="allowscriptaccess" value="always"/>
+	  <param name="allowsfullscreen" value="true"/>
+	  </flash>
+	  </media>
+	  </figure></para>
+    </section>
+    <section id="cid7">
+      <title>End of chapter exercises</title>
+      <list id="id129746" display="block" list-type="enumerated"><item id="uid28">Describe what is meant by the term <emphasis effect="italics">magnetic field</emphasis>.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/llS">Click here for the solution.</link>
+</item>
+        <item id="uid29">Use words and pictures to explain why permanent magnets have a magnetic field around them. Refer to <emphasis effect="italics">domains</emphasis> in your explanation.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lia">Click here for the solution.</link>
+</item>
+        <item id="uid30">What is a magnet?<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lix">Click here for the solution.</link>
+</item>
+        <item id="uid31">What happens to the poles of a magnet if it is cut into pieces?<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lic">Click here for the solution.</link>
+</item>
+        <item id="uid32">What happens when like magnetic poles are brought close together?<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/liO">Click here for the solution.</link>
+</item>
+        <item id="uid33">What happens when unlike magnetic poles are brought close together?<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/li3">Click here for the solution.</link>
+</item>
+        <item id="uid34">Draw the shape of the magnetic field around a bar magnet.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lii">Click here for the solution.</link>
+</item>
+        <item id="uid35">Explain how a compass indicates the direction of a magnetic field.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/llu">Click here for the solution.</link>
+</item>
+        <item id="uid36">Compare the magnetic field of the Earth to the magnetic field of a bar magnet using words and diagrams.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lil">Click here for the solution.</link>
+</item>
+        <item id="uid37">Explain the difference between the geographical north pole and the magnetic north pole of the Earth.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/llh">Click here for the solution.</link>
+</item>
+        <item id="uid38">Give examples of phenomena that are affected by Earth's magnetic field.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/liJ">Click here for the solution.</link>
+</item>
+        <item id="uid39">Draw a diagram showing the magnetic field around the Earth.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/llt">Click here for the solution.</link>
+</item>
+      </list>
+    </section>
+  </content>
+</document>

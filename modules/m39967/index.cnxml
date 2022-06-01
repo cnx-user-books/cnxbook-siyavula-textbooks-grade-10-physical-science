@@ -1,0 +1,185 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Energy quantisation and electron configuration</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39967</md:content-id>
+  <md:title>Energy quantisation and electron configuration</md:title>
+  <md:abstract/>
+  <md:uuid>cd31011d-a7c5-41a8-bdfc-6e423cefb073</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid7">
+      <title>Energy quantisation and electron configuration</title>
+      <section id="uid79">
+        <title>The energy of electrons</title>
+        <para id="id259210">You will remember from our earlier discussions that an atom is made up of a central nucleus, which contains protons and neutrons and that this nucleus is surrounded by electrons. Although these electrons all have the same charge and the same mass, each electron in an atom has a different amount of <emphasis effect="italics">energy</emphasis>. Electrons that have the <emphasis effect="italics">lowest</emphasis> energy are found closest to the nucleus where the attractive force of the positively charged nucleus is the greatest. Those electrons that have <emphasis effect="italics">higher</emphasis> energy, and which are able to overcome the attractive force of the nucleus, are found further away.</para>
+      </section>
+      <section id="uid80">
+        <title>Energy quantisation and line emission spectra</title>
+        <para id="id259245">If the energy of an atom is increased (for example when a substance is heated), the energy of the electrons inside the atom can be increased (when an electron has a higher energy than normal it is said to be "excited"). For the excited electron to go back to its original energy (called the ground state), it needs to release energy. It releases energy by emitting light.
+If one heats up different elements, one will see that for each element, light is emitted only at certain frequencies (or wavelengths). Instead of a smooth continuum of frequencies, we see lines (called emission lines) at particular frequencies. These frequencies correspond to the energy of the emitted light. If electrons could be excited to any energy and lose any amount of energy, there would be a continuous spread of light frequencies emitted. However, the sharp lines we see mean that there are only certain particular energies that an electron can be excited to, or can lose, for each element.</para>
+        <para id="id259256">You can think of this like going up a flight of steps: you can't lift your foot by <emphasis effect="italics">any</emphasis> amount to go from the ground to the first step. If you lift your foot too low you'll bump into the step and be stuck on the ground level. You have to lift your foot just the right amount (the height of the step) to go to the next step, and so on. The same goes for electrons and the amount of energy they can have. This is called <emphasis effect="bold">quantisation of energy</emphasis> because there are only certain quantities of energy that an electron can have in an atom. Like steps, we can think of these quantities as <emphasis effect="bold">energy levels</emphasis> in the atom. The energy of the light released when an electron drops down from a higher energy level to a lower energy level is the same as the difference in energy between the two levels.</para>
+      </section>
+      <section id="uid81"><title>Electron configuration</title><para id="id9722401">We will start with a very simple view of the arrangement or configuration of electrons around an atom. This view simply states that electrons are arranged in energy levels (or shells) around the nucleus of an atom. These energy levels are numbered 1, 2, 3, etc. Electrons that are in the first energy level (energy level 1) are closest to the nucleus and will have the lowest energy. Electrons further away from the nucleus will have a higher energy. </para>
+<para id="id259357">In the following examples, the energy levels are shown as concentric circles around the central nucleus. The important thing to know for these diagrams is that the first energy level can hold 2 electrons, the second energy level can hold 8 electrons and the third energy level can hold 8 electrons.</para>
+        <list id="id259361" display="block" list-type="enumerated">
+          <item id="uid86"><emphasis effect="bold">Lithium</emphasis>
+Lithium (Li) has an atomic number of 3, meaning that in a neutral atom, the number of electrons will also be 3. The first two electrons are found in the first energy level, while the third electron is found in the second energy level (<link target-id="uid87"/>).
+<figure id="uid87"><media id="uid87_media" alt=""><image mime-type="image/png" src="../../media/CG10C3_005.png" id="uid87_onlineimage" width="411"><!-- NOTE: attribute width changes image size online (pixels). original width is 411. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG10C3_005.eps" id="uid87_printimage"/></media><caption>The arrangement of electrons in a lithium atom.</caption></figure></item>
+          <item id="uid88"><emphasis effect="bold">Fluorine</emphasis>
+Fluorine (F) has an atomic number of 9, meaning that a neutral atom also has 9 electrons. The first 2 electrons are found in the first energy level, while the other 7 are found in the second energy level (<link target-id="uid89"/>).
+<figure id="uid89"><media id="uid89_media" alt=""><image mime-type="image/png" src="../../media/CG10C3_006.png" id="uid89_onlineimage" width="78"><!-- NOTE: attribute width changes image size online (pixels). original width is 78. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG10C3_006.eps" id="uid89_printimage"/></media><caption>The arrangement of electrons in a fluorine atom.</caption></figure></item>
+          <item id="uid90"><emphasis effect="bold">Argon</emphasis>
+Argon has an atomic number of 18, meaning that a neutral atom also has 18 electrons. The first 2 electrons are found in the first energy level, the next 8 are found in the second energy level, and the last 8 are found in the third energy level (<link target-id="uid91"/>).
+<figure id="uid91"><media id="uid91_media" alt=""><image mime-type="image/png" src="../../media/CG10C3_007.png" id="uid91_onlineimage" width="107"><!-- NOTE: attribute width changes image size online (pixels). original width is 107. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG10C3_007.eps" id="uid91_printimage"/></media><caption>The arrangement of electrons in an argon atom.</caption></figure></item>
+        </list>
+<para id="id259478">But the situation is slightly more complicated than this. Within each energy level, the electrons move in <emphasis effect="bold">orbitals</emphasis>. An orbital defines the spaces or regions where electrons move.</para>
+<definition id="fhsst_id687"><term id="termfhsst_id687"> Atomic orbital </term> <meaning id="meaningfhsst_id687">
+        <para id="id259495">An atomic orbital is the region in which an electron may be found around a single atom.
+ </para>
+        </meaning></definition>
+        <para id="id259508">There are different orbital shapes, but we will be mainly dealing with only two. These are the 's' and 'p' orbitals (there are also 'd' and 'f' orbitals). The first energy level contains only one 's' orbital, the second energy level contains one 's' orbital and three 'p' orbitals and the third energy level contains one 's' orbital and three 'p' orbitals (as well as 5 'd' orbitals). Within each energy level, the 's' orbital is at a lower energy than the 'p' orbitals. This arrangement is shown in <link target-id="uid92"/>.</para>
+        <figure id="uid92">
+          <media id="uid92_media" alt="">
+            <image mime-type="image/png" src="../../media/CG10C3_008.png" id="uid92_onlineimage" width="513"><!-- NOTE: attribute width changes image size online (pixels). original width is 513. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG10C3_008.eps" id="uid92_printimage"/>
+          </media>
+          <caption>The positions of the first ten orbits of an atom on an energy diagram. Note that each block is able to hold two electrons.</caption>
+        </figure>
+
+        <para id="eip-752">This diagram also helps us when we are working out the electron configuration of an element. The electron configuration of an element is the arrangement of the electrons in the shells and subshells. There are a few guidelines for working out the electron configuration. These are:
+</para><list id="id259303" display="block" list-type="bulleted"><item id="uid93">Each orbital can only hold <emphasis effect="bold">two electrons</emphasis>. Electrons that occur together in an orbital are called an <emphasis effect="bold">electron pair</emphasis>.
+</item>
+          <item id="uid94">An electron will always try to enter an orbital with the lowest possible energy.
+</item>
+          <item id="uid95">An electron will occupy an orbital on its own, rather than share an orbital with another electron. An electron would also rather occupy a lower energy orbital <emphasis effect="italics">with</emphasis> another electron, before occupying a higher energy orbital. In other words, within one energy level, electrons will fill an 's' orbital before starting to fill 'p' orbitals.
+</item>
+
+          <item id="uid83">The s subshell can hold 2 electrons
+</item>
+          <item id="uid84">The p subshell can hold 6 electrons
+</item>
+</list>
+        <para id="eip-15">In the examples you will cover, you will mainly be filling the s and p subshells. Occasionally you may get an example that has the d subshell. The f subshell is more complex and is not covered at this level.
+</para>
+        
+        
+        
+        <para id="id259599">The way that electrons are arranged in an atom is called its <emphasis effect="bold">electron configuration</emphasis>.</para>
+<definition id="fhsst_id709"><term id="termfhsst_id709"> Electron configuration </term> <meaning id="meaningfhsst_id709">
+        <para id="id259615">Electron configuration is the arrangement of electrons in an atom, molecule or other physical structure. </para>
+        </meaning></definition>
+        <para id="id259628">An element's electron configuration can be represented using <emphasis effect="bold">Aufbau diagrams</emphasis> or energy level diagrams. An Aufbau diagram uses arrows to represent electrons. You can use the following steps to help you to draw an Aufbau diagram:</para>
+        <list id="id259639" display="block" list-type="enumerated">
+          <item id="uid96">Determine the number of electrons that the atom has.
+</item>
+          <item id="uid97">Fill the 's' orbital in the first energy level (the 1s orbital) with the first two electrons.
+</item>
+          <item id="uid98">Fill the 's' orbital in the second energy level (the 2s orbital) with the second two electrons.
+</item>
+          <item id="uid99">Put one electron in each of the three 'p' orbitals in the second energy level (the 2p orbitals) and then if there are still electrons remaining, go back and place a second electron in each of the 2p orbitals to complete the electron pairs.
+</item>
+          <item id="uid100">Carry on in this way through each of the successive energy levels until all the electrons have been drawn.
+</item>
+        </list>
+<note id="notfhsst_id725" type="tip">When there are two electrons in an orbital, the electrons are called an <emphasis effect="bold">electron pair</emphasis>. If the orbital only has one electron, this electron is said to be an <emphasis effect="bold">unpaired electron</emphasis>. Electron pairs are shown with arrows pointing in opposite directions. You may hear people talking of the Pauli exclusion principle. This principle says that electrons have a property known as spin and two electrons in an orbital will not spin the same way. This is why we use arrows pointing in opposite directions. An arrow pointing up denotes an electron spinning one way and an arrow pointing downwards denotes an electron spinning the other way.</note>
+        <para id="id259728">An Aufbau diagram for the element Lithium is shown in <link target-id="uid101"/>.</para>
+        <figure id="uid101">
+          <media id="uid101_media" alt="">
+            <image mime-type="image/png" src="../../media/CG10C3_009.png" id="uid101_onlineimage" width="44"><!-- NOTE: attribute width changes image size online (pixels). original width is 44. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG10C3_009.eps" id="uid101_printimage"/>
+          </media>
+          <caption>The electron configuration of Lithium, shown on an Aufbau diagram</caption>
+        </figure>
+        <para id="id259749">A special type of notation is used to show an atom's electron configuration. The notation describes the energy levels, orbitals and the number of electrons in each. For example, the electron configuration of lithium is 1s<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>2</m:mn></m:msup></m:math> 2s<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>1</m:mn></m:msup></m:math>. The number and letter describe the energy level and orbital and the number above the orbital shows how many electrons are in that orbital.</para>
+        <para id="id259782">Aufbau diagrams for the elements fluorine and argon are shown in <link target-id="uid102"/> and <link target-id="uid103"/> respectively. Using standard notation, the electron configuration of fluorine is 1s<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>2</m:mn></m:msup></m:math> 2s<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>2</m:mn></m:msup></m:math> 2p<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>5</m:mn></m:msup></m:math> and the electron configuration of argon is 1s<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>2</m:mn></m:msup></m:math> 2s<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>2</m:mn></m:msup></m:math> 2p<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>6</m:mn></m:msup></m:math> 3s<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>2</m:mn></m:msup></m:math> 3p<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>6</m:mn></m:msup></m:math>.</para>
+        <figure id="uid102">
+          <media id="uid102_media" alt="">
+            <image mime-type="image/png" src="../../media/CG10C3_010.png" id="uid102_onlineimage" width="381"><!-- NOTE: attribute width changes image size online (pixels). original width is 381. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG10C3_010.eps" id="uid102_printimage"/>
+          </media>
+          <caption>An Aufbau diagram showing the electron configuration of fluorine</caption>
+        </figure>
+        <figure id="uid103">
+          <media id="uid103_media" alt="">
+            <image mime-type="image/png" src="../../media/CG10C3_011.png" id="uid103_onlineimage" width="324"><!-- NOTE: attribute width changes image size online (pixels). original width is 324. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG10C3_011.eps" id="uid103_printimage"/>
+          </media>
+          <caption>An Aufbau diagram showing the electron configuration of argon</caption>
+        </figure>
+      </section>
+      <section id="uid104">
+        <title>Core and valence electrons</title>
+        <para id="id259935">Electrons in the outermost energy level of an atom are called <emphasis effect="bold">valence electrons</emphasis>. The electrons that are in the energy shells closer to the nucleus are called <emphasis effect="bold">core electrons</emphasis>. Core electrons are all the electrons in an atom, excluding the valence electrons. An element that has its valence energy level full is <emphasis effect="italics">more stable</emphasis> and <emphasis effect="italics">less likely to react</emphasis> than other elements with a valence energy level that is not full.</para>
+<definition id="fhsst_id755"><term id="termfhsst_id755"> Valence electrons </term> <meaning id="meaningfhsst_id755">
+        <para id="id259971">The electrons in the outer energy level of an atom </para>
+        </meaning></definition>
+<definition id="fhsst_id758"><term id="termfhsst_id758"> Core electrons </term> <meaning id="meaningfhsst_id758">
+        <para id="id259989">All the electrons in an atom, excluding the valence electrons </para>
+        </meaning></definition>
+      </section>
+      <section id="uid105">
+        <title>The importance of understanding electron configuration</title>
+        <para id="id260011">By this stage, you may well be wondering why it is important for you to understand how electrons are arranged around the nucleus of an atom. Remember that during chemical reactions, when atoms come into contact with one another, it is the <emphasis effect="italics">electrons</emphasis> of these atoms that will interact first. More specifically, it is the <emphasis effect="bold">valence electrons</emphasis> of the atoms that will determine how they react with one another.</para>
+        <para id="id260029">To take this a step further, an atom is at its most stable (and therefore <emphasis effect="italics">unreactive</emphasis>) when all its orbitals are full. On the other hand, an atom is least stable (and therefore most <emphasis effect="italics">reactive</emphasis>) when its valence electron orbitals are not full. This will make more sense when we go on to look at chemical bonding in a later chapter. To put it simply, the valence electrons are largely responsible for an element's chemical behaviour and elements that have the same number of valence electrons often have similar chemical properties.</para>
+<para id="eip-106">One final point to note about electron configurations is stability. Which configurations are stable and which are not? Very simply, the most stable configurations are the ones that have full energy levels. These configurations occur in the noble gases. The noble gases are very stable elements that do not react easily (if at all) with any other elements. This is due to the full energy levels. All elements would like to reach the most stable electron configurations, i.e. all elements want to be noble gases.</para><section id="secfhsst_id766"><title> Energy diagrams and electrons
+        </title>
+        <list id="id260063" display="block" list-type="enumerated"><item id="uid106">Draw Aufbau diagrams to show the electron configuration of each of the following elements:
+<list id="id260079" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid107">magnesium
+</item><item id="uid108">potassium
+</item><item id="uid109">sulphur
+</item><item id="uid110">neon
+</item><item id="uid111">nitrogen
+</item></list></item>
+          <item id="uid112">Use the Aufbau diagrams you drew to help you complete the following table:
+<table id="id260157" summary=""><tgroup cols="5"><tbody><row><entry><emphasis effect="bold">Element</emphasis></entry><entry><emphasis effect="bold">No. of energy levels</emphasis></entry><entry><emphasis effect="bold">No. of core electrons</emphasis></entry><entry><emphasis effect="bold">No. of valence electrons</emphasis></entry><entry><emphasis effect="bold">Electron configuration (standard notation)</emphasis></entry></row><row><entry>Mg</entry><entry/><entry/><entry/><entry/></row><row><entry>K</entry><entry/><entry/><entry/><entry/></row><row><entry>S</entry><entry/><entry/><entry/><entry/></row><row><entry>Ne</entry><entry/><entry/><entry/><entry/></row><row><entry>N</entry><entry/><entry/><entry/><entry/></row></tbody></tgroup></table></item>
+          <item id="uid113">Rank the elements used above in order of <emphasis effect="italics">increasing reactivity</emphasis>. Give reasons for the order you give.
+<link class="fullmarks" window="new" resource="http://www.fhsst.org/ll2"> Click here for the answer</link></item>
+        </list>
+        
+</section>
+<section id="secfhsst_id783"><title> Group work : Building a model of an atom
+        </title>
+        <para id="id260472">Earlier in this chapter, we talked about different 'models' of the atom. In science, one of the uses of models is that they can help us to understand the structure of something that we can't see. In the case of the atom, models help us to build a picture in our heads of what the atom looks like.</para>
+        <para id="id260480">Models are often simplified. The small toy cars that you may have played with as a child are models. They give you a good idea of what a real car looks like, but they are much smaller and much simpler. A model cannot always be absolutely accurate and it is important that we realise this so that we don't build up a false idea about something.</para>
+        <para id="id260488">In groups of 4-5, you are going to build a model of an atom. Before you start, think about these questions:</para>
+        <list id="id260495" display="block" list-type="bulleted">
+          <item id="uid114">What information do I know about the structure of the atom? (e.g. what parts make it up? how big is it?)
+</item>
+          <item id="uid115">What materials can I use to represent these parts of the atom as accurately as I can?
+</item>
+          <item id="uid116">How will I put all these different parts together in my model?
+</item>
+        </list>
+        <para id="id260537">As a group, share your ideas and then plan how you will build your model. Once you have built your model, discuss the following questions:</para>
+        <list id="id260542" display="block" list-type="bulleted">
+          <item id="uid117">Does our model give a good idea of what the atom actually looks like?
+</item>
+          <item id="uid118">In what ways is our model <emphasis effect="italics">inaccurate</emphasis>? For example, we know that electrons <emphasis effect="italics">move</emphasis> around the atom's nucleus, but in your model, it might not have been possible for you to show this.
+</item>
+          <item id="uid119">Are there any ways in which our model could be improved?
+</item>
+        </list>
+        <para id="id260596">Now look at what other groups have done. Discuss the same questions for each of the models you see and record your answers. </para>
+</section>
+      </section><para id="eip-816">The following simulation allows you to build an atom<newline/><link class="phetsim" window="new" url="http://phet.colorado.edu/sims/build-an-atom/build-an-atom_en.jnlp">run demo</link>
+<figure id="uid10312">
+          <media id="uid10312_media" alt="">
+            <image mime-type="image/png" src="../../media/atom1.png" id="uid10312_onlineimage" width="324"><!-- NOTE: attribute width changes image size online (pixels). original width is 324. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/atom1.eps" id="uid10312_printimage"/>
+          </media>
+          <caption>Build an atom simulation</caption>
+        </figure>
+</para><para id="eip-583">This is another simulation that allows you to build an atom. This simulation also provides a summary of what you have learnt so far. <newline/>
+<link window="new" resource="http://scratch.mit.edu/projects/beckerr/867623"> Run demo</link>
+<figure id="uid10321">
+          <media id="uid10321_media" alt="">
+            <image mime-type="image/png" src="../../media/atom2.png" id="uid10321_onlineimage" width="324"><!-- NOTE: attribute width changes image size online (pixels). original width is 324. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/atom2.eps" id="uid10321_printimage"/>
+          </media>
+          <caption>Build an atom simulation 2</caption>
+        </figure></para>
+    </section>
+
+  </content>
+</document>

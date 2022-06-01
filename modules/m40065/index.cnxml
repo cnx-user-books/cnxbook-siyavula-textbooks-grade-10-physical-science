@@ -1,0 +1,1213 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Refraction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m40065</md:content-id>
+  <md:title>Refraction</md:title>
+  <md:abstract/>
+  <md:uuid>961bc08b-3097-47bc-a93e-c2bcf5153067</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid5">
+      <title>Refraction</title>
+      <para id="id180671">In the previous sections we studied light reflecting off various surfaces. What happens when light passes <emphasis effect="italics">through</emphasis> a medium? The speed of light, like that of all waves, is dependent on the medium in which it is travelling. When light moves from one medium into another (for example, from air to glass), the speed of light changes. The effect is that the light ray passing into a new medium is <emphasis effect="bold">refracted</emphasis>, or bent. Refraction is therefore the bending of light as it moves from one optical medium to another.</para>
+<definition id="fhsst_id366"><term id="termfhsst_id366"> Refraction </term> <meaning id="meaningfhsst_id366">
+      <para id="id180696">Refraction is the bending of light that occurs because light travels at different speeds in different materials. </para>
+      </meaning></definition>
+      <para id="id180709">When light travels from one medium to another, it will be bent away from its original path. When it travels from an optically dense medium like water or glass to a less dense medium like air, it will be refracted away from the normal (<link target-id="uid53"/>). Whereas, if it travels from a less dense medium to a denser one, it will be refracted towards the normal (<link target-id="uid54"/>).</para>
+      <figure id="uid53">
+        <media id="uid53_media" alt="">
+          <image mime-type="image/png" src="../../media/PG10C6_016.png" id="uid53_onlineimage" width="352"><!-- NOTE: attribute width changes image size online (pixels). original width is 352. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_016.eps" id="uid53_printimage"/>
+        </media>
+        <caption>Light is moving from an optically dense medium to an optically less dense medium. Light is refracted away from the normal.</caption>
+      </figure>
+      <figure id="uid54">
+        <media id="uid54_media" alt="">
+          <image mime-type="image/png" src="../../media/PG10C6_017.png" id="uid54_onlineimage" width="348"><!-- NOTE: attribute width changes image size online (pixels). original width is 348. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_017.eps" id="uid54_printimage"/>
+        </media>
+        <caption>Light is moving from an optically less dense medium to an optically denser medium. Light is refracted towards the normal.</caption>
+      </figure>
+      <para id="id180750">Just as we defined an angle of reflection in the previous section, we can similarly define an angle of refraction as the angle between the surface normal and the refracted ray. This is shown in <link target-id="uid55"/>.</para>
+      <figure id="uid55" orient="vertical">
+        <subfigure id="id180783">
+          <media id="id180783_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C6_018.png" id="id180783_onlineimage" width="129"><!-- NOTE: attribute width changes image size online (pixels). original width is 129. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_018.eps" id="id180783_printimage"/>
+          </media>
+        </subfigure>
+        <subfigure id="id180790">
+          <media id="id180790_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C6_019.png" id="id180790_onlineimage" width="129"><!-- NOTE: attribute width changes image size online (pixels). original width is 129. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_019.eps" id="id180790_printimage"/>
+          </media>
+        </subfigure>
+        <caption>Light moving from one medium to another bends towards or away from the surface normal. The angle of refraction <m:math overflow="scroll"><m:mi>θ</m:mi></m:math> is shown.</caption>
+      </figure>
+      <section id="uid56">
+        <title>Refractive Index</title>
+        <para id="id180806">Which is easier to travel through, air or water? People usually travel faster through air. So does light! The speed of light and therefore the degree of bending of the light depends on the <emphasis effect="italics">refractive index</emphasis> of material through which the light passes. The refractive index (symbol <m:math overflow="scroll"><m:mi>n</m:mi></m:math>) is the ratio of the speed of light in a vacuum to its speed in the material.</para>
+<definition id="fhsst_id403"><term id="termfhsst_id403"> Refractive Index </term> <meaning id="meaningfhsst_id403">
+        <para id="id180834">The refractive index of a material is the ratio of the speed of light in a vacuum to its speed in the medium. </para>
+        </meaning></definition>
+<note id="notfhsst_id406"><title> Interesting Fact </title>
+        <para id="id180852">The symbol <m:math overflow="scroll"><m:mi>c</m:mi></m:math> is used to represent the speed of light in a vacuum.</para>
+        <equation id="id180868">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>c</m:mi>
+              <m:mo>=</m:mo>
+              <m:mn>299</m:mn>
+              <m:mspace width="0.277778em"/>
+              <m:mn>792</m:mn>
+              <m:mspace width="0.277778em"/>
+              <m:mn>485</m:mn>
+              <m:mspace width="0.166667em"/>
+              <m:mi mathvariant="normal">m</m:mi>
+              <m:mo>·</m:mo>
+              <m:msup>
+                <m:mi mathvariant="normal">s</m:mi>
+                <m:mrow>
+                  <m:mo>-</m:mo>
+                  <m:mn>1</m:mn>
+                </m:mrow>
+              </m:msup>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id180917">For purposes of calculation, we use <m:math overflow="scroll"><m:mrow><m:mn>3</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>8</m:mn></m:msup><m:mspace width="0.166667em"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:msup><m:mi mathvariant="normal">s</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math>. A vacuum is a region with no matter in it, not even air. However, the speed of light in air is very close to that in a vacuum.</para>
+</note>
+<definition id="fhsst_id433"><term id="termfhsst_id433"> Refractive Index </term> <meaning id="meaningfhsst_id433">
+        <para id="id180979">The refractive index (symbol <m:math overflow="scroll"><m:mi>n</m:mi></m:math>) of a material is the ratio of the speed of light in a vacuum to its speed in the material and gives an indication of how difficult it is for light to get through the material.</para>
+        <equation id="id180996">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>n</m:mi>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mi>c</m:mi>
+                <m:mi>v</m:mi>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id181016">where</para>
+        <table id="id181019" summary="">
+          <tgroup cols="2">
+            <tbody>
+              <row>
+                <entry><m:math overflow="scroll"><m:mi>n</m:mi></m:math> =</entry>
+                <entry>refractive index (no unit)</entry>
+              </row>
+              <row>
+                <entry><m:math overflow="scroll"><m:mi>c</m:mi></m:math> =</entry>
+                <entry>speed of light in a vacuum (<m:math overflow="scroll"><m:mrow><m:mn>3</m:mn><m:mo>,</m:mo><m:mn>00</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>8</m:mn></m:msup><m:mspace width="0.166667em"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:msup><m:mi mathvariant="normal">s</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math>)</entry>
+              </row>
+              <row>
+                <entry><m:math overflow="scroll"><m:mi>v</m:mi></m:math> =</entry>
+                <entry>speed of light in a given medium (<m:math overflow="scroll"><m:mrow><m:mspace width="0.166667em"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:msup><m:mi mathvariant="normal">s</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math>)</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        
+        </meaning></definition>
+<section id="secfhsst_id468"><title> Refractive Index and Speed of Light </title>
+        <para id="id181176">Using</para>
+        <equation id="id181182">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>n</m:mi>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mi>c</m:mi>
+                <m:mi>v</m:mi>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id181203">we can also examine how the speed of light changes in different media, because the speed of light in a vacuum (<m:math overflow="scroll"><m:mi>c</m:mi></m:math>) is constant.</para>
+        <para id="id181218">If the refractive index <m:math overflow="scroll"><m:mi>n</m:mi></m:math> increases, the speed of light in the material <m:math overflow="scroll"><m:mi>v</m:mi></m:math> must decrease. Light therefore travels slowly through materials of high <m:math overflow="scroll"><m:mi>n</m:mi></m:math>. </para>
+</section>
+        <para id="id181254"><link target-id="uid57"/> shows refractive indices for various materials. Light travels slower in any material than it does in a vacuum, so all values for <m:math overflow="scroll"><m:mi>n</m:mi></m:math> are greater than 1.</para>
+        <table id="uid57" summary="">
+          <tgroup cols="2">
+            <tbody>
+              <row>
+                <entry>
+                  <emphasis effect="bold">Medium</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">Refractive Index</emphasis>
+                </entry>
+              </row>
+              <row>
+                <entry>Vacuum</entry>
+                <entry>1</entry>
+              </row>
+              <row>
+                <entry>Helium</entry>
+                <entry>1,000036</entry>
+              </row>
+              <row>
+                <entry>Air*</entry>
+                <entry>1,0002926</entry>
+              </row>
+              <row>
+                <entry>Carbon dioxide</entry>
+                <entry>1,00045</entry>
+              </row>
+              <row>
+                <entry>Water: Ice</entry>
+                <entry>1,31</entry>
+              </row>
+              <row>
+                <entry>Water: Liquid (<m:math overflow="scroll"><m:msup><m:mn>20</m:mn><m:mo>∘</m:mo></m:msup></m:math>C)</entry>
+                <entry>1,333</entry>
+              </row>
+              <row>
+                <entry>Acetone</entry>
+                <entry>1,36</entry>
+              </row>
+              <row>
+                <entry>Ethyl Alcohol (Ethanol)</entry>
+                <entry>1,36</entry>
+              </row>
+              <row>
+                <entry>Sugar solution (30%)</entry>
+                <entry>1,38</entry>
+              </row>
+              <row>
+                <entry>Fused quartz</entry>
+                <entry>1,46</entry>
+              </row>
+              <row>
+                <entry>Glycerine</entry>
+                <entry>1,4729</entry>
+              </row>
+              <row>
+                <entry>Sugar solution (80%)</entry>
+                <entry>1,49</entry>
+              </row>
+              <row>
+                <entry>Rock salt</entry>
+                <entry>1,516</entry>
+              </row>
+              <row>
+                <entry>Crown Glass</entry>
+                <entry>1,52</entry>
+              </row>
+              <row>
+                <entry>Sodium chloride</entry>
+                <entry>1,54</entry>
+              </row>
+              <row>
+                <entry>Polystyrene</entry>
+                <entry>1,55 to 1,59</entry>
+              </row>
+              <row>
+                <entry>Bromine</entry>
+                <entry>1,661</entry>
+              </row>
+              <row>
+                <entry>Sapphire</entry>
+                <entry>1,77</entry>
+              </row>
+              <row>
+                <entry>Glass (typical)</entry>
+                <entry>1,5 to 1,9</entry>
+              </row>
+              <row>
+                <entry>Cubic zirconia</entry>
+                <entry>2,15 to 2,18</entry>
+              </row>
+              <row>
+                <entry>Diamond</entry>
+                <entry>2,419</entry>
+              </row>
+              <row>
+                <entry>Silicon</entry>
+                <entry>4,01</entry>
+              </row>
+            </tbody>
+          </tgroup>
+          <caption>Refractive indices of some materials. <m:math overflow="scroll"><m:msub><m:mi>n</m:mi><m:mi> air </m:mi></m:msub></m:math> is calculated at STP.</caption>
+        </table>
+      </section>
+      <section id="uid58">
+        <title>Snell's Law</title>
+        <para id="id181781">Now that we know that the degree of bending, or the angle of refraction, is dependent on the refractive index of a medium, how do we calculate the angle of refraction?</para>
+        <para id="id181785">The angles of incidence and refraction when light travels from one medium to another can be calculated using Snell's Law.</para>
+<definition id="fhsst_id594"><term id="termfhsst_id594"> Snell's Law </term> <meaning id="meaningfhsst_id594">
+        <equation id="id181796">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mi>n</m:mi>
+                <m:mn>1</m:mn>
+              </m:msub>
+              <m:mo form="prefix">sin</m:mo>
+              <m:msub>
+                <m:mi>θ</m:mi>
+                <m:mn>1</m:mn>
+              </m:msub>
+              <m:mo>=</m:mo>
+              <m:msub>
+                <m:mi>n</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mo form="prefix">sin</m:mo>
+              <m:msub>
+                <m:mi>θ</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id181847">where</para>
+        <table id="id181851" summary="">
+          <tgroup cols="2">
+            <tbody>
+              <row>
+                <entry><m:math overflow="scroll"><m:msub><m:mi>n</m:mi><m:mn>1</m:mn></m:msub></m:math> =</entry>
+                <entry>Refractive index of material 1</entry>
+              </row>
+              <row>
+                <entry><m:math overflow="scroll"><m:msub><m:mi>n</m:mi><m:mn>2</m:mn></m:msub></m:math> =</entry>
+                <entry>Refractive index of material 2</entry>
+              </row>
+              <row>
+                <entry><m:math overflow="scroll"><m:msub><m:mi>θ</m:mi><m:mn>1</m:mn></m:msub></m:math> =</entry>
+                <entry>Angle of incidence</entry>
+              </row>
+              <row>
+                <entry><m:math overflow="scroll"><m:msub><m:mi>θ</m:mi><m:mn>2</m:mn></m:msub></m:math> =</entry>
+                <entry>Angle of refraction</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        
+        </meaning></definition>
+        <para id="id181965">Remember that angles of incidence and refraction are measured from the normal, which is an imaginary line perpendicular to the surface.</para>
+        <para id="id181969">Suppose we have two media with refractive indices <m:math overflow="scroll"><m:msub><m:mi>n</m:mi><m:mn>1</m:mn></m:msub></m:math> and <m:math overflow="scroll"><m:msub><m:mi>n</m:mi><m:mn>2</m:mn></m:msub></m:math>. A light ray is incident on the surface between these materials with an <emphasis effect="bold">angle of incidence <m:math overflow="scroll"><m:msub><m:mi>θ</m:mi><m:mn>1</m:mn></m:msub></m:math></emphasis>. The refracted ray that passes through the second medium will have an <emphasis effect="bold">angle of refraction <m:math overflow="scroll"><m:msub><m:mi>θ</m:mi><m:mn>2</m:mn></m:msub></m:math></emphasis>.</para>
+<exercise id="secfhsst_id648"><title> Using Snell's Law </title>
+        <problem id="probfhsst_id649">
+        <para id="id182053">A light ray with an angle of incidence of 35<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> passes from water to air. Find the angle of refraction using Snell's Law and <link target-id="uid57"/>. Discuss the meaning of your answer. </para>
+        </problem>
+        <solution id="solfhsst_id652"> <list id="listfhsst_id652" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Determine the refractive indices of water and air </label>
+        <para id="id182096">From <link target-id="uid57"/>, the refractive index is 1,333 for water and about 1 for air. We know the angle of incidence, so we are ready to use Snell's Law.</para>
+        </item> <item> <label> Substitute values </label>
+        <para id="id182109">According to Snell's Law:</para>
+        <equation id="id182113">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>n</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:msub>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:msub>
+                      <m:mi>θ</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>n</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:msub>
+                      <m:mi>θ</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mn>1</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>33</m:mn>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:msup>
+                      <m:mn>35</m:mn>
+                      <m:mo>∘</m:mo>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>1</m:mn>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:msub>
+                      <m:mi>θ</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:msub>
+                      <m:mi>θ</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>0</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>763</m:mn>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>θ</m:mi>
+                    <m:mn>2</m:mn>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>49</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:msup>
+                      <m:mn>7</m:mn>
+                      <m:mo>∘</m:mo>
+                    </m:msup>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mi> or </m:mi>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mn>130</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:msup>
+                      <m:mn>3</m:mn>
+                      <m:mo>∘</m:mo>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id182308">Since <m:math overflow="scroll"><m:mrow><m:mn>130</m:mn><m:mo>,</m:mo><m:msup><m:mn>3</m:mn><m:mo>∘</m:mo></m:msup></m:mrow></m:math> is larger than <m:math overflow="scroll"><m:msup><m:mn>90</m:mn><m:mo>∘</m:mo></m:msup></m:math>, the solution is:</para>
+        <equation id="id182348">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>θ</m:mi>
+                    <m:mn>2</m:mn>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>49</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:msup>
+                      <m:mn>7</m:mn>
+                      <m:mo>∘</m:mo>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        </item> <item> <label> Discuss the answer </label>
+        <para id="id182395">The light ray passes from a medium of high refractive index to one of low refractive index. Therefore, the light ray is bent away from the normal. </para>
+        </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id804"><title> Using Snell's Law </title>
+        <problem id="probfhsst_id805">
+        <para id="id182425">A light ray passes from water to diamond with an angle of incidence of <m:math overflow="scroll"><m:msup><m:mn>75</m:mn><m:mo>∘</m:mo></m:msup></m:math>. Calculate the angle of refraction. Discuss the meaning of your answer. </para>
+        </problem>
+        <solution id="solfhsst_id808"> <list id="listfhsst_id808" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Determine the refractive indices of water and air </label>
+        <para id="id182464">From <link target-id="uid57"/>, the refractive index is 1,333 for water and 2,42 for diamond. We know the angle of incidence, so we are ready to use Snell's Law.</para>
+        </item> <item> <label> Substitute values and solve </label>
+        <para id="id182477">According to Snell's Law:</para>
+        <equation id="id182480">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>n</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:msub>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:msub>
+                      <m:mi>θ</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>n</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:msub>
+                      <m:mi>θ</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mn>1</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>33</m:mn>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:msup>
+                      <m:mn>75</m:mn>
+                      <m:mo>∘</m:mo>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>2</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>42</m:mn>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:msub>
+                      <m:mi>θ</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:msub>
+                      <m:mi>θ</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>0</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>531</m:mn>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>θ</m:mi>
+                    <m:mn>2</m:mn>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>32</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:msup>
+                      <m:mn>1</m:mn>
+                      <m:mo>∘</m:mo>
+                    </m:msup>
+                    <m:mo>.</m:mo>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        </item> <item> <label> Discuss the answer </label>
+        <para id="id182664">The light ray passes from a medium of low refractive index to one of high refractive index. Therefore, the light ray is bent towards the normal. </para>
+        </item> </list> </solution>
+</exercise>
+        <para id="id182681">If</para>
+        <equation id="id182684">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mi>n</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mo>&gt;</m:mo>
+              <m:msub>
+                <m:mi>n</m:mi>
+                <m:mn>1</m:mn>
+              </m:msub>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id182711">then from Snell's Law,</para>
+        <equation id="id182717">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mo form="prefix">sin</m:mo>
+              <m:msub>
+                <m:mi>θ</m:mi>
+                <m:mn>1</m:mn>
+              </m:msub>
+              <m:mo>&gt;</m:mo>
+              <m:mo form="prefix">sin</m:mo>
+              <m:msub>
+                <m:mi>θ</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mo>.</m:mo>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id182755">For angles smaller than <m:math overflow="scroll"><m:msup><m:mn>90</m:mn><m:mo>∘</m:mo></m:msup></m:math>, <m:math overflow="scroll"><m:mrow><m:mo form="prefix">sin</m:mo><m:mi>θ</m:mi></m:mrow></m:math> increases as <m:math overflow="scroll"><m:mi>θ</m:mi></m:math> increases. Therefore,</para>
+        <equation id="id182800">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mi>θ</m:mi>
+                <m:mn>1</m:mn>
+              </m:msub>
+              <m:mo>&gt;</m:mo>
+              <m:msub>
+                <m:mi>θ</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mo>.</m:mo>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id182829">This means that the angle of incidence is greater than the angle of refraction and the light ray is bent toward the normal.</para>
+        <para id="id182836">Similarly, if</para>
+        <equation id="id182839">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mi>n</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mo>&lt;</m:mo>
+              <m:msub>
+                <m:mi>n</m:mi>
+                <m:mn>1</m:mn>
+              </m:msub>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id182867">then from Snell's Law,</para>
+        <equation id="id182872">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mo form="prefix">sin</m:mo>
+              <m:msub>
+                <m:mi>θ</m:mi>
+                <m:mn>1</m:mn>
+              </m:msub>
+              <m:mo>&lt;</m:mo>
+              <m:mo form="prefix">sin</m:mo>
+              <m:msub>
+                <m:mi>θ</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mo>.</m:mo>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id182910">For angles smaller than <m:math overflow="scroll"><m:msup><m:mn>90</m:mn><m:mo>∘</m:mo></m:msup></m:math>, <m:math overflow="scroll"><m:mrow><m:mo form="prefix">sin</m:mo><m:mi>θ</m:mi></m:mrow></m:math> increases as <m:math overflow="scroll"><m:mi>θ</m:mi></m:math> increases. Therefore,</para>
+        <equation id="id182955">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mi>θ</m:mi>
+                <m:mn>1</m:mn>
+              </m:msub>
+              <m:mo>&lt;</m:mo>
+              <m:msub>
+                <m:mi>θ</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mo>.</m:mo>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id182984">This means that the angle of incidence is less than the angle of refraction and the light ray is away toward the normal.</para>
+        <para id="id182990">Both these situations can be seen in <link target-id="uid59"/>.</para>
+        <figure id="uid59" orient="vertical">
+          <subfigure id="id183013">
+            <media id="id183013_media" alt="">
+              <image mime-type="image/png" src="../../media/PG10C6_020.png" id="id183013_onlineimage" width="172"><!-- NOTE: attribute width changes image size online (pixels). original width is 172. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_020.eps" id="id183013_printimage"/>
+            </media>
+          </subfigure>
+          <subfigure id="id183020">
+            <media id="id183020_media" alt="">
+              <image mime-type="image/png" src="../../media/PG10C6_021.png" id="id183020_onlineimage" width="171"><!-- NOTE: attribute width changes image size online (pixels). original width is 171. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_021.eps" id="id183020_printimage"/>
+            </media>
+          </subfigure>
+          <caption>Refraction of two light rays. (a) A ray travels from a medium of low refractive index to one of high refractive index. The ray is bent towards the normal. (b) A ray travels from a medium with a high refractive index to one with a low refractive index. The ray is bent away from the normal.</caption>
+        </figure>
+        <para id="id183028">What happens to a ray that lies along the normal line? In this case, the angle of incidence is <m:math overflow="scroll"><m:msup><m:mn>0</m:mn><m:mo>∘</m:mo></m:msup></m:math> and</para>
+        <equation id="id183047">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:msub>
+                      <m:mi>θ</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:msub>
+                        <m:mi>n</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:msub>
+                      <m:msub>
+                        <m:mi>n</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msub>
+                    </m:mfrac>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:msub>
+                      <m:mi>θ</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mn>0</m:mn>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo>∴</m:mo>
+                    <m:msub>
+                      <m:mi>θ</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mrow>
+                    <m:mo>=</m:mo>
+                    <m:mn>0</m:mn>
+                    <m:mo>.</m:mo>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id183148">This shows that if the light ray is incident at <m:math overflow="scroll"><m:msup><m:mn>0</m:mn><m:mo>∘</m:mo></m:msup></m:math>, then the angle of refraction is also <m:math overflow="scroll"><m:msup><m:mn>0</m:mn><m:mo>∘</m:mo></m:msup></m:math>. The ray passes through the surface unchanged, i.e. no refraction occurs.</para>
+<section id="secfhsst_id1116"><title> Investigation : Snell's Law 1 </title>
+        <para id="id183191">The angles of incidence and refraction were measured in five unknown media and recorded in the table below. Use your knowledge about Snell's Law to identify each of the unknown media A - E. Use <link target-id="uid57"/> to help you.</para>
+        <table id="id183204" summary="">
+          <tgroup cols="6">
+            <tbody>
+              <row>
+                <entry>
+                  <emphasis effect="bold">Medium 1</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">
+                    <m:math overflow="scroll">
+                      <m:msub>
+                        <m:mi>n</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:msub>
+                    </m:math>
+                  </emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">
+                    <m:math overflow="scroll">
+                      <m:msub>
+                        <m:mi>θ</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:msub>
+                    </m:math>
+                  </emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">
+                    <m:math overflow="scroll">
+                      <m:msub>
+                        <m:mi>θ</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msub>
+                    </m:math>
+                  </emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">
+                    <m:math overflow="scroll">
+                      <m:msub>
+                        <m:mi>n</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msub>
+                    </m:math>
+                  </emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">Unknown Medium</emphasis>
+                </entry>
+              </row>
+              <row>
+                <entry>Air</entry>
+                <entry>1,000036</entry>
+                <entry>38</entry>
+                <entry>11,6</entry>
+                <entry>?</entry>
+                <entry>A</entry>
+              </row>
+              <row>
+                <entry>Air</entry>
+                <entry>1,000036</entry>
+                <entry>65</entry>
+                <entry>38,4</entry>
+                <entry>?</entry>
+                <entry>B</entry>
+              </row>
+              <row>
+                <entry>Vacuum</entry>
+                <entry>1</entry>
+                <entry>44</entry>
+                <entry>0,419</entry>
+                <entry>?</entry>
+                <entry>C</entry>
+              </row>
+              <row>
+                <entry>Air</entry>
+                <entry>1,000036</entry>
+                <entry>15</entry>
+                <entry>29,3</entry>
+                <entry>?</entry>
+                <entry>D</entry>
+              </row>
+              <row>
+                <entry>Vacuum</entry>
+                <entry>1</entry>
+                <entry>20</entry>
+                <entry>36,9</entry>
+                <entry>?</entry>
+                <entry>E</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <!--empty paragraphs get left behind.-->
+        
+</section>
+<section id="secfhsst_id1215"><title> Investigation : Snell's Law 2 </title>
+        <para id="id183614">Zingi and Tumi performed an investigation to identify an unknown liquid. They shone a beam of light into the unknown liquid, varying the angle of incidence and recording the angle of refraction. Their results are recorded in the following table:</para>
+        <table id="id183621" summary="">
+          <tgroup cols="2">
+            <tbody>
+              <row>
+                <entry>Angle of Incidence</entry>
+                <entry>Angle of Refraction</entry>
+              </row>
+              <row>
+                <entry>0,0<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></entry>
+                <entry>0,00<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></entry>
+              </row>
+              <row>
+                <entry>5,0<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></entry>
+                <entry>3,76<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></entry>
+              </row>
+              <row>
+                <entry>10,0<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></entry>
+                <entry>7,50<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></entry>
+              </row>
+              <row>
+                <entry>15,0<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></entry>
+                <entry>11,2<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></entry>
+              </row>
+              <row>
+                <entry>20,0<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></entry>
+                <entry>14,9<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></entry>
+              </row>
+              <row>
+                <entry>25,0<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></entry>
+                <entry>18,5<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></entry>
+              </row>
+              <row>
+                <entry>30,0<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></entry>
+                <entry>22,1<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></entry>
+              </row>
+              <row>
+                <entry>35,0<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></entry>
+                <entry>25,5<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></entry>
+              </row>
+              <row>
+                <entry>40,0<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></entry>
+                <entry>28,9<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></entry>
+              </row>
+              <row>
+                <entry>45,0<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></entry>
+                <entry>32,1<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></entry>
+              </row>
+              <row>
+                <entry>50,0<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></entry>
+                <entry>35,2<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></entry>
+              </row>
+              <row>
+                <entry>55,0<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></entry>
+                <entry>38,0<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></entry>
+              </row>
+              <row>
+                <entry>60,0<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></entry>
+                <entry>40,6<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></entry>
+              </row>
+              <row>
+                <entry>65,0<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></entry>
+                <entry>43,0<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></entry>
+              </row>
+              <row>
+                <entry>70,0<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></entry>
+                <entry>?</entry>
+              </row>
+              <row>
+                <entry>75,0<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></entry>
+                <entry>?</entry>
+              </row>
+              <row>
+                <entry>80,0<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></entry>
+                <entry>?</entry>
+              </row>
+              <row>
+                <entry>85,0<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></entry>
+                <entry>?</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <!--empty paragraphs get left behind.-->
+        <list id="id184385" display="block" list-type="enumerated">
+          <item id="uid60">Write down an aim for the investigation.
+</item>
+          <item id="uid61">Make a list of all the apparatus they used.
+</item>
+          <item id="uid62">Identify the unknown liquid.
+</item>
+          <item id="uid63">Predict what the angle of refraction will be for 70<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>, 75<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>, 80<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> and 85<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>.
+</item>
+        </list>
+        
+</section><para id="eip-173"><figure id="snell-1" class="khanacademy">
+	  <title>Khan academy video on Snell's Law - 1</title>
+	  <media id="yt-media1" display="block" alt="video on snell 1">
+	  <flash id="yt-video1" mime-type="application/x-shockwave-flash" src="http://www.youtube.com/v/HahjsBApxLE&amp;rel=0" width="425" height="344">
+	  <param name="allowscriptaccess" value="always"/>
+	  <param name="allowsfullscreen" value="true"/>
+	  </flash>
+	  </media>
+	  </figure></para>
+      </section>
+      <section id="uid64">
+        <title>Apparent Depth</title>
+        <para id="id184511">Imagine a coin on the bottom of a shallow pool of water. If you reach for the coin, you will miss it because the light rays from the coin are refracted at the water's surface.</para>
+        <para id="id184516">Consider a light ray that travels from an underwater object to your eye. The ray is refracted at the water surface and then reaches your eye. Your eye does not know Snell's Law; it assumes light rays travel in straight lines. Your eye therefore sees the image of the at coin shallower location. This shallower location is known as the <emphasis effect="italics">apparent depth</emphasis>.</para>
+        <para id="id184528">The refractive index of a medium can also be expressed as</para>
+        <equation id="id184532"><m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>n</m:mi>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mrow>
+                  <m:mi>real depth</m:mi>
+                </m:mrow>
+                <m:mrow>
+                  <m:mi>apparent depth</m:mi>
+                </m:mrow>
+              </m:mfrac>
+              <m:mo>.</m:mo>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id184600">
+          <figure id="id184603">
+            <media id="id184603_media" alt="">
+              <image mime-type="image/png" src="../../media/PG10C6_022.png" id="id184603_onlineimage" width="269"><!-- NOTE: attribute width changes image size online (pixels). original width is 269. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_022.eps" id="id184603_printimage"/>
+            </media>
+          </figure>
+        </para>
+<exercise id="secfhsst_id1363"><title> Apparent Depth 1 </title>
+        <problem id="probfhsst_id1364">
+        <para id="id184623">A coin is placed at the bottom of a 40 cm deep pond. The refractive index for water is 1,33. How deep does the coin appear to be? </para>
+        </problem>
+        <solution id="solfhsst_id1367"> <list id="listfhsst_id1367" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Identify what is given and what is asked </label>
+        <para id="id184648">n = 1,33</para>
+        <para id="id184651">real depth = 40 cm</para>
+        <para id="id184657">apparent depth = ?</para>
+        </item> <item> <label> Substitute values and find answer </label>
+        <equation id="id184667"><m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>n</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mi>real depth</m:mi>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mi>apparent depth</m:mi>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mn>1</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>33</m:mn>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mn>40</m:mn>
+                    <m:mi>x</m:mi>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>x</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mn>40</m:mn>
+                      <m:mrow>
+                        <m:mn>1</m:mn>
+                        <m:mo>,</m:mo>
+                        <m:mn>33</m:mn>
+                      </m:mrow>
+                    </m:mfrac>
+                    <m:mo>=</m:mo>
+                    <m:mn>30</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>08</m:mn>
+                    <m:mi>c</m:mi>
+                    <m:mi>m</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id184807">The coin appears to be 30,08 cm deep. </para>
+        </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id1464"><title> Apparent Depth 2 </title>
+        <problem id="probfhsst_id1465">
+        <para id="id184837">A R1 coin appears to be 7 cm deep in a colourless liquid known to be listed in <link target-id="uid57"/>. The depth of the liquid is 10,43 cm.</para>
+        <list id="id184848" display="block" list-type="enumerated">
+          <item id="uid65">Determine the refractive index of the liquid.
+</item>
+          <item id="uid66">Identify the liquid.
+</item>
+        </list>
+        
+        </problem>
+        <solution id="solfhsst_id1475"> <list id="listfhsst_id1475" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Identify what is given and what is asked </label>
+        <para id="id184899">real depth = 7 cm</para>
+        <para id="id184902">apparent depth = 10,43 cm</para>
+        <para id="id184908"><m:math overflow="scroll"><m:mi>n</m:mi></m:math> = ?</para>
+        <para id="id184922">Identify the liquid.</para>
+        </item> <item> <label> Calculate refractive index </label>
+        <equation id="id184931"><m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>n</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mi>real depth</m:mi>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mi>apparent depth</m:mi>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mn>10</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>43</m:mn>
+                    </m:mrow>
+                    <m:mn>7</m:mn>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>1</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>49</m:mn>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        </item> <item> <label> Identify the liquid </label>
+        <para id="id185048">Use <link target-id="uid57"/>. The liquid is an 80% sugar solution. </para>
+        </item> </list> </solution>
+</exercise>
+<section id="secfhsst_id1559"><title> Refraction </title>
+        <list id="id185075" display="block" list-type="enumerated"><item id="uid67">Explain refraction in terms of a change of wave speed in different media.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYf">Click here for the solution.</link>
+</item>
+          <item id="uid68">In the diagram, label the following:
+<list id="id185103" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid69">angle of incidence
+</item><item id="uid70">angle of refraction
+</item><item id="uid71">incident ray
+</item><item id="uid72">refracted ray
+</item><item id="uid73">normal
+</item></list><figure id="id185172"><media id="id185172_media" alt=""><image mime-type="image/png" src="../../media/PG10C6_023.png" id="id185172_onlineimage" width="129"><!-- NOTE: attribute width changes image size online (pixels). original width is 129. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_023.eps" id="id185172_printimage"/></media></figure><link class="fullmarks" window="new" url="http://www.fhsst.org/lYs">Click here for the solution.</link></item>
+          <item id="uid74">What is refraction?<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYG">Click here for the solution.</link>
+</item>
+          <item id="uid75">Describe what is meant by <emphasis effect="italics">the refractive index of a medium</emphasis>.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lY7">Click here for the solution.</link>
+</item>
+          <item id="uid76">State Snell's Law.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYA">Click here for the solution.</link>
+</item>
+          <item id="uid77">In the diagram, a ray of light strikes the interface between two media.
+<figure id="id185242"><media id="id185242_media" alt=""><image mime-type="image/png" src="../../media/PG10C6_024.png" id="id185242_onlineimage" width="129"><!-- NOTE: attribute width changes image size online (pixels). original width is 129. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_024.eps" id="id185242_printimage"/></media></figure>
+Draw what the refracted ray would look like if:
+<list id="id185252" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid78">medium 1 had a higher refractive index than medium 2.
+</item><item id="uid79">medium 1 had a lower refractive index than medium 2.
+</item></list><link class="fullmarks" window="new" url="http://www.fhsst.org/lYH">Click here for the solution.</link></item>
+          <item id="uid80">Light travels from a region of glass into a region of glycerine, making an angle of incidence of 40<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>.
+<list id="id185308" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid81">Describe the path of the light as it moves into the glycerine.
+</item><item id="uid82">Calculate the angle of refraction.
+</item></list><link class="fullmarks" window="new" url="http://www.fhsst.org/lYo">Click here for the solution.</link></item>
+          <item id="uid83">A ray of light travels from silicon to water. If the ray of light in the water makes an angle of 69<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> to the surface normal, what is the angle of incidence in the silicon?<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lY6">Click here for the solution.</link>
+</item>
+          <item id="uid84">Light travels from a medium with <m:math overflow="scroll"><m:mrow><m:mi>n</m:mi><m:mo>=</m:mo><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>25</m:mn></m:mrow></m:math> into a medium of <m:math overflow="scroll"><m:mrow><m:mi>n</m:mi><m:mo>=</m:mo><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>34</m:mn></m:mrow></m:math>, at an angle of 27<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> from the interface normal.
+<list id="id185426" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid85">What happens to the speed of the light? Does it increase, decrease, or remain the same?
+</item><item id="uid86">What happens to the wavelength of the light? Does it increase, decrease, or remain the same?
+</item><item id="uid87">Does the light bend towards the normal, away from the normal, or not at all?
+</item></list><link class="fullmarks" window="new" url="http://www.fhsst.org/lYF">Click here for the solution.</link></item>
+          <item id="uid88">Light travels from a medium with <m:math overflow="scroll"><m:mrow><m:mi>n</m:mi><m:mo>=</m:mo><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>63</m:mn></m:mrow></m:math> into a medium of <m:math overflow="scroll"><m:mrow><m:mi>n</m:mi><m:mo>=</m:mo><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>42</m:mn></m:mrow></m:math>.
+<list id="id185518" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid89">What happens to the speed of the light? Does it increase, decrease, or remain the same?
+</item><item id="uid90">What happens to the wavelength of the light? Does it increase, decrease, or remain the same?
+</item><item id="uid91">Does the light bend towards the normal, away from the normal, or not at all?
+</item></list><link class="fullmarks" window="new" url="http://www.fhsst.org/lYL">Click here for the solution.</link></item>
+          <item id="uid92">Light is incident on a glass prism. The prism is surrounded by air. The angle of incidence is 23<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>. Calculate the angle of reflection and the angle of refraction.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYM">Click here for the solution.</link>
+</item>
+          <item id="uid93">Light is refracted at the interface between air and an unknown medium. If the angle of incidence is 53<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> and the angle of refraction is 37<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>, calculate the refractive index of the unknown, second medium.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYe">Click here for the solution.</link>
+</item>
+          <item id="uid94">A coin is placed in a bowl of acetone (<m:math overflow="scroll"><m:mi>n</m:mi></m:math> = 1,36). The coin appears to be 10 cm deep. What is the depth of the acetone?<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYt">Click here for the solution.</link>
+</item>
+          <item id="uid95">
+A dot is drawn on a piece of paper and a glass prism placed on the dot according to the diagram.
+<figure id="id185664"><media id="id185664_media" alt=""><image mime-type="image/png" src="../../media/PG10C6_025.png" id="id185664_onlineimage" width="151"><!-- NOTE: attribute width changes image size online (pixels). original width is 151. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_025.eps" id="id185664_printimage"/></media></figure>Use the information supplied to determine the refractive index of glass.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYu">Click here for the solution.</link></item>
+          <item id="uid98">Light is refracted at the interface between a medium of refractive index 1,5 and a second medium of refractive index 2,1. If the angle of incidence is 45<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>, calculate the angle of refraction.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYJ">Click here for the solution.</link>
+</item>
+          <item id="uid99">A ray of light strikes the interface between air and diamond. If the incident ray makes an angle of 30<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> with the interface, calculate the angle made by the refracted ray with the interface.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYS">Click here for the solution.</link>
+</item>
+          <item id="uid100"><emphasis effect="bold">Challenge Question</emphasis>: What values of <m:math overflow="scroll"><m:mi>n</m:mi></m:math> are physically impossible to achieve? Explain your answer. The values provide the limits of possible refractive indices.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYh">Click here for the solution.</link>
+</item>
+          <item id="uid101"><emphasis effect="bold">Challenge Question</emphasis>: You have been given a glass beaker full of an unknown liquid. How would you identify what the liquid is? You have the following pieces of equipment available for the experiment: a laser, a protractor, a ruler, a pencil, and a reference guide containing optical properties of various liquids.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lgq">Click here for the solution.</link>
+</item>
+        </list>
+        
+</section>
+      </section>
+    </section>
+
+  </content>
+</document>

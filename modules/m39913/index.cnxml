@@ -1,0 +1,104 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Properties of water</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39913</md:content-id>
+  <md:title>Properties of water</md:title>
+  <md:abstract/>
+  <md:uuid>76b47fd7-1ca2-4133-8f47-678a21eb7642</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid5">
+      <title>The microscopic structure of water</title>
+      <para id="id63103">In many ways, water behaves very differently from other liquids. These properties are directly related to the microscopic structure of water and more specifically to the <emphasis effect="italics">shape</emphasis> of the molecule and its <emphasis effect="italics">polar nature</emphasis> and to the <emphasis effect="italics">bonds</emphasis> that hold water molecules together.</para>
+      <section id="uid20">
+        <title>The polar nature of water</title>
+        <para id="id63131">Every water molecule is made up of one oxygen atom that is bonded to two hydrogen atoms. When atoms bond, the nucleus of each atom has an attractive force on the electrons of the other atoms. This 'pull' is stronger in some atoms than in others and is called the <emphasis effect="bold">electronegativity</emphasis> of the atom. In a water molecule, the oxygen atom has a higher electronegativty than the hydrogen atoms and therefore attracts the electrons more strongly. The result is that the oxygen atom has a slightly negative charge and the two hydrogen atoms each have a slightly positive charge. The water molecule is said to be <emphasis effect="bold">polar</emphasis> because the electrical charge is not evenly distributed in the molecule. One part of the molecule has a different charge to other parts. You will learn more about this in Grade 11.</para>
+        <figure id="uid21">
+          <media id="uid21_media" alt="">
+            <image mime-type="image/png" src="../../media/CG10C6_003.png" id="uid21_onlineimage" width="267"><!-- NOTE: attribute width changes image size online (pixels). original width is 267. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG10C6_003.eps" id="uid21_printimage"/>
+          </media>
+          <caption>Diagrams showing the structure of a water molecule. Each molecule is made up of two hydrogen atoms that are attached to one oxygen atom.</caption>
+        </figure>
+      </section>
+      <section id="uid22">
+        <title>Hydrogen bonding in water molecules</title>
+        <para id="id63174">In every water molecule, the forces that hold the individual atoms together are called 
+<emphasis effect="italics"><emphasis effect="bold">intra</emphasis></emphasis><emphasis effect="bold">molecular forces</emphasis>. But there are also forces <emphasis effect="italics">between</emphasis> different water molecules. These are called 
+<emphasis effect="italics"><emphasis effect="bold">inter</emphasis></emphasis><emphasis effect="bold">molecular forces</emphasis> (<link target-id="uid23"/>). You will learn more about these at a later stage, but for now it is enough to know that in water, molecules are held together by <emphasis effect="bold">hydrogen bonds</emphasis>. Hydrogen bonds are a much stronger type of intermolecular force than those found in many other substances and this affects the properties of water.</para>
+<note id="notfhsst_id163" type="tip">Intramolecular and intermolecular forces
+</note>
+        <para id="id63237">If you find these terms confusing, remember that 'intra' means <emphasis effect="italics">within</emphasis> (i.e. the forces within a molecule). An 
+<emphasis effect="italics"><emphasis effect="bold">intro</emphasis></emphasis><emphasis effect="italics">vert</emphasis> is someone who doesn't express emotions and feelings outwardly. They tend to be quieter and keep to themselves. 'Inter' means <emphasis effect="italics">between</emphasis> (i.e. the forces between molecules). An 
+<emphasis effect="italics"><emphasis effect="bold">inter</emphasis></emphasis><emphasis effect="italics">national</emphasis> cricket match is a match between two different countries.</para>
+        <figure id="uid23">
+          <media id="uid23_media" alt="">
+            <image mime-type="image/png" src="../../media/CG10C6_004.png" id="uid23_onlineimage" width="240"><!-- NOTE: attribute width changes image size online (pixels). original width is 240. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG10C6_004.eps" id="uid23_printimage"/>
+          </media>
+          <caption>Intermolecular and intramolecular forces in water. Note that the diagram on the left only shows <emphasis effect="italics">intermolecular</emphasis> forces. The intramolecular forces are between the atoms of each water molecule.</caption>
+        </figure>
+      </section>
+    </section>
+    <section id="cid6">
+      <title>The unique properties of water</title>
+      <para id="id63313">Because of its polar nature and the strong hydrogen bonds between its molecules, water has some special properties that are quite different to those of other substances.</para>
+      <list id="id63318" display="block" list-type="enumerated"><item id="uid24"><emphasis effect="bold">Absorption of infra-red radiation</emphasis>
+The polar nature of the water molecule means that it is able to absorb infra-red radiation (heat) from the sun. As a result of this, the oceans and other water bodies act as heat reservoirs and are able to help moderate the Earth's climate.
+</item>
+        <item id="uid25"><emphasis effect="bold">Specific heat</emphasis>
+<definition id="fhsst_id185"><term id="termfhsst_id185"> Specific heat </term> <meaning id="meaningfhsst_id185">
+Specific heat is the amount of heat energy that is needed to increase the temperature of a substance by one degree. 
+</meaning></definition><para id="uid324">Water has a high specific heat, meaning that a lot of energy must be absorbed by water before its temperature changes. Refer to <link target-id="secfhsst_id189"/> for activity. </para>
+You have probably observed this phenomenon if you have boiled water in a pot on the stove. The metal of the pot heats up very quickly, and can burn your fingers if you touch it, while the water may take several minutes before its temperature increases even slightly. How can we explain this in terms of hydrogen bonding? Remember that increasing the temperature of a substance means that its particles will move more quickly. However, before they can move faster, the bonds between them must be broken. In the case of water, these bonds are strong hydrogen bonds, and so a lot of energy is needed just to break these, before the particles can start moving faster.
+It is the high specific heat of water and its ability to absorb infra-red radiation that allows it to regulate climate. Have you noticed how places that are closer to the sea have less extreme daily temperatures than those that are inland? During the day, the oceans heat up slowly, and so the air moving from the oceans across land is cool. Land temperatures are cooler than they would be if they were further from the sea. At night, the oceans lose the heat that they have absorbed very slowly, and so sea breezes blowing across the land are relatively warm. This means that at night, coastal regions are generally slightly warmer than areas that are further from the sea.
+By contrast, places further from the sea experience higher maximum temperatures, and lower minimum temperatures. In other words, their <emphasis effect="italics">temperature range</emphasis> is higher than that for coastal regions. The same principle also applies on a <emphasis effect="italics">global</emphasis> scale. The large amount of water across Earth's surface helps to regulate temperatures by storing infra-red radiation (heat) from the sun, and then releasing it very slowly so that it never becomes too hot or too cold, and life is able to exist comfortably. In a similar way, water also helps to keep the temperature of the <emphasis effect="italics">internal</emphasis> environment of living organisms relatively constant. This is very important. In humans, for example, a change in body temperature of only a few degrees can be deadly.
+</item>
+        <item id="uid29"><emphasis effect="bold">Melting point and boiling point</emphasis>
+The melting point of water is 0<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math>C and its boiling point is 100<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math>C. This large difference between the melting and boiling point is mostly due to the strong intermolecular forces in water (hydrogen bonds) and is very important because it means that water can exist as a liquid over a large range of temperatures. The three phases of water are shown in <link target-id="uid30"/>.
+<figure id="uid30"><media id="uid30_media" alt=""><image mime-type="image/png" src="../../media/CG10C6_005.png" id="uid30_onlineimage" width="210"><!-- NOTE: attribute width changes image size online (pixels). original width is 210. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG10C6_005.eps" id="uid30_printimage"/></media><caption>Changes in phase of water</caption></figure></item>
+        <item id="uid31"><emphasis effect="bold">High heat of vaporisation</emphasis>
+<definition id="fhsst_id205"><term id="termfhsst_id205"> Heat of vaporisation </term> <meaning id="meaningfhsst_id205">
+Heat of vaporisation is the energy that is needed to change a given quantity of a substance into a gas.
+ 
+</meaning></definition>The strength of the hydrogen bonds between water molecules also means that it has a high heat of vaporisation. 'Heat of vaporisation' is the heat energy that is needed to change water from the liquid to the gas phase. Because the bonds between molecules are strong, water has to be heated to 100<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math>C before it changes phase. At this temperature, the molecules have enough energy to break the bonds that hold the molecules together. The heat of vaporisation for water is 40,65 <m:math overflow="scroll"><m:mi>kJ</m:mi><m:mo>·</m:mo><m:mi>mol</m:mi></m:math>. It is very lucky for life on earth that water does have a high heat of vaporisation. Can you imagine what a problem it would be if water's heat of vaporisation was much lower? All the water that makes up the cells in our bodies would evaporate and most of the water on earth would no longer be able to exist as a liquid!
+</item>
+        <item id="uid32"><emphasis effect="bold">Less dense solid phase</emphasis>
+Another unusual property of water is that its solid phase (ice) is <emphasis effect="italics">less dense</emphasis> than its liquid phase. You can observe this if you put ice into a glass of water. The ice doesn't sink to the bottom of the glass, but floats on top of the liquid. This phenomenon is also related to the hydrogen bonds between water molecules. While other materials contract when they solidify, water expands. The ability of ice to float as it solidifies is a very important factor in the environment. If ice sank, then eventually all ponds, lakes, and even the oceans would freeze solid as soon as temperatures dropped below freezing, making life as we know it impossible on Earth. During summer, only the upper few inches of the ocean would thaw. Instead, when a deep body of water cools, the floating ice insulates the liquid water below, preventing it from freezing and allowing life to exist under the frozen surface.
+<figure id="uid33"><media id="uid33_media" alt=""><image mime-type="image/png" src="../../media/CG10C6_006.png" id="uid33_onlineimage" width="86"><!-- NOTE: attribute width changes image size online (pixels). original width is 86. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG10C6_006.eps" id="uid33_printimage"/></media><caption>Ice cubes floating in water</caption></figure>
+<note id="notfhsst_id214"><title> Interesting Fact </title> Antarctica, the 'frozen continent', has one of the world's largest and deepest freshwater lakes. And this lake is hidden beneath 4 kilometres of ice! Lake Vostok is 200 km long and 50 km wide. The thick, glacial blanket of ice acts as an insulator, preventing the water from freezing.</note></item>
+        <item id="uid34"><emphasis effect="bold">Water as a solvent</emphasis>
+Water is also a very good solvent, meaning that it is easy for other substances to dissolve in it. It is very seldom, in fact, that we find pure water. Most of the time, the water that we drink and use has all kinds of substances dissolved in it. It is these that make water taste different in different areas. So why, then, is it important that water is such a good solvent? We will look at just a few examples.
+<list id="id63671" display="block" list-type="bulleted"><item id="uid35">
+Firstly, think about the animals and plants that live in aquatic environments such as rivers, dams or in the sea. All of these living organisms either need oxygen for respiration or carbon dioxide for photosynthesis, or both. How do they get these gases from the water in which they live? Oxygen and carbon dioxide are just two of the substances that dissolve easily in water and this is how plants and animals obtain the gases that they need to survive. Instead of being available as gases in the atmosphere, they are present in solution in the surrounding water.
+</item><item id="uid36">Secondly, consider the fact that all plants need nitrogen to grow, and that they absorb this nitrogen from compounds such as nitrates and nitrates that are present in the soil. The question remains, however, as to how these nitrates and nitrites are able to be present in the soil at all, when most of the Earth's nitrogen is in a gaseous form in the atmosphere. Part of the answer lies in the fact that nitrogen oxides, which are formed during flashes of lightning, can be dissolved in rainwater and transported into the soil in this way, to be absorbed by plants. The other part of the answer lies in the activities of nitrogen-fixing bacteria in the soil, but this is a topic that we will return to in a later section.
+</item></list></item>
+      </list>
+      <para id="id63715">It should be clear now, that water is an amazing compound and that without its unique properties, life on Earth would definitely not be possible.</para>
+<section id="secfhsst_id189"><title> Demonstration : The high specific heat of water</title>
+<list id="id63389" display="block" list-type="enumerated"><item id="uid26">Pour about 100 ml of water into a glass beaker.
+</item><item id="uid27">Place the beaker on a stand and heat it over a bunsen burner for about 2 minutes.
+</item><item id="uid28">After this time, carefully touch the side of the beaker (Make sure you touch the glass very lightly because it will be very hot and may burn you!). Then use the end of a finger to test the temperature of the water.
+</item></list>
+<para id="uid345">What do you notice? Which of the two (glass or water) is the hottest?</para> 
+</section>
+<section id="secfhsst_id224"><title>The properties of water       </title><list id="id63732" display="block" list-type="enumerated">
+        <item id="uid37">A learner returns home from school on a hot afternoon. In order to get cold water to drink, she adds ice cubes to a glass of water. She makes the following observations:
+<list id="id63748" display="block" list-type="bulleted"><item id="uid38">The ice cubes float in the water.
+</item><item id="uid39">After a while the water becomes cold and the ice cubes melt.
+</item></list><list id="id63775" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid40">What property of ice cubes allows them to float in the water?
+</item><item id="uid41">Briefly explain why the water gets cold when the ice cubes melt.
+</item><item id="uid42">Briefly describe how the property you mentioned earlier affects the survival of aquatic life during winter.
+</item></list><link window="new" class="fullmarks" resource="http://www.fhsst.org/l3E">Click here for the solution</link>
+</item>
+        <item id="uid43">Which properties of water allow it to remain in its liquid phase over a large temperature range? Explain why this is important for life on earth.
+<link window="new" class="fullmarks" resource="http://www.fhsst.org/l3m">Click here for the solution</link>
+</item>
+      </list>
+      
+</section>
+    </section>
+
+  </content>
+</document>

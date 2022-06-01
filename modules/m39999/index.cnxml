@@ -1,0 +1,103 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Giving names and formulae to substances</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39999</md:content-id>
+  <md:title>Giving names and formulae to substances</md:title>
+  <md:abstract/>
+  <md:uuid>70214414-115e-4efb-ae8d-d49690c93373</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid4">
+      <title>Giving names and formulae to substances</title>
+      <para id="id64028">It is easy to describe elements and mixtures. But how are compounds named? In the example of iron sulphide that was used earlier, which element is named first, and which 'ending' is given to the compound name (in this case, the ending is -ide)?</para>
+      <para id="id64033">The following are some guidelines for naming compounds:</para>
+      <list id="id64037" display="block" list-type="enumerated"><item id="uid35">The compound name will always include the <emphasis effect="bold">names of the elements</emphasis> that are part of it.
+<list id="id64059" display="block" list-type="bulleted"><item id="uid36">A compound of <emphasis effect="bold">iron</emphasis> (Fe) and <emphasis effect="italics">sulphur</emphasis> (S) is <emphasis effect="bold">iron</emphasis><space/><emphasis effect="italics">sulph</emphasis>ide (FeS)
+</item><item id="uid37">A compound of <emphasis effect="bold">potassium</emphasis> (K) and <emphasis effect="italics">bromine</emphasis> (Br) is <emphasis effect="bold">potassium</emphasis><space/><emphasis effect="italics">brom</emphasis>ide (KBr)
+</item><item id="uid38">A compound of <emphasis effect="bold">sodium</emphasis> (Na) and <emphasis effect="italics">chlorine</emphasis> (Cl) is <emphasis effect="bold">sodium</emphasis><space/><emphasis effect="italics">chlor</emphasis>ide (NaCl)
+</item></list></item>
+        <item id="uid39">In a compound, the element that is on the left of the Periodic Table, is used <emphasis effect="italics">first</emphasis> when naming the compound. In the example of NaCl, sodium is a group 1 element on the left hand side of the table, while chlorine is in group 7 on the right of the table. Sodium therefore comes first in the compound name. The same is true for FeS and KBr.
+</item>
+        <item id="uid40">The <emphasis effect="bold">symbols</emphasis> of the elements can be used to represent compounds e.g. FeS, NaCl, KBr and H<sub>2</sub>O. These are called <emphasis effect="bold">chemical formulae</emphasis>. In the first three examples, the ratio of the elements in each compound is 1:1. So, for FeS, there is one atom of iron for every atom of sulphur in the compound. In the last example (H<sub>2</sub>O) there are two atoms of hydrogen for every atom of oxygen in the compound.
+</item>
+        <item id="uid41">A compound may contain <emphasis effect="bold">compound ions</emphasis>. An ion is an atom that has lost (positive ion) or gained (negative ion) electrons. Some of the more common compound ions and their formulae are given below.
+<table id="id64235" summary="Compound ions and their formulae">
+<tgroup cols="2"><tbody><row><entry>Name of compound ion</entry><entry>Formula</entry></row><row><entry>Carbonate</entry><entry>CO<sub>3</sub><sup>2<m:math><m:mo>-</m:mo></m:math></sup></entry></row><row><entry>Sulphate</entry><entry>SO<sub>4</sub><sup>2<m:math><m:mo>-</m:mo></m:math></sup></entry></row><row><entry>Hydroxide</entry><entry>OH<sup><m:math><m:mo>-</m:mo></m:math></sup></entry></row><row><entry>Ammonium</entry><entry>NH<sub>4</sub><sup>+</sup></entry></row><row><entry>Nitrate</entry><entry>NO<sub>3</sub><sup><m:math><m:mo>-</m:mo></m:math></sup></entry></row><row><entry>Hydrogen carbonate</entry><entry>HCO<sub>3</sub><sup><m:math><m:mo>-</m:mo></m:math></sup></entry></row><row><entry>Phosphate</entry><entry>PO<sub>4</sub><sup>3<m:math><m:mo>-</m:mo></m:math></sup></entry></row><row><entry>Chlorate</entry><entry>ClO<sub>3</sub><sup><m:math><m:mo>-</m:mo></m:math></sup></entry></row><row><entry>Cyanide</entry><entry>CN<sup><m:math><m:mo>-</m:mo></m:math></sup></entry></row><row><entry>Chromate</entry><entry>CrO<sub>4</sub><sup>2<m:math><m:mo>-</m:mo></m:math></sup></entry></row><row><entry>Permanganate</entry><entry>MnO<sub>4</sub><sup><m:math><m:mo>-</m:mo></m:math></sup></entry></row></tbody>
+
+</tgroup>
+</table></item>
+        <item id="uid42">When there are only two elements in the compound, the compound is often given a <emphasis effect="bold">suffix</emphasis> (ending) of -ide. You would have seen this in some of the examples we have used so far. For compound ions, when a non-metal is combined with oxygen to form a negative ion (anion) which then combines with a positive ion (cation) from hydrogen or a metal, then the suffix of the name will be ...ate or ...ite. NO<sub>3</sub><sup><m:math><m:mo>-</m:mo></m:math></sup> for example, is a negative ion, which may combine with a cation such as hydrogen (HNO<sub>3</sub>) or a metal like potassium (KNO<sub>3</sub>). The NO<sub>3</sub><sup><m:math><m:mo>-</m:mo></m:math></sup> anion has the name nitr<emphasis effect="bold">ate</emphasis>. SO<sub>3</sub><sup>2<m:math><m:mo>-</m:mo></m:math></sup> in a formula is sulph<emphasis effect="bold">ite</emphasis>, e.g. sodium sulphite (Na<sub>2</sub>SO<sub>3</sub>).<newline/> SO<sub>4</sub><sup>2<m:math><m:mo>-</m:mo></m:math></sup> is sulph<emphasis effect="bold">ate</emphasis> and PO<sub>4</sub><sup>3<m:math><m:mo>-</m:mo></m:math></sup> is phosph<emphasis effect="bold">ate</emphasis>.
+</item>
+        <item id="uid43"><emphasis effect="bold">Prefixes</emphasis> can be used to describe the ratio of the elements that are in the compound. You should know the following prefixes: 'mono' (one), 'di' (two) and 'tri' (three).
+<list id="id64977" display="block" list-type="bulleted"><item id="uid44">CO (carbon monoxide) - There is one atom of oxygen for every one atom of carbon
+</item><item id="uid45">NO<sub>2</sub> (nitrogen dioxide) - There are two atoms of oxygen for every one atom of nitrogen
+</item><item id="uid46">SO<sub>3</sub> (sulphur trioxide) - There are three atoms of oxygen for every one atom of sulphur
+</item></list></item>
+      </list>
+<note id="notfhsst_id252" type="tip">
+      <para id="id65053">When numbers are written as 'subscripts' in compounds (i.e. they are written below and to the right of the element symbol), this tells us how many atoms of that element there are in relation to other elements in the compound. For example in nitrogen dioxide (NO<sub>2</sub>) there are two oxygen atoms for every one atom of nitrogen. In sulphur trioxide (SO<sub>3</sub>), there are three oxygen atoms for every one atom of sulphur in the compound. Later, when we start looking at chemical equations, you will notice that sometimes there are numbers <emphasis effect="italics">before</emphasis> the compound name. For example, 2H<sub>2</sub>O means that there are two molecules of water, and that in each molecule there are two hydrogen atoms for every one oxygen atom. </para> 
+</note>
+<section id="secfhsst_id255"><title> Naming compounds
+      </title>
+      <list id="id65118" display="block" list-type="enumerated">
+        <item id="uid47">The formula for calcium carbonate is CaCO<sub>3</sub>.
+<list id="id65148" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid48">Is calcium carbonate a mixture or a compound? Give a reason for your answer.
+</item><item id="uid49">What is the ratio of Ca:C:O atoms in the formula?
+</item></list>
+<para id="uid898">
+<link window="new" class="fullmarks" resource="http://www.fhsst.org/llp">Click here for the solution</link>
+</para> 
+</item>
+
+        <item id="uid50">Give the name of each of the following substances.
+<list id="id65189" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid51">KBr
+</item><item id="uid52">HCl
+</item><item id="uid53">KMnO<sub>4</sub></item><item id="uid54">NO<sub>2</sub></item><item id="uid55">NH<sub>4</sub>OH
+</item><item id="uid56">Na<sub>2</sub>SO<sub>4</sub></item></list>
+<para id="uid895">
+<link window="new" class="fullmarks" resource="http://www.fhsst.org/lld">Click here for the solution</link>
+</para> 
+</item>
+
+        <item id="uid57">Give the chemical formula for each of the following compounds.
+<list id="id65338" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid58">potassium nitrate
+</item><item id="uid59">sodium iodide
+</item><item id="uid60">barium sulphate
+</item><item id="uid61">nitrogen dioxide
+</item><item id="uid62">sodium monosulphate
+</item></list>
+<para id="uid857">
+<link window="new" class="fullmarks" resource="http://www.fhsst.org/llv">Click here for the solution</link>
+</para> 
+</item>
+
+        <item id="uid63">Refer to the diagram below, showing sodium chloride and water, and then answer the questions that follow.
+<figure id="id65419"><media id="id65419_media" alt=""><image mime-type="image/png" src="../../media/CG10C2_004-f463.png" id="id65419_onlineimage" width="88"><!-- NOTE: attribute width changes image size online (pixels). original width is 88. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG10C1_004.eps" id="id65419_printimage"/></media></figure><list id="id65426" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid64">What is the chemical formula for water?
+</item><item id="uid65">What is the chemical formula for sodium chloride?
+</item><item id="uid66">Label the water and sodium chloride in the diagram.
+</item><item id="uid67">Give a description of the picture. Focus on whether there are elements or compounds and if it is a mixture or not.
+</item></list>
+<para id="uid853">
+<link window="new" class="fullmarks" resource="http://www.fhsst.org/llL">Click here for the solution</link>
+</para> 
+</item>
+
+        <item id="uid71">What is the formula of this molecule?
+<figure id="id65538"><media id="id65538_media" alt=""><image mime-type="image/png" src="../../media/CG10C1_005.png" id="id65538_onlineimage" width="119"><!-- NOTE: attribute width changes image size online (pixels). original width is 119. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG10C1_005.eps" id="id65538_printimage"/></media></figure><list id="id65545" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid72">C<sub>6</sub>H<sub>2</sub>O
+</item><item id="uid73">C<sub>2</sub>H<sub>6</sub>O
+</item><item id="uid74">2C6HO
+</item><item id="uid75"><sub>2</sub>CH<sub>6</sub>O
+</item></list>
+<para id="uid827">
+<link window="new" class="fullmarks" resource="http://www.fhsst.org/llf">Click here for the solution</link>
+</para>
+</item>
+ 
+      </list>
+      
+</section>
+    </section>
+
+  </content>
+</document>

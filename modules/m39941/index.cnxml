@@ -1,0 +1,280 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Precipitation reactions</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39941</md:content-id>
+  <md:title>Precipitation reactions</md:title>
+  <md:abstract/>
+  <md:uuid>4968eae6-d438-4001-a65e-746dcbfced45</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid8">
+      <title>Precipitation reactions</title>
+      <para id="id339907">Sometimes, ions in solution may react with each other to form a new substance that is <emphasis effect="italics">insoluble</emphasis>. This is called a <emphasis effect="bold">precipitate</emphasis>.</para>
+<definition id="fhsst_id887"><term id="termfhsst_id887"> Precipitate </term> <meaning id="meaningfhsst_id887">
+      <para id="id339929">A precipitate is the solid that forms in a solution during a chemical reaction. </para>
+      </meaning></definition>
+<section id="secfhsst_id890"><title> Demonstration : The reaction of ions in solution
+      </title>
+      <para id="id339954">
+        <emphasis effect="bold">Apparatus and materials:</emphasis>
+      </para>
+      
+      <para id="id339971">4 test tubes; copper(II) chloride solution; sodium carbonate solution; sodium sulphate solution</para>
+      <para id="id339975">
+        <figure id="id339978">
+          <media id="id339978_media" alt="">
+            <image mime-type="image/png" src="../../media/CG10C8_004.png" id="id339978_onlineimage" width="277"><!-- NOTE: attribute width changes image size online (pixels). original width is 277. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG10C8_004.eps" id="id339978_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id339985">
+        <emphasis effect="bold">Method:</emphasis>
+      </para>
+      <list id="id339992" display="block" list-type="enumerated"><item id="uid60">Prepare 2 test tubes with approximately 5 ml of dilute Cu(II) chloride solution in each
+</item>
+        <item id="uid61">Prepare 1 test tube with 5 ml sodium carbonate solution
+</item>
+        <item id="uid62">Prepare 1 test tube with 5 ml sodium sulphate solution
+</item>
+        <item id="uid63">Carefully pour the sodium carbonate solution into one of the test tubes containing copper(II) chloride and observe what happens
+</item>
+        <item id="uid64">Carefully pour the sodium sulphate solution into the second test tube containing copper(II) chloride and observe what happens
+</item>
+      </list>
+      <para id="id340060">
+        <emphasis effect="bold">Results:</emphasis>
+      </para>
+      <list id="id340067" display="block" list-type="enumerated">
+        <item id="uid65">A light blue precipitate forms when sodium carbonate reacts with copper(II) chloride
+</item>
+        <item id="uid66">No precipitate forms when sodium sulphate reacts with copper(II) chloride
+</item>
+      </list>
+      
+</section>
+      <para id="id340106">It is important to understand what happened in the previous demonstration. We will look at what happens in each reaction, step by step.</para>
+      <list id="id340110" display="block" list-type="enumerated"><item id="uid67"><emphasis effect="bold">Reaction 1:</emphasis> Sodium carbonate reacts with copper(II) chloride.<newline/>
+When these compounds react, a number of ions are present in solution: Cu<sup>2+</sup>, Cl<sup><m:math><m:mo>-</m:mo></m:math></sup>, Na<sup>+</sup> and CO<sub>3</sub><sup>2<m:math><m:mo>-</m:mo></m:math></sup>.
+Because there are lots of ions in solution, they will collide with each other and may recombine in different ways. The product that forms may be insoluble, in which case a precipitate will form, or the product will be soluble, in which case the ions will go back into solution. Let's see how the ions in this example could have combined with each other:<newline/>
+Cu<sup>2+</sup> +  CO<sub>3</sub><sup>2<m:math><m:mo>-</m:mo></m:math></sup><m:math><m:mo>→</m:mo></m:math> CuCO<sub>3</sub><newline/> Cu<sup>2+</sup> + 2Cl<sup><m:math><m:mo>-</m:mo></m:math></sup><m:math><m:mo>→</m:mo></m:math> CuCl<sub>2</sub><newline/> Na<sup>+</sup> + Cl<sup><m:math><m:mo>-</m:mo></m:math></sup><m:math><m:mo>→</m:mo></m:math>  NaCl <newline/> Na<sup>+</sup> +  CO<sub>3</sub><sup>2<m:math><m:mo>-</m:mo></m:math></sup><m:math><m:mo>→</m:mo></m:math> Na<sub>2</sub> CO<sub>3</sub>
+<newline/>You can automatically exclude the reactions where sodium carbonate and copper(II) chloride are the products because these were the initial reactants. You also know that sodium chloride (NaCl) is soluble in water, so the remaining product (copper carbonate) must be the one that is insoluble. It is also possible to look up which salts are soluble and which are insoluble. If you do this, you will find that most carbonates are insoluble, therefore the precipitate that forms in this reaction must be CuCO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>. The reaction that has taken place between the ions in solution is as follows:<newline/>
+2Na<sup>+</sup> + CO<sub>3</sub><sup>2<m:math><m:mo>-</m:mo></m:math></sup> + Cu<sup>2+</sup> + 2Cl<sup><m:math><m:mo>-</m:mo></m:math></sup><m:math><m:mo>→</m:mo></m:math> CuCO<sub>3</sub> + 2Na<sup>+</sup> + 2Cl<sup><m:math><m:mo>-</m:mo></m:math></sup></item>
+        <item id="uid68"><emphasis effect="bold">Reaction 2:</emphasis> Sodium sulphate reacts with copper(II) chloride.<newline/>
+The ions that are present in solution are Cu<sup>2+</sup>, Cl<sup><m:math overflow="scroll"><m:mo>-</m:mo></m:math></sup>, Na<sup>+</sup> and SO<sub>4</sub><sup><m:math><m:mn>2</m:mn><m:mo>-</m:mo></m:math></sup>.
+The ions collide with each other and may recombine in different ways. The possible combinations of the ions are as follows:<newline/>
+Cu<sup>2+</sup> + SO<sub>4</sub><sup>2<m:math><m:mo>-</m:mo></m:math></sup><m:math><m:mo>→</m:mo></m:math> CuSO<sub>4</sub><newline/>
+Cu<sup>2+</sup> + 2Cl<sup><m:math><m:mo>-</m:mo></m:math></sup><m:math><m:mo>→</m:mo></m:math> CuCl<sub>2</sub><newline/>
+Na<sup>+</sup> +  Cl<sup><m:math><m:mo>-</m:mo></m:math></sup><m:math><m:mo>→</m:mo></m:math>  NaCl <newline/>
+Na<sup>+</sup> + SO<sub>4</sub><sup>2<m:math><m:mo>-</m:mo></m:math></sup><m:math><m:mo>→</m:mo></m:math> Na<sub>2</sub>SO<sub>4</sub><newline/>
+If we look up which of these salts are soluble and which are insoluble, we see that most chlorides and most sulphates are soluble. This is why no precipitate forms in this second reaction. Even when the ions recombine, they immediately separate and go back into solution. The reaction that has taken place between the ions in solution is as follows:<newline/>
+2Na<sup>+</sup> + SO<sub>4</sub><sup>2<m:math><m:mo>-</m:mo></m:math></sup> + Cu<sup>2+</sup> + 2Cl<sup><m:math><m:mo>-</m:mo></m:math></sup>
+<m:math><m:mo>→</m:mo></m:math> 2Na<sup>+</sup> + SO<sub>4</sub><sup>2<m:math><m:mo>-</m:mo></m:math></sup> + Cu<sup>2+</sup> + 2Cl<sup><m:math><m:mo>-</m:mo></m:math></sup></item>
+      </list>
+      <para id="id340954"><link target-id="uid69"/> shows some of the general rules about the solubility of different salts based on a number of investigations:</para>
+      <table id="uid69" summary="Solubility of salts">
+<tgroup cols="2"><tbody>
+            <row>
+              <entry>
+                <emphasis effect="bold">Salt</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Solubility</emphasis>
+              </entry>
+            </row>
+            <row>
+              <entry>Nitrates</entry>
+              <entry>All are soluble</entry>
+            </row>
+            <row>
+              <entry>Potassium, sodium and ammonium salts</entry>
+              <entry>All are soluble</entry>
+            </row>
+            <row>
+              <entry>Chlorides</entry>
+              <entry>All are soluble except silver chloride, lead(II) chloride and mercury(II) chloride</entry>
+            </row>
+            <row>
+              <entry>Sulphates</entry>
+              <entry>All are soluble except lead(II) sulphate, barium sulphate and calcium sulphate</entry>
+            </row>
+            <row>
+              <entry>Carbonates</entry>
+              <entry>All are insoluble except those of potassium, sodium and ammonium</entry>
+            </row>
+          </tbody>
+        
+</tgroup><caption>General rules for the solubility of salts</caption>
+</table>
+    </section>
+    <section id="cid9">
+      <title>Testing for common anions in solution</title>
+      <para id="id341125">It is also possible to carry out tests to determine which ions are present in a solution.</para>
+      <section id="uid70">
+        <title>Test for a chloride</title>
+        <para id="id341138">Prepare a solution of the unknown salt using distilled water and add a small amount of <emphasis effect="bold">silver nitrate</emphasis> solution. If a white precipitate forms, the salt is either a chloride or a carbonate.</para>
+        <para id="id341148">Cl<sup><m:math overflow="scroll"><m:mo>-</m:mo></m:math></sup> +  Ag<sup>+</sup> +  NO<sub>3</sub><sup><m:math><m:mo>-</m:mo></m:math></sup><m:math><m:mo>→</m:mo></m:math> AgCl + NO<sub>3</sub><sup><m:math><m:mo>-</m:mo></m:math></sup> (AgCl is white precipitate)</para>
+        <para id="id341211">CO<sub>3</sub><sup>2<m:math><m:mo>-</m:mo></m:math></sup> + 2Ag<sup>+</sup> + 2NO<sub>3</sub><sup><m:math><m:mo>-</m:mo></m:math></sup><m:math><m:mo>→</m:mo></m:math> Ag<sub>2</sub>CO<sub>3</sub> + 2NO<sub>3</sub><sup><m:math><m:mo>-</m:mo></m:math></sup> (Ag<sub>2</sub>CO<sub>3</sub> is white precipitate)</para>
+        <para id="id341323">The next step is to treat the precipitate with a small amount of <emphasis effect="bold">concentrated nitric acid</emphasis>. If the precipitate remains unchanged, then the salt is a chloride. If carbon dioxide is formed, and the precipitate disappears, the salt is a carbonate.</para>
+        <para id="id341334">AgCl + HNO<sub>3</sub><m:math><m:mo>→</m:mo></m:math> (no reaction; precipitate is unchanged)</para>
+        <para id="id341361"><m:math overflow="scroll"><m:mrow><m:msub><m:mi> Ag </m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi> CO </m:mi><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mi> HNO </m:mi><m:mn>3</m:mn></m:msub><m:mo>→</m:mo><m:mn>2</m:mn><m:msub><m:mi> AgNO </m:mi><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi><m:mo>+</m:mo><m:msub><m:mi> CO </m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math> (precipitate disappears)</para>
+      </section>
+      <section id="uid71">
+        <title>Test for a sulphate</title>
+        <para id="id341449">Add a small amount of barium chloride solution to a solution of the test salt. If a white precipitate forms, the salt is either a sulphate or a carbonate.</para>
+        <para id="id341454"><m:math overflow="scroll"><m:mrow><m:msubsup><m:mi> SO </m:mi><m:mrow><m:mn>4</m:mn></m:mrow><m:mrow><m:mn>2</m:mn><m:mo>-</m:mo></m:mrow></m:msubsup><m:mo>+</m:mo><m:msup><m:mi> Ba </m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mi> Cl </m:mi><m:mo>-</m:mo></m:msup><m:mo>→</m:mo><m:msub><m:mi> BaSO </m:mi><m:mn>4</m:mn></m:msub><m:mo>+</m:mo><m:msup><m:mi> Cl </m:mi><m:mo>-</m:mo></m:msup></m:mrow></m:math> (BaSO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math> is a white precipitate)</para>
+        <para id="id341538"><m:math overflow="scroll"><m:mrow><m:msubsup><m:mi> CO </m:mi><m:mrow><m:mn>3</m:mn></m:mrow><m:mrow><m:mn>2</m:mn><m:mo>-</m:mo></m:mrow></m:msubsup><m:mo>+</m:mo><m:msup><m:mi> Ba </m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mi> Cl </m:mi><m:mo>-</m:mo></m:msup><m:mo>→</m:mo><m:msub><m:mi> BaCO </m:mi><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:msup><m:mi> Cl </m:mi><m:mo>-</m:mo></m:msup></m:mrow></m:math> (BaCO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math> is a white precipitate)</para>
+        <para id="id341622">If the precipitate is treated with nitric acid, it is possible to distinguish whether the salt is a sulphate or a carbonate (as in the test for a chloride).</para>
+        <para id="id341627"><m:math overflow="scroll"><m:mrow><m:msub><m:mi> BaSO </m:mi><m:mn>4</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mi> HNO </m:mi><m:mn>3</m:mn></m:msub><m:mo>→</m:mo></m:mrow></m:math> (no reaction; precipitate is unchanged)</para>
+        <para id="id341658"><m:math overflow="scroll"><m:mrow><m:msub><m:mi> BaCO </m:mi><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mi> HNO </m:mi><m:mn>3</m:mn></m:msub><m:mo>→</m:mo><m:mi> Ba </m:mi><m:msub><m:mrow><m:mo>(</m:mo><m:msub><m:mi> NO </m:mi><m:mn>3</m:mn></m:msub><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi><m:mo>+</m:mo><m:msub><m:mi> CO </m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math> (precipitate disappears)</para>
+      </section>
+      <section id="uid72">
+        <title>Test for a carbonate</title>
+        <para id="id341749">If a sample of the dry salt is treated with a small amount of acid, the production of carbon dioxide is a positive test for a carbonate.</para>
+        <para id="id341754">Acid + CO<sub>3</sub><sup>2<m:math overflow="scroll"><m:mo>-</m:mo></m:math></sup><m:math><m:mo>→</m:mo></m:math> CO<sub>2</sub></para>
+        <para id="id341796">If the gas is passed through limewater and the solution becomes milky, the gas is carbon dioxide.</para>
+        <para id="id341800">Ca(OH)<sub>2</sub> + CO<sub>2</sub><m:math overflow="scroll"><m:mo>→</m:mo></m:math> CaCO<sub>3</sub> + H<sub>2</sub>O (It is the insoluble CaCO<sub>3</sub> precipitate that makes the limewater go milky)</para>
+      </section>
+      <section id="uid73">
+        <title>Test for bromides and iodides</title>
+        <para id="id341894">As was the case with the chlorides, the bromides and iodides also form precipitates when they are reacted with silver nitrate. Silver chloride is a white precipitate, but the silver bromide and silver iodide precipitates are both pale yellow. To determine whether the precipitate is a bromide or an iodide, we use chlorine water and carbon tetrachloride (CCl<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math>).</para>
+        <para id="id341914">Chlorine water frees bromine gas from the bromide and colours the carbon tetrachloride a reddish brown.</para>
+        <para id="id341920">Chlorine water frees iodine gas from an iodide and colours the carbon tetrachloride purple.</para>
+<section id="secfhsst_id1016"><title>Precipitation reactions and ions in solution         </title><list id="id341939" display="block" list-type="enumerated">
+          <item id="uid74">Silver nitrate (AgNO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>) reacts with potassium chloride (KCl) and a white precipitate is formed.
+<list id="id341969" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid75">Write a balanced equation for the reaction that takes place.
+</item><item id="uid76">What is the name of the insoluble salt that forms?
+</item><item id="uid77">Which of the salts in this reaction are soluble?
+</item></list><link window="new" class="fullmarks" resource="http://www.fhsst.org/l3c">Click here for the solution</link>
+</item>
+          <item id="uid78">Barium chloride reacts with sulphuric acid to produce barium sulphate and hydrochloric acid.
+<list id="id342022" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid79">Write a balanced equation for the reaction that takes place.
+</item><item id="uid80">Does a precipitate form during the reaction?
+</item><item id="uid81">Describe a test that could be used to test for the presence of barium sulphate in the products.
+</item></list><link window="new" class="fullmarks" resource="http://www.fhsst.org/l3O">Click here for the solution</link>
+</item>
+          <item id="uid82">A test tube contains a clear, colourless salt solution. A few drops of silver nitrate solution are added to the solution and a pale yellow precipitate forms. Which one of the following salts was dissolved in the original solution?
+<list id="id342078" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid83">NaI
+</item><item id="uid84">KCl
+</item><item id="uid85">K<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>CO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math></item><item id="uid86">Na<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>SO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math></item></list>
+(IEB Paper 2, 2005)
+<link window="new" class="fullmarks" resource="http://www.fhsst.org/l3x">Click here for the solution</link>
+</item>
+        </list>
+        
+</section>
+      </section>
+    </section>
+    <section id="cid10">
+      <title>Threats to the Hydrosphere</title>
+      <para id="id342204">It should be clear by now that the hydrosphere plays an extremely important role in the survival of life on Earth and that the unique properties of water allow various important chemical processes to take place which would otherwise not be possible. Unfortunately for us however, there are a number of factors that threaten our hydrosphere and most of these threats are because of human activities. We are going to focus on two of these issues: <emphasis effect="bold">overuse</emphasis> and <emphasis effect="bold">pollution</emphasis> and look at ways in which these problems can possibly be overcome.</para>
+      <list id="id342223" display="block" list-type="enumerated"><item id="uid91"><emphasis effect="bold">Pollution</emphasis><newline/>
+Pollution of the hydrosphere is also a major problem. When we think of pollution, we sometimes only think of things like plastic, bottles, oil and so on. But any chemical that is present in the hydrosphere in an amount that is not what it should be is a pollutant. Animals and plants that live in the hydrosphere are specially adapted to surviving within a certain range of conditions. If these conditions are changed (e.g. through pollution), these organisms may not be able to survive. Pollution then, can affect entire aquatic ecosystems. The most common forms of pollution in the hydrosphere are <emphasis effect="italics">waste products</emphasis> from humans and from industries, <emphasis effect="italics">nutrient pollution</emphasis> e.g. fertiliser runoff which causes eutrophication (this was discussed in chapter ref 7) and toxic trace elements such as aluminium, mercury and copper to name a few. Most of these elements come from mines or from industries.
+</item>
+<item id="uid87"><emphasis effect="bold">Overuse of water</emphasis><newline/>
+We mentioned earlier that only a very small percentage of the hydrosphere's water is available as freshwater. However, despite this, humans continue to use more and more water to the point where water <emphasis effect="italics">consumption</emphasis> is fast approaching the amount of water that is <emphasis effect="italics">available</emphasis>. The situation is a serious one, particularly in countries such as South Africa which are naturally dry and where water resources are limited. It is estimated that between 2020 and 2040, water supplies in South Africa will no longer be able to meet the growing demand for water in this country. This is partly due to population growth, but also because of the increasing needs of industries as they expand and develop. For each of us, this should be a very scary thought. Try to imagine a day without water...difficult isn't it? Water is so much a part of our lives, that we are hardly aware of the huge part that it plays in our daily lives.
+</item>
+      </list>
+<section id="secfhsst_id1046"><title> Discussion : Creative water conservation
+</title>
+<para id="uid289435">As populations grow, so do the demands that are placed on dwindling water resources. While many people argue that building dams helps to solve this water-shortage problem, the reality is that dams are only a temporary solution and that they often end up doing far more ecological damage than good. The only sustainable solution is to reduce the <emphasis effect="italics">demand</emphasis> for water, so that water supplies are sufficient to meet this. The more important question then is how to do this.
+</para>
+<para id="uid5630"><emphasis effect="bold">Discussion:</emphasis><newline/>Divide the class into groups, so that there are about five people in each. Each group is going to represent a different sector within society. Your teacher will tell you which sector you belong to from the following: Farming, industry, city management or civil society (i.e. you will represent the ordinary 'man on the street'). In your groups, discuss the following questions as they relate to the group of people you represent: (Remember to take notes during your discussions, and nominate a spokesperson to give feedback to the rest of the class on behalf of your group)
+<list id="id342317" display="block" list-type="bulleted"><item id="uid88">What steps could be taken by your group to conserve water?
+</item><item id="uid89">Why do you think these steps are <emphasis effect="italics">not</emphasis> being taken?
+</item><item id="uid90">What incentives do you think could be introduced to encourage this group to conserve water more efficiently?
+</item></list>
+</para>
+
+</section>
+      <para id="id342412">It is important to realise that our hydrosphere exists in a delicate balance with other systems and that disturbing this balance can have serious consequences for life on this planet.</para>
+<section id="secfhsst_id1065"><title> Group Project : School Action Project
+      </title>
+      <para id="id342430">There is a lot that can be done within a school to save water. As a class, discuss what actions could be taken by your class to make people more aware of how important it is to conserve water.
+ </para>
+</section>
+    </section>
+    <section id="cid11">
+      <title>Summary</title>
+      <list id="id342453" display="block" list-type="bulleted"><item id="uid92">The <emphasis effect="bold">hydrosphere</emphasis> includes all the water that is on Earth. Sources of water include freshwater (e.g. rivers, lakes), saltwater (e.g. oceans), groundwater (e.g. boreholes) and water vapour. Ice (e.g. glaciers) is also part of the hydrosphere.
+</item>
+        <item id="uid93">The hydrosphere interacts with other <emphasis effect="bold">global systems</emphasis>, including the atmosphere, lithosphere and biosphere.
+</item>
+        <item id="uid94">The hydrosphere has a number of important <emphasis effect="bold">functions</emphasis>. Water is a part of all living cells, it provides a habitat for many living organisms, it helps to regulate climate and it is used by humans for domestic, industrial and other use.
+</item>
+        <item id="uid95">The <emphasis effect="bold">polar</emphasis> nature of water means that <emphasis effect="bold">ionic compounds</emphasis> dissociate easily in aqueous solution into their component ions.
+</item>
+        <item id="uid96"><emphasis effect="bold">Ions</emphasis> in solution play a number of roles. In the human body for example, ions help to regulate the internal environment (e.g. controlling muscle function, regulating blood pH). Ions in solution also determine water hardness and pH.
+</item>
+        <item id="uid97"><emphasis effect="bold">Water hardness</emphasis> is a measure of the mineral content of water. Hard water has a high mineral concentration and generally also a high concentration of metal ions e.g. calcium and magnesium. The opposite is true for soft water.
+</item>
+        <item id="uid98"><emphasis effect="bold">pH</emphasis> is a measure of the concentration of hydrogen ions in solution. The formula used to calculate pH is as follows:
+pH = -log[H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>O<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>+</m:mo></m:msup></m:math>] or pH = -log[H<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>+</m:mo></m:msup></m:math>]. A solution with a pH less than 7 is considered acidic and more than 7 is considered basic (or alkaline). A neutral solution has a pH of 7.
+</item>
+        <item id="uid99">Gases such as CO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>, NO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> and SO<sub>4</sub><sup><m:math><m:mn>2</m:mn><m:mo>-</m:mo></m:math></sup> dissolve in water to form weak acid solutions. Rain is naturally acidic because of the high concentrations of carbon dioxide in the atmosphere. Human activities such as burning fossil fuels, increase the concentration of these gases in the atmosphere, resulting in <emphasis effect="bold">acid rain</emphasis>.
+</item>
+        <item id="uid100"><emphasis effect="bold">Conductivity</emphasis> is a measure of a solution's ability to conduct an electric current.
+</item>
+        <item id="uid101">An <emphasis effect="bold">electrolyte</emphasis> is a substance that contains free ions and is therefore able to conduct an electric current. Electrolytes can be divided into <emphasis effect="bold">strong</emphasis> and <emphasis effect="bold">weak</emphasis> electrolytes, based on the extent to which the substance ionises in solution.
+</item>
+        <item id="uid102">A <emphasis effect="bold">non-electrolyte</emphasis> cannot conduct an electric current because it dooes not contain free ions.
+</item>
+        <item id="uid103">The <emphasis effect="bold">type of substance</emphasis>, the <emphasis effect="bold">concentration of ions</emphasis> and the <emphasis effect="bold">temperature</emphasis> of the solution affect its conductivity.
+</item>
+        <item id="uid104">A <emphasis effect="bold">precipitate</emphasis> is formed when ions in solution react with each other to form an insoluble product. Solubility 'rules' help to identify the precipitate that has been formed.
+</item>
+        <item id="uid105">A number of tests can be used to identify whether certain <emphasis effect="bold">anions</emphasis> are present in a solution.
+</item>
+        <item id="uid106">Despite the importance of the hydrosphere, a number of factors threaten it. These include <emphasis effect="bold">overuse</emphasis> of water, and <emphasis effect="bold">pollution</emphasis>.
+</item>
+      </list>
+<section id="secfhsst_id1107"><title>Summary Exercise </title><list id="id342869" display="block" list-type="enumerated">
+        <item id="uid107">Give one word for each of the following descriptions:
+<list id="id342885" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid108">the change in phase of water from a gas to a liquid
+</item><item id="uid109">a charged atom
+</item><item id="uid110">a term used to describe the mineral content of water
+</item><item id="uid111">a gas that forms sulphuric acid when it reacts with water
+</item></list><link window="new" class="fullmarks" resource="http://www.fhsst.org/l3a">Click here for the solution</link>
+</item>
+        <item id="uid112">Match the information in column A with the information in column B by writing only the letter (A to I) next to the question number (1 to 7)
+<table id="id342952" summary=""><tgroup cols="2"><tbody><row><entry><emphasis effect="bold">Column A</emphasis></entry><entry><emphasis effect="bold">Column B</emphasis></entry></row><row><entry>1. A polar molecule</entry><entry>A. H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>SO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math></entry></row><row><entry>2. molecular solution</entry><entry>B. CaCO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math></entry></row><row><entry>3. Mineral that increases water hardness</entry><entry>C. NaOH</entry></row><row><entry>4. Substance that increases the hydrogen ion concentration</entry><entry>D. salt water</entry></row><row><entry>5. A strong electrolyte</entry><entry>E. calcium</entry></row><row><entry>6. A white precipitate</entry><entry>F. carbon dioxide</entry></row><row><entry>7. A non-conductor of electricity</entry><entry>G. potassium nitrate</entry></row><row><entry/><entry>H. sugar water</entry></row><row><entry/><entry>I. O<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math></entry></row></tbody></tgroup></table><link window="new" class="fullmarks" resource="http://www.fhsst.org/l3C">Click here for the solution</link>
+</item>
+        <item id="uid113">For each of the following questions, choose the one correct answer from the list provided.
+<list id="id343153" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid114">Which one of the following substances does not conduct electricity in the solid phase but is an electrical conductor when molten?
+<list id="id343169" display="block" list-type="enumerated" number-style="lower-roman"><item id="uid115">Cu
+</item><item id="uid116">PbBr<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math></item><item id="uid117">H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>O
+</item><item id="uid118">I<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math></item></list>
+(IEB Paper 2, 2003)
+<link window="new" class="fullmarks" resource="http://www.fhsst.org/l31">Click here for the solution</link>
+</item><item id="uid119">The following substances are dissolved in water. Which one of the solutions is basic?
+<list id="id343275" display="block" list-type="enumerated" number-style="lower-roman"><item id="uid120">sodium nitrate
+</item><item id="uid121">calcium sulphate
+</item><item id="uid122">ammonium chloride
+</item><item id="uid123">potassium carbonate
+</item></list>
+(IEB Paper 2, 2005)
+<link window="new" class="fullmarks" resource="http://www.fhsst.org/l3r">Click here for the solution</link>
+</item></list></item>
+        <item id="uid124">
+The concentration of hydronium and hydroxyl ions in a typical sample of seawater are 10<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>8</m:mn></m:mrow></m:msup></m:math> and 10<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>6</m:mn></m:mrow></m:msup></m:math> respectively.
+<list id="id343380" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid125">Is the seawater acidic or basic?
+</item><item id="uid126">Calculate the pH of this seawater.
+</item></list></item>
+        <item id="uid127">Three test tubes (X, Y and Z) each contain a solution of an unknown potassium salt. The following observations were made during a practical investigation to identify the solutions in the test tubes:
+A: A white precipitate formed when silver nitrate (AgNO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>) was added to test tube Z.
+B: A white precipitate formed in test tubes X and Y when barium chloride (BaCl<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>) was added.
+C: The precipitate in test tube X dissolved in hydrochloric acid (HCl) and a gas was released.
+D: The precipitate in test tube Y was insoluble in hydrochloric acid.
+<list id="id343466" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid128">Use the above information to identify the solutions in each of the test tubes X, Y and Z.
+</item><item id="uid129">Write a chemical equation for the reaction that took place in test tube X before hydrochloric acid was added.
+</item></list>
+(DoE Exemplar Paper 2 2007)
+<link window="new" class="fullmarks" resource="http://www.fhsst.org/l3Y">Click here for the solution</link>
+</item>
+      </list>
+      
+</section>
+    </section>
+  </content>
+</document>

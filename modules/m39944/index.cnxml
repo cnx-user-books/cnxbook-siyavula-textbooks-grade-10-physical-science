@@ -1,0 +1,254 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Intermolecular and intramolecular forces and the kinetic theory of matter</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39944</md:content-id>
+  <md:title>Intermolecular and intramolecular forces and the kinetic theory of matter</md:title>
+  <md:abstract/>
+  <md:uuid>b2506806-694c-40ba-b1f0-f13db651abd5</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid4">
+      <title>Intramolecular and intermolecular forces</title>
+      <para id="id308307">When atoms join to form molecules, they are held 
+together by <emphasis effect="bold">chemical bonds</emphasis>. The type of bond, 
+and the strength of the bond, depends on the atoms that are involved. These 
+bonds are called <emphasis effect="bold">intramolecular forces</emphasis> 
+because they are bonding forces <emphasis effect="italics">inside</emphasis> a 
+molecule ('intra' means 'within' or 'inside'). Sometimes we simply call these 
+intramolecular forces chemical bonds.</para>
+<definition id="fhsst_id141"><term id="termfhsst_id141"> Intramolecular force 
+</term> <meaning id="meaningfhsst_id141">
+      <para id="id308335">The force between the atoms of a molecule, which holds 
+them together. </para>
+      </meaning></definition>
+      <para id="id308346">Examples of the types of chemical bonds that can exist 
+between atoms inside a molecule are shown below. These will be looked at in more 
+detail in Grade 11.</para>
+      <list id="id308351" display="block" list-type="bulleted">
+        <item id="uid25"><emphasis effect="italics">Covalent bond</emphasis>
+Covalent bonds exist between non-metal atoms e.g. There are covalent bonds 
+between the carbon and oxygen atoms in a molecule of carbon dioxide.
+</item>
+        <item id="uid26"><emphasis effect="italics">Ionic bond</emphasis>
+Ionic bonds occur between non-metal and metal atoms e.g. There are ionic bonds 
+between the sodium and chlorine atoms in a molecule of sodium chloride.
+</item>
+        <item id="uid27"><emphasis effect="italics">Metallic bond</emphasis>
+Metallic bonds join metal atoms e.g. There are metallic bonds between copper 
+atoms in a piece of copper metal.
+</item>
+      </list>
+      <para id="id308411"><emphasis effect="bold">Intermolecular 
+forces</emphasis> are those bonds that hold <emphasis effect="italics">molecules</emphasis> together. A glass of water for example, 
+contains many molecules of water. These molecules are held together by 
+intermolecular forces. The strength of the intermolecular forces is important 
+because they affect properties such as <emphasis effect="italics">melting 
+point</emphasis> and <emphasis effect="italics">boiling point</emphasis>. For 
+example, the stronger the intermolecular forces, the higher the melting point 
+and boiling point for that substance. The strength of the intermolecular forces 
+increases as the size of the molecule increases.</para>
+<definition id="fhsst_id157"><term id="termfhsst_id157"> Intermolecular force 
+</term> <meaning id="meaningfhsst_id157">
+      <para id="id308444">A force between molecules, which holds them together. 
+</para>
+      </meaning></definition>
+      <para id="id308455">The following diagram may help you to understand the 
+difference between intramolecular forces and intermolecular forces.</para>
+      <figure id="uid28">
+        <media id="uid28_media" alt="">
+          <image mime-type="image/png" src="../../media/CG10C2_007.png" id="uid28_onlineimage" width="241"><!-- NOTE: attribute width changes image size 
+online (pixels). original width is 241. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/CG10C2_007.eps" id="uid28_printimage"/>
+        </media>
+        <caption>Two representations showing the intermolecular and 
+intramolecular forces in water: space-filling model and structural formula.
+</caption>
+      </figure>
+      <para id="id308476">It should be clearer now that there are two types of 
+forces that hold matter together. In the case of water, there are intramolecular 
+forces that hold the two hydrogen atoms to the oxygen atom <emphasis effect="italics">in each molecule of water</emphasis> (these are the solid lines 
+in the above diagram). There are also intermolecular forces <emphasis effect="italics">between each of these water molecules</emphasis>. These 
+intermolecular forces join the hydrogen atom from one molecule to the oxygen 
+atom of <emphasis effect="bold">another molecule</emphasis> (these are the 
+dashed lines in the above figure). As mentioned earlier, these forces are very 
+important because they affect many of the <emphasis effect="italics">properties 
+of matter</emphasis> such as boiling point, melting point and a number of other 
+properties. Before we go on to look at some of these examples, it is important 
+that we first take a look at the <emphasis effect="bold">Kinetic Theory of 
+Matter</emphasis>.</para>
+<section id="secfhsst_id169"><title>Intramolecular and intermolecular forces       
+</title><list id="id308517" display="block" list-type="enumerated">
+        <item id="uid29">Using ammonia gas as an example...
+<list id="id308531" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid30">Explain what is meant by an <emphasis effect="italics">intramolecular</emphasis> force or <emphasis effect="italics">chemical bond</emphasis>.
+</item><item id="uid31">Explain what is meant by an <emphasis effect="italics">intermolecular</emphasis> force.
+</item></list><link window="new" class="fullmarks" resource="http://www.fhsst.org/lin">Click here for the solution</link>
+</item>
+        <item id="uid32">Draw a diagram showing three molecules of carbon 
+dioxide. On the diagram, show where the intramolecular and intermolecular forces 
+are.
+<link window="new" class="fullmarks" resource="http://www.fhsst.org/liQ">Click 
+here for the solution</link>
+</item>
+        <item id="uid33">Why is it important to understand the types of forces 
+that exist between atoms and between molecules? Try to use some practical 
+examples in your answer.
+<link window="new" class="fullmarks" resource="http://www.fhsst.org/liU">Click 
+here for the solution</link>
+</item>
+      </list>
+      
+</section>
+    </section>
+    <section id="cid5">
+      <title>The Kinetic Theory of Matter</title>
+      <para id="id308618">The <emphasis effect="bold">kinetic theory of 
+matter</emphasis> helps us to explain why matter exists in different <emphasis effect="italics">phases</emphasis> (i.e. solid, liquid and gas), and how matter 
+can change from one phase to the next. The kinetic theory of matter also helps 
+us to understand other properties of matter. It is important to realise that 
+what we will go on to describe is only a <emphasis effect="italics">theory</emphasis>. It cannot be proved beyond doubt, but the 
+fact that it helps us to explain our observations of changes in phase, and other 
+properties of matter, suggests that it probably is more than just a theory.
+</para>
+      <para id="id308641">Broadly, the Kinetic Theory of Matter says that:
+</para>
+      <list id="id308647" display="block" list-type="bulleted"><item id="uid34">Matter is made up of <emphasis effect="bold">particles</emphasis> 
+that are constantly moving.
+</item>
+        <item id="uid35">All particles have <emphasis effect="bold">energy</emphasis>, but the energy varies depending on whether the 
+substance is a solid, liquid or gas. Solid particles have the least amount of 
+energy and gas particles have the greatest amount of energy.
+</item>
+        <item id="uid36">The <emphasis effect="bold">temperature</emphasis> of a 
+substance is a measure of the <emphasis effect="italics">average kinetic 
+energy</emphasis> of the particles.
+</item>
+        <item id="uid37">A change in <emphasis effect="bold">phase</emphasis> 
+may occur when the energy of the particles is changed.
+</item>
+        <item id="uid38">There are <emphasis effect="bold">spaces</emphasis> 
+between the particles of matter.
+</item>
+        <item id="uid39">There are <emphasis effect="bold">attractive 
+forces</emphasis> between particles and these become stronger as the particles 
+move closer together. These attractive forces will either be intramolecular 
+forces (if the particles are atoms) or intermolecular forces (if the particles 
+are molecules). When the particles are extremely close, repulsive forces start 
+to act.
+</item>
+      </list>
+      <para id="id308767"><link target-id="uid40"/> summarises the 
+characteristics of the particles that are in each phase of matter.</para>
+      <table id="uid40" summary="Summary of properties">
+<tgroup cols="4"><tbody>
+            <row>
+              <entry>
+                <emphasis effect="bold">Property of matter</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Solid</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Liquid</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Gas</emphasis>
+              </entry>
+            </row>
+            <row>
+              <entry>Particles</entry>
+              <entry>Atoms or molecules</entry>
+              <entry>Atoms or molecules</entry>
+              <entry>Atoms or molecules</entry>
+            </row>
+            <row>
+              <entry>Energy and movement of particles</entry>
+              <entry>Low energy - particles vibrate around a fixed point</entry>
+              <entry>Particles have less energy than in the gas phase</entry>
+              <entry>Particles have high energy and are constantly 
+moving</entry>
+            </row>
+            <row>
+              <entry>Spaces between particles</entry>
+              <entry>Very little space between particles. Particles are tightly 
+packed together</entry>
+              <entry>Smaller spaces than in gases, but larger spaces than in 
+solids</entry>
+              <entry>Large spaces because of high energy</entry>
+            </row>
+            <row>
+              <entry>Attractive forces between particles</entry>
+             <entry>Very strong forces. Solids have a fixed volume.</entry>
+              <entry>Stronger forces than in gas. Liquids can be poured.</entry>
+              <entry>Weak forces because of the large distance between 
+particles</entry>
+            </row>
+            <row>
+              <entry>Changes in phase</entry>
+<entry>Solids become liquids if their temperature is increased. In some cases a 
+solid may become a gas if the temperature is increased.</entry>
+              <entry>A liquid becomes a gas if its temperature is increased. It 
+becomes a solid if its temperature decreases.</entry>
+              <entry>In general a gas becomes a liquid when it is cooled. (In a 
+few cases a gas becomes a solid when cooled). Particles have less energy and 
+therefore move closer together so that the attractive forces become stronger, 
+and the gas becomes a liquid (or a solid.)</entry>
+            </row>
+          </tbody>
+        
+
+</tgroup><caption>Table summarising the general features of solids, liquids and 
+gases.</caption>
+</table>
+      <para id="eip-933">The following presentation is a brief summary of the 
+above. Try to fill in the blank spaces before clicking onto the next slide.
+
+<figure id="slidesharefigure" class="slideshare">
+    	<media id="slidesharemedia" alt="Powerpoint presentation on the kinetic      molecular theory">
+    	             <flash id="slideshareflash" height="355" width="425" mime-type="application/x-shockwave-flash" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=kinetictheory-done-100510040904-phpapp02&amp;stripped_title=kinetic-theory-done">
+    	<param name="allowScriptAccess" value="always"/>
+    	<param name="allowFullScreen" value="true"/>
+    	</flash>
+    	</media>
+    	</figure></para><para id="id309036">Let's look at an example that 
+involves the three phases of water: ice (solid), water (liquid) and water vapour 
+(gas). Note that in the <link target-id="uid41"/> below the 
+molecules in the solid phase are represented by single spheres, but they would 
+in reality look like the molecules in the liquid and gas phase. Sometimes we 
+represent molecules as single spheres in the solid phase to emphasise the small 
+amount of space between them and to make the drawing simpler.</para>
+      <figure id="uid41">
+        <media id="uid41_media" alt="">
+          <image mime-type="image/png" src="../../media/CG10C2_008.png" id="uid41_onlineimage" width="286"><!-- NOTE: attribute width changes image size 
+online (pixels). original width is 286. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/CG10C2_008.eps" id="uid41_printimage"/>
+        </media>
+        <caption>The three phases of matter</caption>
+      </figure>
+      <para id="id309053">Taking water as an example we find that in the solid 
+phase the water molecules have very little energy and can't move away from each 
+other. The molecules are held closely together in a regular pattern called a 
+<emphasis effect="italics">lattice</emphasis>. If the ice is heated, the energy 
+of the molecules increases. This means that some of the water molecules are able 
+to overcome the intermolecular forces that are holding them together, and the 
+molecules move further apart to form <emphasis effect="italics">liquid 
+water</emphasis>. This is why liquid water is able to flow, because the 
+molecules are more free to move than they were in the solid lattice. If the 
+molecules are heated further, the liquid water will become water vapour, which 
+is a gas. Gas particles have lots of energy and are far away from each other. 
+That is why it is difficult to keep a gas in a specific area! The attractive 
+forces between the particles are very weak and they are only loosely held 
+together. <link target-id="uid42"/> shows the changes in phase that may occur in 
+matter, and the names that describe these processes.</para>
+      <figure id="uid42">
+        <media id="uid42_media" alt="">
+          <image mime-type="image/png" src="../../media/CG10C2_009.png" id="uid42_onlineimage" width="295"><!-- NOTE: attribute width changes image size 
+online (pixels). original width is 295. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/CG10C2_009.eps" id="uid42_printimage"/>
+        </media>
+        <caption>Changes in phase</caption>
+      </figure>
+    </section>
+
+  </content>
+</document>

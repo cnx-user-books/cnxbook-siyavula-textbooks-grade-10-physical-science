@@ -1,0 +1,326 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Balancing chemical equations</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39977</md:content-id>
+  <md:title>Balancing chemical equations</md:title>
+  <md:abstract/>
+  <md:uuid>a4beb1c7-f981-4d2a-bc41-1024f071d64b</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid4">
+      <title>Balancing chemical equations</title>
+      <section id="uid9">
+        <title>The law of conservation of mass</title>
+        <para id="id63198">In order to balance a chemical equation, it is important to understand the law of conservation of mass.</para>
+<definition id="fhsst_id145"><term id="termfhsst_id145"> The law of conservation of mass </term> <meaning id="meaningfhsst_id145">
+        <para id="id63208">The mass of a closed system of substances will remain constant, regardless of the processes acting inside the system. Matter can change form, but cannot be created or destroyed. For any chemical process in a closed system, the mass of the reactants must equal the mass of the products. </para>
+        </meaning></definition>
+        <para id="id63221">In a chemical equation then, the <emphasis effect="bold">mass</emphasis> of the reactants must be equal to the mass of the products. In order to make sure that this is the case, the number of <emphasis effect="bold">atoms</emphasis> of each element in the reactants must be equal to the number of atoms of those same elements in the products. Some examples are shown below:</para>
+        <para id="id63238">
+          <emphasis effect="italics">Example 1:</emphasis>
+        </para>
+        <para id="id63246">
+          Fe<m:math><m:mo>+</m:mo></m:math>S
+              <m:math><m:mo>→</m:mo></m:math>
+              FeS
+        </para>
+        <para id="id63273">
+          <figure id="id63276">
+            <media id="id63276_media" alt="">
+              <image mime-type="image/png" src="../../media/CG10C5_001.png" id="id63276_onlineimage" width="205"><!-- NOTE: attribute width changes image size online (pixels). original width is 205. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/CG10C5_001.eps" id="id63276_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id63282">
+          <emphasis effect="italics">Reactants</emphasis>
+        </para>
+        <para id="id63288">Atomic mass of reactants = 55.8 u + 32.1 u = 87.9 u</para>
+        <para id="id63292">Number of atoms of each element in the reactants: (1 <m:math overflow="scroll"><m:mo>×</m:mo></m:math> Fe) and (1 <m:math overflow="scroll"><m:mo>×</m:mo></m:math> S)</para>
+        <para id="id63311">
+          <emphasis effect="italics">Products</emphasis>
+        </para>
+        <para id="id63320">Atomic mass of product = 55.8 u + 32.1 u = 87.9 u</para>
+        <para id="id63323">Number of atoms of each element in the products: (1 <m:math overflow="scroll"><m:mo>×</m:mo></m:math> Fe) and (1 <m:math overflow="scroll"><m:mo>×</m:mo></m:math> S)</para>
+        <para id="id63343">Since the number of atoms of each element is the same in the reactants and in the products, we say that the equation is <emphasis effect="bold">balanced</emphasis>.</para>
+        <para id="id63352">
+          <emphasis effect="italics">Example 2:</emphasis>
+        </para>
+        <para id="id63361">
+          H<sub>2</sub>
+              <m:math><m:mo>+</m:mo></m:math>
+              O<sub>2</sub>
+              <m:math><m:mo>→</m:mo></m:math>
+              H<sub>2</sub>O
+        </para>
+        <para id="id63399">
+          <figure id="id63402">
+            <media id="id63402_media" alt="">
+              <image mime-type="image/png" src="../../media/CG10C5_002.png" id="id63402_onlineimage" width="279"><!-- NOTE: attribute width changes image size online (pixels). original width is 279. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/CG10C5_002.eps" id="id63402_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id63409">
+          <emphasis effect="italics">Reactants</emphasis>
+        </para>
+        <para id="id63415">Atomic mass of reactants = (1 + 1) + (16 + 16) = 34 u</para>
+        <para id="id63419">Number of atoms of each element in the reactants: (2 <m:math overflow="scroll"><m:mo>×</m:mo></m:math> H) and (2 <m:math overflow="scroll"><m:mo>×</m:mo></m:math> O)</para>
+        <para id="id63438">
+          <emphasis effect="italics">Product</emphasis>
+        </para>
+        <para id="id63446">Atomic mass of product = (1 + 1 + 16) = 18 u</para>
+        <para id="id63450">Number of atoms of each element in the products: (2 <m:math overflow="scroll"><m:mo>×</m:mo></m:math> H) and (1 <m:math overflow="scroll"><m:mo>×</m:mo></m:math> O)</para>
+        <para id="id63470">Since the total atomic mass of the reactants and the products is not the same and since there are more oxygen atoms in the reactants than there are in the product, the equation is <emphasis effect="bold">not balanced</emphasis>.</para>
+        <para id="id63480">
+          <emphasis effect="italics">Example 3:</emphasis>
+        </para>
+        <para id="id63488">
+          NaOH + HCl
+              <m:math><m:mo>→</m:mo></m:math>
+              NaCl + H<sub>2</sub>O
+        </para>
+        <para id="id63537">
+          <figure id="id63540">
+            <media id="id63540_media" alt="">
+              <image mime-type="image/png" src="../../media/CG10C5_003.png" id="id63540_onlineimage" width="389"><!-- NOTE: attribute width changes image size online (pixels). original width is 389. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/CG10C5_003.eps" id="id63540_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id63546">
+          <emphasis effect="italics">Reactants</emphasis>
+        </para>
+        <para id="id63553">Atomic mass of reactants = (23 + 16 + 1) + (1 + 35.4) = 76.4 u</para>
+        <para id="id63556">Number of atoms of each element in the reactants: (1 <m:math overflow="scroll"><m:mo>×</m:mo></m:math> Na) + (1 <m:math overflow="scroll"><m:mo>×</m:mo></m:math> O) + (2 <m:math overflow="scroll"><m:mo>×</m:mo></m:math> H) + (1 <m:math overflow="scroll"><m:mo>×</m:mo></m:math> Cl)</para>
+        <para id="id63592">
+          <emphasis effect="italics">Products</emphasis>
+        </para>
+        <para id="id63600">Atomic mass of products = (23 + 35.4) + (1 + 1 + 16) = 76.4 u</para>
+        <para id="id63604">Number of atoms of each element in the products: (1 <m:math overflow="scroll"><m:mo>×</m:mo></m:math> Na) + (1 <m:math overflow="scroll"><m:mo>×</m:mo></m:math> O) + (2 <m:math overflow="scroll"><m:mo>×</m:mo></m:math> H) + (1 <m:math overflow="scroll"><m:mo>×</m:mo></m:math> Cl)</para>
+        <para id="id63639">Since the number of atoms of each element is the same in the reactants and in the products, we say that the equation is <emphasis effect="bold">balanced</emphasis>.</para>
+        <para id="id63649">We now need to find a way to balance those equations that are not balanced so that the number of atoms of each element in the reactants is the same as that for the products. This can be done by changing the <emphasis effect="bold">coefficients</emphasis> of the molecules until the atoms on each side of the arrow are balanced. You will see later in Grade 11 that these coefficients tell us something about the <emphasis effect="bold">mole ratio</emphasis> in which substances react. They also tell us about the volume relationship between gases in the reactants and products.</para>
+<note id="notfhsst_id276" type="tip">Coefficients</note>
+        <para id="id63674">Remember that if you put a number in front of a molecule, that number applies to the <emphasis effect="italics">whole</emphasis> molecule. For example, if you write 2H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>O, this means that there are 2 molecules of water. In other words, there are 4 hydrogen atoms and 2 oxygen atoms. If we write 3HCl, this means that there are 3 molecules of HCl. In other words there are 3 hydrogen atoms and 3 chlorine atoms in total. In the first example, 2 is the coefficient and in the second example, 3 is the coefficient.</para>
+      </section>
+      <para id="eip-560"><figure id="id63458"><media id="id63458_media" alt="">
+            <image mime-type="image/png" src="../../media/balancing-chemical-equations-screenshot.png" id="id63458_onlineimage" width="300"><!-- NOTE: attribute width changes image size online (pixels). original width is 	149. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/balancing-chemical-equations-screenshot.eps" id="id63458_printimage"/>
+            </media>
+            </figure>
+
+<link class="phetsim" window="new" url="http://phet.colorado.edu/sims/balancing-chemical-equations/balancing-chemical-equations_en.jnlp">run demo</link></para><section id="uid10">
+        <title>Steps to balance a chemical equation</title>
+        <para id="id63708">When balancing a chemical equation, there are a number of steps that need to be followed.</para>
+        <list id="id63712" display="block" list-type="bulleted">
+          <item id="uid11">STEP 1: Identify the reactants and the products in the reaction and write their chemical formulae.
+</item>
+          <item id="uid12">STEP 2: Write the equation by putting the reactants on the left of the arrow and the products on the right.
+</item>
+          <item id="uid13">STEP 3: Count the number of atoms of each element in the reactants and the number of atoms of each element in the products.
+</item>
+          <item id="uid14">STEP 4: If the equation is not balanced, change the coefficients of the molecules until the number of atoms of each element on either side of the equation balance.
+</item>
+          <item id="uid15">STEP 5: Check that the atoms are in fact balanced.
+</item>
+          <item id="uid16">STEP 6 (we will look at this a little later): Add any extra details to the equation e.g. phase.
+</item>
+        </list>
+<exercise id="secfhsst_id296"><title> Balancing chemical equations 1 </title>
+        <problem id="probfhsst_id297">
+        <para id="id63803">Balance the following equation:</para>
+        <para id="id63808">
+          Mg + HCl
+              <m:math><m:mo>→</m:mo></m:math>
+          MgCl<sub>2</sub> + H<sub>2</sub>
+        </para>
+        <!--empty paragraphs get left behind.-->
+        
+        </problem>
+        <solution id="solfhsst_id327"> <list id="listfhsst_id327" list-type="enumerated" number-style="arabic" class="stepwise">
+        
+       
+        <item> <label> Because the equation has been written for you, you can move straight on to counting the number of atoms of each element in the reactants and products </label>
+        <para id="id63895">Reactants: Mg = 1 atom; H = 1 atom and Cl = 1 atom</para>
+        <para id="id63899">Products: Mg = 1 atom; H = 2 atoms and Cl = 2 atoms</para>
+        </item> <item> <label> Balance the equation </label>
+        <para id="id63906">The equation is not balanced since there are 2 chlorine atoms in the product and only 1 in the reactants. If we add a coefficient of 2 to the HCl to increase the number of H and Cl atoms in the reactants, the equation will look like this:</para>
+        <para id="id63912">
+        Mg + 2HCl
+              <m:math><m:mo>→</m:mo></m:math>
+       MgCl<sub>2</sub> + H<sub>2</sub>
+        </para>
+        <!--empty paragraphs get left behind.-->
+        </item> <item> <label> Check that the atoms are balanced </label>
+        <para id="id63970">If we count the atoms on each side of the equation, we find the following:</para>
+        <para id="id63974">Reactants: Mg = 1; H = 2; Cl = 2</para>
+        <para id="id63977">Products: Mg = 1; H = 2; Cl = 2</para>
+        <para id="id63981">The equation is balanced. The final equation is:</para>
+        <para id="id63984">
+          Mg + 2HCl
+              <m:math><m:mo>→</m:mo></m:math>
+       MgCl<sub>2</sub> + H<sub>2</sub>
+        </para>
+ </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id394"><title> Balancing chemical equations 2 </title>
+        <problem id="probfhsst_id395">
+        <para id="id64047">Balance the following equation:</para>
+        <para id="id64052">
+         CH<sub>4</sub> + O<sub>2</sub>
+              <m:math><m:mo>→</m:mo></m:math>
+              CO<sub>2</sub> + H<sub>2</sub>O
+        </para>
+        
+        </problem>
+        <solution id="solfhsst_id427"> <list id="listfhsst_id427" list-type="enumerated" number-style="arabic" class="stepwise">
+        
+       
+        <item> <label> Count the number of atoms of each element in the reactants and products </label>
+        <para id="id64139">Reactants: C = 1; H = 4; O = 2</para>
+        <para id="id64142">Products: C = 1; H = 2; O = 3</para>
+        </item> <item> <label> Balance the equation </label>
+        <para id="id64149">If we add a coefficient of 2 to H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>O, then the number of hydrogen atoms in the reactants will be 4, which is the same as for the reactants. The equation will be:</para>
+        <para id="id64166">
+          CH<sub>4</sub> + O<sub>2</sub>
+              <m:math><m:mo>→</m:mo></m:math>
+              CO<sub>2</sub> + 2H<sub>2</sub>O
+        </para>
+        <!--empty paragraphs get left behind.-->
+        </item> <item> <label> Check that the atoms balance </label>
+        <para id="id64230">Reactants: C = 1; H = 4; O = 2</para>
+        <para id="id64234">Products: C = 1; H = 4; O = 4</para>
+        <para id="id64238">You will see that, although the number of <emphasis effect="italics">hydrogen</emphasis> atoms now balances, there are more oxygen atoms in the products. You now need to repeat the previous step. If we put a coefficient of 2 in front of O<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>, then we will increase the number of oxygen atoms in the reactants by 2. The new equation is:</para>
+        <para id="id64262">
+         CH<sub>4</sub> + 2O<sub>2</sub>
+              <m:math><m:mo>→</m:mo></m:math>
+              CO<sub>2</sub> + 2H<sub>2</sub>O
+        </para>
+        <para id="id64320">When we check the number of atoms again, we find that the number of atoms of each element in the reactants is the same as the number in the products. The equation is now balanced.</para>
+ </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id501"><title> Balancing chemical equations 3 </title>
+        <problem id="probfhsst_id502">
+        <para id="id64337">Nitrogen gas reacts with hydrogen gas to form ammonia. Write a balanced chemical equation for this reaction.</para>
+        
+        </problem>
+        <solution id="solfhsst_id506"> <list id="listfhsst_id506" list-type="enumerated" number-style="arabic" class="stepwise">
+        
+        
+        <item> <label> Identify the reactants and the products and write their chemical formulae </label>
+        <para id="id64383">The reactants are nitrogen (N<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>) and hydrogen (H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>) and the product is ammonia (NH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>).</para>
+        </item> <item> <label> Write the equation so that the reactants are on the left and products on the right of the arrow </label>
+        <para id="id64433">The equation is as follows:</para>
+        <para id="id64436">
+         N<sub>2</sub> + H<sub>2</sub>
+              <m:math><m:mo>→</m:mo></m:math>
+              NH<sub>3</sub>
+        </para>
+        <!--empty paragraphs get left behind.-->
+        </item> <item> <label> Count the atoms of each element in the reactants and products </label>
+        <para id="id64485">Reactants: N = 2; H = 2</para>
+        <para id="id64488">Products: N = 1; H = 3</para>
+        </item> <item> <label> Balance the equation </label>
+        <para id="id64495">In order to balance the number of nitrogen atoms, we could rewrite the equation as:</para>
+        <para id="id64499">
+N<sub>2</sub> + H<sub>2</sub>
+              <m:math><m:mo>→</m:mo></m:math>
+              2NH<sub>3</sub>
+        </para>
+        <!--empty paragraphs get left behind.-->
+        </item> <item> <label> Check that the atoms are balanced </label>
+        <para id="id64550">In the above equation, the nitrogen atoms now balance, but the hydrogen atoms don't (there are 2 hydrogen atoms in the reactants and 6 in the product). If we put a coefficient of 3 in front of the hydrogen (H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>), then the hydrogen atoms and the nitrogen atoms balance. The final equation is:</para>
+        <para id="id64569">
+N<sub>2</sub> + 3H<sub>2</sub>
+              <m:math><m:mo>→</m:mo></m:math>
+              2NH<sub>3</sub>
+        </para>
+        <!--empty paragraphs get left behind.-->
+</item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id590"><title> Balancing chemical equations 4 </title>
+        <problem id="probfhsst_id591">
+        <para id="id64630">In our bodies, sugar (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>) reacts with the oxygen we breathe in to produce carbon dioxide, water and energy. Write the balanced equation for this reaction.</para>
+        
+        </problem>
+        <solution id="solfhsst_id595"> <list id="listfhsst_id595" list-type="enumerated" number-style="arabic" class="stepwise">
+        
+       
+        <item> <label> Identify the reactants and products in the reaction and write their chemical formulae. </label>
+        <para id="id64715">Reactants: sugar (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>) and oxygen (O<sub>2</sub>)</para>
+        <para id="id64778">Products: carbon dioxide (CO <sub>2</sub>) and water (H<sub>2</sub>O)</para>
+        </item> <item> <label> Write the equation by putting the reactants on the left of the arrow and the products on the right </label>
+        <para id="uid097212">C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> + O<sub>2</sub>
+              <m:math><m:mo>→</m:mo></m:math>
+              CO<sub>2</sub> + H<sub>2</sub>O</para>
+        </item> <item> <label> Count the number of atoms of each element in the reactants and the number of atoms of each element in the products </label>
+        <para id="id64900">Reactants: C=6; H=12; O=8;</para>
+        <para id="id64903">Products: C=1; H=2; O=3;</para>
+        </item> <item> <label> Change the coefficents of the molecules until the number of atoms of each element on either side of the equation balance. </label>
+        <para id="id64912">It is easier to start with carbon as it only appears once on each side. If we add a 6 in front of CO <sub>2</sub>, the equation looks like this:</para>
+<para id="uid0913">C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> + O<sub>2</sub>
+              <m:math><m:mo>→</m:mo></m:math>
+              6CO<sub>2</sub> + H<sub>2</sub>O</para>
+        <para id="id64998">Reactants: C=6; H=12; O=8;</para>
+        <para id="id65004">Products: C=6; H=2; O=13;</para>
+        </item> <item> <label> Change the coefficients again to try to balance the equation. </label>
+        <para id="id65011">Let's try to get the number of hydrogens the same this time.</para>
+<para id="uid0987213">C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> + O<sub>2</sub>
+              <m:math><m:mo>→</m:mo></m:math>
+              6CO<sub>2</sub> + 6H<sub>2</sub>O</para>
+        <para id="id65085">Reactants: C=6; H=12; O=8;</para>
+        <para id="id65091">Products: C=6; H=12; O=18;</para>
+        </item> <item> <label> Now we just need to balance the oxygen atoms. </label>
+<para id="uid091873">C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> + 12O<sub>2</sub>
+              <m:math><m:mo>→</m:mo></m:math>
+              6CO<sub>2</sub> + 6H<sub>2</sub>O</para>
+        <para id="id65171">Reactants: C=6; H=12; O=18;</para>
+        <para id="id65176">Products: C=6; H=12; O=18;</para>
+ </item> </list> </solution>
+</exercise>
+<section id="secfhsst_id763"><title> Balancing simple chemical equations
+        </title>
+        <para id="id65193">Balance the following equations:</para>
+        <list id="id65199" display="block" list-type="enumerated"><item id="uid17">Hydrogen fuel cells are extremely important in the development of alternative energy sources. Many of these cells work by reacting hydrogen and oxygen gases together to form water, a reaction which also produces electricity. Balance the following equation:
+H<sub>2</sub>(g) + O<sub>2</sub>(g)<m:math><m:mo>→</m:mo></m:math> H<sub>2</sub>O(l)<space/><link window="new" class="fullmarks" resource="http://www.fhsst.org/lOg">Click here for the solution</link></item>
+          <item id="uid18">The synthesis of ammonia (NH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>), made famous by the German chemist Fritz Haber in the early 20th century, is one of the most important reactions in the chemical industry. Balance the following equation used to produce ammonia:
+N<sub>2</sub>(g) + H<sub>2</sub>(g)<m:math><m:mo>→</m:mo></m:math>NH<sub>3</sub>(g)<space/><link window="new" class="fullmarks" resource="http://www.fhsst.org/lO4">Click here for the solution</link></item>
+          <item id="uid19">
+Mg + P<sub>4</sub><m:math>
+                <m:mo>→</m:mo></m:math> Mg<sub>3</sub>P<sub>2</sub>
+          <space/><link window="new" class="fullmarks" resource="http://www.fhsst.org/lO2">Click here for the solution</link></item>
+          <item id="uid20">
+Ca + H<sub>2</sub>O<m:math>
+                <m:mo>→</m:mo></m:math>
+Ca(OH)<sub>2</sub> + H<sub>2</sub>
+          <space/><link window="new" class="fullmarks" resource="http://www.fhsst.org/lOT">Click here for the solution</link></item>
+          <item id="uid21">
+CuCO<sub>3</sub> + H<sub>2</sub>SO<sub>4</sub>
+            <m:math overflow="scroll">
+                <m:mo>→</m:mo></m:math> CuSO<sub>4</sub> + 
+H<sub>2</sub>O + CO<sub>2</sub>
+          <space/><link window="new" class="fullmarks" resource="http://www.fhsst.org/lOb">Click here for the solution</link></item>
+          <item id="uid22">
+CaCl<sub>2</sub> + Na<sub>2</sub>CO<sub>3</sub>
+            <m:math overflow="scroll">
+                <m:mo>→</m:mo></m:math> 
+CaCO<sub>3</sub> + NaCl
+           <space/><link window="new" class="fullmarks" resource="http://www.fhsst.org/lOj">Click here for the solution</link></item>
+          <item id="uid23">
+C<sub>12</sub>H<sub>22</sub>O<sub>11</sub> + O<sub>2</sub> + H<sub>2</sub>O
+          <space/><link window="new" class="fullmarks" resource="http://www.fhsst.org/lOD">Click here for the solution</link></item>
+          <item id="uid24">Barium chloride reacts with sulphuric acid to produce barium sulphate and hydrochloric acid.
+<link window="new" class="fullmarks" resource="http://www.fhsst.org/lOW">Click here for the 	solution</link></item>
+          <item id="uid25">Ethane (C<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>6</m:mn></m:msub></m:math>) reacts with oxygen to form carbon dioxide and steam.
+<link window="new" class="fullmarks" resource="http://www.fhsst.org/lOZ">Click here for the solution</link></item>
+          <item id="uid26">Ammonium carbonate is often used as a smelling salt. Balance the following reaction for the decomposition of ammonium carbonate:
+(NH<sub>4</sub>)<sub>2</sub>CO<sub>3</sub>(s)<m:math><m:mo>→</m:mo></m:math>NH<sub>3</sub>(aq) + CO<sub>2</sub>(g) + H<sub>2</sub>O(l)<space/><link window="new" class="fullmarks" resource="http://www.fhsst.org/lOB">Click here for the solution</link></item>
+        </list>
+        
+</section>
+      </section>
+    </section>
+
+  </content>
+</document>

@@ -1,0 +1,115 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Introduction and light rays</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m40071</md:content-id>
+  <md:title>Introduction and light rays</md:title>
+  <md:abstract/>
+  <md:uuid>a5443aa1-4006-4b39-a3c0-2dc02e2646d5</md:uuid>
+</metadata>
+
+<content>
+    
+    <section id="cid2">
+      <title>Introduction</title>
+      <para id="id178613">You are indoors on a sunny day. A beam of sunlight through a window lights up a section of the floor. How would you draw this sunbeam? You might draw a series of parallel lines showing the path of the sunlight from the window to the floor. This is not exactly accurate – no matter how hard you look, you will not find unique lines of light in the sunbeam! However, this is a good way to draw light. It is also a good way to model light geometrically, as we will see in this chapter.</para>
+      <para id="id178625">These narrow, imaginary lines of light are called <emphasis effect="bold">light rays</emphasis>. Since light is an electromagnetic wave, you could think of a light ray as the path of a point on the crest of a wave. Or, you could think of a light ray as the path taken by a miniscule particle that carries light. We will always draw them the same way: as straight lines between objects, images, and optical devices.</para>
+      <para id="id178975">We can use light rays to model mirrors, lenses, telescopes, microscopes, and prisms. The study of how light interacts with materials is <emphasis effect="bold">optics</emphasis>. When dealing with light rays, we are usually interested in the shape of a material and the angles at which light rays hit it. From these angles, we can work out, for example, the distance between an object and its reflection. We therefore refer to this kind of optics as <emphasis effect="bold">geometrical optics</emphasis>.</para>
+    </section>
+    <section id="cid3">
+      <title>Light Rays</title>
+      <para id="id179000">In physics we use the idea of a <emphasis effect="italics">light ray</emphasis> to indicate the direction that light travels. Light rays are lines with arrows and are used to show the path that light travels. In <link target-id="uid1"/>, the light rays from the object enters the eye and the eye <emphasis effect="italics">sees</emphasis> the object.</para>
+      <para id="id179021">The most important thing to remember is that we can only see an object when light from the object enters our eyes. The object must be a source of light (for example a light bulb) or else it must reflect light from a source (for example the moon), and the reflected light enters our eyes.</para>
+<note id="notfhsst_id83" type="tip">We cannot see an object unless light from that object enters our eyes.</note>
+<definition id="fhsst_id84"><term id="termfhsst_id84"> Light ray </term> <meaning id="meaningfhsst_id84">
+      <para id="id179039">Light rays are straight lines with arrows to show the path of light. </para>
+      </meaning></definition>
+      <figure id="uid1">
+        <media id="uid1_media" alt="">
+          <image mime-type="image/png" src="../../media/PG10C6_001.png" id="uid1_onlineimage" width="115"><!-- NOTE: attribute width changes image size online (pixels). original width is 115. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_001.eps" id="uid1_printimage"/>
+        </media>
+        <caption>We can only see an object when light from that object enters our eyes. We draw light as lines with arrows to show the direction the light travels. When the light travels from the object to the eye, the eye can see the object. Light rays entering the eye from the cart are shown as dashed lines. The second wheel of the cart will be invisible as no straight, unobstructed lines exist between it and the eye.</caption>
+      </figure>
+<note id="notfhsst_id94" type="tip">Light rays are not an exact description of a general source of light. They are merely used to show the path that light travels.</note>
+<section id="secfhsst_id95"><title> Investigation : Light travels in straight lines </title>
+      <para id="id179078">
+        <emphasis effect="bold">Apparatus:</emphasis>
+      </para>
+      <para id="id179087">
+You will need a candle, matches and three sheets of paper.</para>
+      <para id="id179093">
+        <emphasis effect="bold">Method:</emphasis>
+      </para>
+      <list id="id179101" display="block" list-type="enumerated">
+        <item id="uid2">Make a small hole in the middle of each of the three sheets of paper.
+</item>
+        <item id="uid3">Light the candle.
+</item>
+        <item id="uid4">Look at the burning candle through the hole in the first sheet of paper.
+</item>
+        <item id="uid5">Place the second sheet of paper between you and the candle so that you can still see the candle through the holes.
+</item>
+        <item id="uid6">Now do the same with the third sheet so that you can still see the candle. The sheets of paper must not touch each other.
+<figure id="uid7"><media id="uid7_media" alt=""><image mime-type="image/png" src="../../media/PG10C6_002.png" id="uid7_onlineimage" width="285"><!-- NOTE: attribute width changes image size online (pixels). original width is 285. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_002.eps" id="uid7_printimage"/></media><caption>Light travels in straight lines</caption></figure></item>
+        <item id="uid8">What do you notice about the holes in the paper?
+</item>
+      </list>
+      <para id="id179189">
+        <emphasis effect="bold">Conclusions:</emphasis>
+      </para>
+      <para id="id179197">
+In the investigation you will notice that the holes in the paper need to be in a straight line. This shows that light travels in a straight line. We cannot see around corners. This also proves that light does not bend around a corner, but travels straight.
+ </para>
+</section>
+<section id="secfhsst_id125"><title> Investigation : Light travels in straight lines </title>
+      <para id="id179217">On a sunny day, stand outside and look at something in the distance, for example a tree, a flower or a car. From what we have learnt, we can see the tree, flower or car because light from the object is entering our eye. Now take a sheet of paper and hold it about 20 cm in front of your face. Can you still see the tree, flower or car? Why not? </para>
+</section>
+      <para id="id179233"><link target-id="uid9"/> shows that a sheet of paper in front of your eye prevents light rays from reaching your eye.</para>
+      <figure id="uid9">
+        <media id="uid9_media" alt="">
+          <image mime-type="image/png" src="../../media/PG10C6_003.png" id="uid9_onlineimage" width="137"><!-- NOTE: attribute width changes image size online (pixels). original width is 137. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_003.eps" id="uid9_printimage"/>
+        </media>
+        <caption>The sheet of paper prevents the light rays from reaching the eye, and the eye cannot see the object.</caption>
+      </figure>
+      <section id="uid10">
+        <title>Shadows</title>
+        <para id="id179262">Objects cast shadows when light shines on them. This is more evidence that light travels in straight lines. The picture below shows how shadows are formed.</para>
+        <para id="id179267">
+          <figure id="id179270">
+            <media id="id179270_media" alt="">
+              <image mime-type="image/png" src="../../media/PG10C6_004.png" id="id179270_onlineimage" width="112"><!-- NOTE: attribute width changes image size online (pixels). original width is 112. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_004.eps" id="id179270_printimage"/>
+            </media>
+          </figure>
+        </para>
+      </section>
+      <section id="uid11">
+        <title>Ray Diagrams</title>
+        <para id="id179285">A ray diagram is a drawing that shows the path of light rays. Light rays are drawn using straight lines and arrow heads. The figure below shows some examples of ray diagrams.</para>
+        <para id="id179290">
+          <figure id="id179293">
+            <media id="id179293_media" alt="">
+              <image mime-type="image/png" src="../../media/PG10C6_005.png" id="id179293_onlineimage" width="103"><!-- NOTE: attribute width changes image size online (pixels). original width is 103. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_005.eps" id="id179293_printimage"/>
+            </media>
+          </figure>
+          <figure id="id179299">
+            <media id="id179299_media" alt="">
+              <image mime-type="image/png" src="../../media/PG10C6_006.png" id="id179299_onlineimage" width="118"><!-- NOTE: attribute width changes image size online (pixels). original width is 118. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_006.eps" id="id179299_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <!--empty paragraphs get left behind.-->
+<section id="secfhsst_id166"><title> Light Rays </title>
+        <list id="id179316" display="block" list-type="enumerated"><item id="uid13">Give evidence to support the statement: “Light travels in straight lines”. Draw a ray diagram to prove this.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lrt">Click here for the solution.</link>
+</item>
+        </list>
+        
+</section>
+      </section>
+    </section>
+
+  </content>
+</document>

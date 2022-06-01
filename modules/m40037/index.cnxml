@@ -1,0 +1,269 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Magnetic fields and permanent magnets</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m40037</md:content-id>
+  <md:title>Magnetic fields and permanent magnets</md:title>
+  <md:abstract/>
+  <md:uuid>53280546-65e1-4744-a9ce-0c4ad8b6b4d9</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid2">
+      <title>Introduction</title>
+      <para id="id127925">Magnetism is a force that certain kinds of objects, which are called `magnetic' objects, can exert on each other without physically touching. A magnetic object is surrounded by a magnetic `field' that gets weaker as one moves further away from the object. A second object can feel a magnetic force from the first object because it feels the magnetic field of the first object.</para>
+      <para id="id127932">Humans have known about magnetism for many thousands of years.
+For example, <emphasis effect="italics">lodestone</emphasis> is a magnetised form of the iron oxide mineral
+<emphasis effect="italics">magnetite</emphasis>. It has the property of attracting iron
+objects. It is referred to in old European and Asian historical
+records; from around 800 <emphasis effect="smallcaps">BCE</emphasis> in Europe and around
+2 600 <emphasis effect="smallcaps">BCE</emphasis> in Asia.</para>
+<note id="notfhsst_id81"><title> Interesting Fact </title>
+      <para id="id128302">The root of the English word <emphasis effect="italics">magnet</emphasis> is from the Greek word <emphasis effect="italics">magnes</emphasis>, probably from Magnesia in Asia Minor, once an important source of lodestone.</para>
+</note>
+    </section>
+    <section id="cid3">
+      <title>Magnetic fields</title>
+      <para id="id128332">A magnetic field is a region in space where a magnet or object made of magnetic material will experience a non-contact force.</para>
+      <para id="id128337">Electrons inside any object have magnetic fields associated
+with them. In most materials these fields point in all
+directions, so the net magnetic field is zero. For example, in the plastic ball below,
+the directions of the magnetic fields of the electrons (shown by the arrows) are pointing
+in different directions and cancel each other out. Therefore the plastic ball is not magnetic and
+has no magnetic field.</para>
+      <para id="id128346">
+        <figure id="id128349">
+          <media id="id128349_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C7_001.png" id="id128349_onlineimage" width="320"><!-- NOTE: attribute width changes image size online (pixels). original width is 320. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C7_001.eps" id="id128349_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id128355">In some materials (e.g. iron), called <emphasis effect="bold">ferromagnetic</emphasis> materials, there are regions called <emphasis effect="italics">domains</emphasis>, where the electrons' magnetic fields line up with each other. All the atoms in each domain are grouped together so that the magnetic fields from their electrons point the same way. The picture shows a piece of an iron needle zoomed in to show the domains with the electric fields lined up inside them.</para>
+      <para id="id128371">
+        <figure id="id128374">
+          <media id="id128374_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C7_002.png" id="id128374_onlineimage" width="298"><!-- NOTE: attribute width changes image size online (pixels). original width is 298. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C7_002.eps" id="id128374_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id128380">In permanent magnets, many domains are lined up, resulting in a <emphasis effect="italics">net magnetic field</emphasis>.
+Objects made from ferromagnetic materials can be magnetised, for example by rubbing a magnet
+along the object in one direction. This causes the magnetic fields of most, or all, of the domains to line up in one direction. As a result the object as a whole will have a net magnetic field. It is <emphasis effect="italics">magnetic</emphasis>. Once a ferromagnetic object has been magnetised, it can stay magnetic without another magnet being nearby (i.e. without being in another magnetic field). In the picture below, the needle has been magnetised because the magnetic fields in all the domains are pointing in the same direction.</para>
+      <para id="id128400">
+        <figure id="id128403">
+          <media id="id128403_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C7_003.png" id="id128403_onlineimage" width="298"><!-- NOTE: attribute width changes image size online (pixels). original width is 298. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C7_003.eps" id="id128403_printimage"/>
+          </media>
+        </figure>
+      </para>
+<section id="secfhsst_id122"><title> Investigation : Ferromagnetic materials and magnetisation </title>
+      <list id="id128416" display="block" list-type="enumerated"><item id="uid1">Find 2 paper clips. Put the paper clips close together and observe what happens.
+<list id="id128431" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid2">What happens to the paper clips?</item><item id="uid3">Are the paper clips magnetic?</item></list></item>
+        <item id="uid4">Now take a permanent bar magnet and rub it once along 1 of the paper clips. Remove the magnet and put the paper clip which was touched by the magnet close to the other paper clip and observe what happens. Does the untouched paper clip feel a force on it? If so, is the force attractive or repulsive?</item>
+        <item id="uid6">Rub the same paper clip a few more times with the bar magnet, in the same direction as before. Put the paper clip close to the other one and observe what happens.
+<list id="id128510" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid7">Is there any difference to what happened in step 2?</item><item id="uid8">If there is a difference, what is the reason for it?</item><item id="uid9">Is the paper clip which was rubbed repeatedly by the magnet now magnetised?</item><item id="uid10">What is the difference between the two paper clips at the level of their atoms and electrons?</item></list></item>
+        <item id="uid11">Now, find a <emphasis effect="italics">metal</emphasis> knitting needle, or a metal ruler, or other metal object. Rub the bar magnet along the knitting needle a few times in the same direction. Now put the knitting needle close to the paper clips and observe what happens.
+<list id="id128593" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid12">Does the knitting needle attract the paper clips?</item><item id="uid13">What does this tell you about the material of the knitting needle? Is it ferromagnetic?</item></list></item>
+        <item id="uid14">Repeat this experiment with objects made from other materials. Which materials appear to be ferromagnetic and which are not? Put your answers in a table.</item>
+      </list>
+      
+</section>
+      <para id="id128668">A ferromagnetic material is a substance that shows spontaneous magnetisation.</para>
+    </section>
+    <section id="cid4">
+      <title>Permanent magnets</title>
+      <section id="uid16">
+        <title>The poles of permanent magnets</title>
+        <para id="id128690">Because the domains in a permanent magnet all line up in a particular direction, the magnet has a pair of opposite poles, called <emphasis effect="bold">north</emphasis> (usually shortened to <emphasis effect="bold">N</emphasis>) and <emphasis effect="bold">south</emphasis> (usually shortened to <emphasis effect="bold">S</emphasis>). Even if the magnet is cut into tiny pieces, each piece will still have <emphasis effect="italics">both</emphasis> a N and a S pole. These magnetic poles <emphasis effect="italics">always</emphasis> occur in pairs. In nature, we never find a north magnetic pole or south magnetic pole on its own.</para>
+        <para id="id128728">
+          <figure id="id128731">
+            <media id="id128731_media" alt="">
+              <image mime-type="image/png" src="../../media/PG10C7_004.png" id="id128731_onlineimage" width="263"><!-- NOTE: attribute width changes image size online (pixels). original width is 263. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG10C7_004.eps" id="id128731_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id128737">Magnetic fields are <emphasis effect="italics">different</emphasis> from gravitational and electric
+fields. In nature, positive and negative electric charges can be found
+on their own, but you <emphasis effect="italics">never</emphasis> find just a north magnetic pole or south magnetic pole on its
+own. On the very small scale, zooming in to the size of atoms, magnetic fields are caused by
+moving charges (i.e. the negatively charged electrons).</para>
+      </section>
+      <section id="uid17">
+        <title>Magnetic attraction and repulsion</title>
+        <para id="id128763">Like (identical) poles of magnets repel one another whilst unlike (opposite) poles attract. This means that two N poles or two S poles will push away from each other while a N
+pole and a S pole will be drawn towards each other.</para>
+<definition id="fhsst_id162"><term id="termfhsst_id162"> Attraction and Repulsion </term> <meaning id="meaningfhsst_id162">
+        <para id="id128774"><emphasis effect="italics">Like</emphasis> poles of magnets <emphasis effect="italics">repel</emphasis>
+each other whilst <emphasis effect="italics">unlike</emphasis> poles <emphasis effect="italics">attract</emphasis> each other. </para>
+        </meaning></definition>
+<exercise id="secfhsst_id166"><title> Attraction and Repulsion </title>
+        <problem id="probfhsst_id167">
+        <para id="id128816">Do you think the following magnets will repel or be attracted to each other?</para>
+        <para id="id128822">
+          <figure id="id128826">
+            <media id="id128826_media" alt="">
+              <image mime-type="image/png" src="../../media/PG10C7_006.png" id="id128826_onlineimage" width="219"><!-- NOTE: attribute width changes image size online (pixels). original width is 219. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG10C7_006.eps" id="id128826_printimage"/>
+            </media>
+          </figure>
+        </para>
+        
+        </problem>
+        <solution id="solfhsst_id179"> <list id="listfhsst_id179" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Determine what is required </label>
+        <para id="id128851">We are required to determine
+whether the two magnets will repel each other or be attracted to
+each other.</para>
+        </item> <item> <label> Determine what is given </label>
+        <para id="id128859">We are given two
+magnets with the N pole of one approaching the N pole of the
+other.</para>
+        </item> <item> <label> Determine the conclusion </label>
+        <para id="id128867">Since both poles are the same, the magnets will repel each other. </para>
+        </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id192"><title> Attraction and repulsion </title>
+        <problem id="probfhsst_id193">
+        <para id="id128894">Do you think the following magnets will repel or be attracted to each other?</para>
+        <para id="id128900">
+          <figure id="id128904">
+            <media id="id128904_media" alt="">
+              <image mime-type="image/png" src="../../media/PG10C7_007.png" id="id128904_onlineimage" width="220"><!-- NOTE: attribute width changes image size online (pixels). original width is 220. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG10C7_007.eps" id="id128904_printimage"/>
+            </media>
+          </figure>
+        </para>
+        
+        </problem>
+        <solution id="solfhsst_id205"> <list id="listfhsst_id205" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Determine what is required </label>
+        <para id="id128929">We are required to determine
+whether the two magnets will repel each other or be attracted to
+each other.</para>
+        </item> <item> <label> Determine what is given </label>
+        <para id="id128937">We are given two
+magnets with the N pole of one approaching the S pole of the
+other.</para>
+        </item> <item> <label> Determine the conclusion </label>
+        <para id="id128945">Since both poles are the
+different, the magnets will be attracted to each other.  </para>
+        </item> </list> </solution>
+</exercise>
+      </section>
+      <section id="uid18">
+        <title>Representing magnetic fields</title>
+        <para id="id128970">Magnetic fields can be <emphasis effect="italics">represented</emphasis> using <emphasis effect="bold">magnetic field lines</emphasis> starting at the North pole and ending at the South pole. Although the magnetic field of a permanent magnet is everywhere surrounding the
+magnet (in all three dimensions), we draw only some of the field lines to represent the field
+(usually only a two-dimensional cross-section is shown in drawings).</para>
+        <para id="id128986">
+          <figure id="id128989">
+            <media id="id128989_media" alt="">
+              <image mime-type="image/png" src="../../media/PG10C7_008.png" id="id128989_onlineimage" width="286"><!-- NOTE: attribute width changes image size online (pixels). original width is 286. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG10C7_008.eps" id="id128989_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id128995">In areas where the magnetic field is strong, the field lines are closer together.
+Where the field is weaker, the field lines are drawn further apart. The number of field lines drawn crossing a given two-dimensional surface is referred to as the <emphasis effect="bold">magnetic flux</emphasis>. The magnetic flux is used as a measure of the strength of the magnetic field over that surface.</para>
+<note id="notfhsst_id235" type="tip">
+        <list id="id129012" display="block" list-type="enumerated">
+          <item id="uid19">Field lines <emphasis effect="italics">never</emphasis> cross.
+</item>
+          <item id="uid20">Arrows drawn on the field lines indicate the direction of the field.
+</item>
+          <item id="uid21">A magnetic field points from the north to the south
+pole of a magnet.
+</item>
+        </list>
+</note>
+<section id="secfhsst_id246"><title> Investigation : Field around a Bar Magnet </title>
+        <para id="id129067">Take a bar magnet and place
+it on a flat surface. Place a sheet of white paper over the bar
+magnet and sprinkle some iron filings onto the paper. Give the
+paper a shake to evenly distribute the iron filings. In your
+workbook, draw the bar magnet and the pattern formed by the iron
+filings. Draw the pattern formed when you rotate the bar magnet to a different angle as
+shown below.</para>
+        <para id="id129075">
+          <figure id="id129078">
+            <media id="id129078_media" alt="">
+              <image mime-type="image/png" src="../../media/PG10C7_009.png" id="id129078_onlineimage" width="158"><!-- NOTE: attribute width changes image size online (pixels). original width is 158. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG10C7_009.eps" id="id129078_printimage"/>
+            </media>
+          </figure>
+        </para>
+        
+</section>
+        <para id="id129093">As the activity shows, one can map the magnetic field of a magnet by
+placing it underneath a piece of paper and sprinkling
+iron filings on top. The iron filings line themselves up parallel to the magnetic field.</para>
+<section id="secfhsst_id267"><title> Investigation : Field around a Pair of Bar Magnets </title>
+        <para id="id129105">Take two bar magnets
+and place them a short distance apart such that they are repelling
+each other. Place a sheet of white paper over the bar magnets and
+sprinkle some iron filings onto the paper. Give the paper a shake
+to evenly distribute the iron filings. In your workbook, draw both
+the bar magnets and the pattern formed by the iron filings. Repeat
+the procedure for two bar magnets attracting each other and draw
+what the pattern looks like for this situation. Make a note of the
+shape of the lines formed by the iron filings, as well as their
+size and their direction for both arrangements of the bar magnet.
+What does the pattern look like when you place both bar magnets
+side by side?</para>
+        <para id="id129116">
+          <figure id="id129120">
+            <media id="id129120_media" alt="">
+              <image mime-type="image/png" src="../../media/PG10C7_011.png" id="id129120_onlineimage" width="294"><!-- NOTE: attribute width changes image size online (pixels). original width is 294. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG10C7_011.eps" id="id129120_printimage"/>
+            </media>
+          </figure>
+        </para>
+        
+</section>
+        <para id="id129134">As already said, opposite poles of a magnet attract each other and
+bringing them together causes their magnetic field lines to
+<emphasis effect="italics">converge</emphasis> (come together). Like poles of a magnet repel each other and bringing
+them together causes their magnetic field lines to <emphasis effect="italics">diverge</emphasis> (bend out from each other).</para>
+        <para id="id129150">
+          <figure id="id129153">
+            <media id="id129153_media" alt="">
+              <image mime-type="image/png" src="../../media/PG10C7_012.png" id="id129153_onlineimage" width="290"><!-- NOTE: attribute width changes image size online (pixels). original width is 290. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG10C7_012.eps" id="id129153_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id129159">
+          <figure id="id129162">
+            <media id="id129162_media" alt="">
+              <image mime-type="image/png" src="../../media/PG10C7_013.png" id="id129162_onlineimage" width="290"><!-- NOTE: attribute width changes image size online (pixels). original width is 290. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG10C7_013.eps" id="id129162_printimage"/>
+            </media>
+          </figure>
+        </para>
+<section id="secfhsst_id310"><title> Ferromagnetism and Retentivity </title>
+        <para id="id129174"><emphasis effect="bold">Ferromagnetism</emphasis> is a
+phenomenon shown by materials like iron, nickel or cobalt.
+These materials can form permanent magnets. They always
+magnetise so as to be attracted to a magnet, no matter which
+magnetic pole is brought toward the unmagnetised iron/nickel/cobalt.</para>
+        <para id="id129186">The ability of a ferromagnetic material to retain its
+magnetisation <emphasis effect="italics">after</emphasis> an external field is removed is called its
+<emphasis effect="bold">retentivity</emphasis>.</para>
+        <para id="id129203"><emphasis effect="bold">Paramagnetic</emphasis> materials are materials like
+aluminium or platinum, which become magnetised in an external
+magnetic field in a similar way to ferromagnetic materials. However, they
+lose their magnetism when the external magnetic field is removed.</para>
+        <para id="id129214"><emphasis effect="bold">Diamagnetism</emphasis> is shown by materials like copper or bismuth,
+which become magnetised in a magnetic field with a polarity
+<emphasis effect="italics">opposite</emphasis> to the external magnetic field. Unlike iron, they are
+slightly repelled by a magnet.
+ </para>
+</section>
+      </section>
+    </section>
+ 
+  </content>
+</document>

@@ -1,0 +1,197 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Measuring devices</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m40015</md:content-id>
+  <md:title>Measuring devices</md:title>
+  <md:abstract/>
+  <md:uuid>32597e0d-6076-4ebe-be01-71387a38abe7</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid6">
+      <title>Instruments to Measure voltage, current and resistance</title>
+      <para id="id67616">As we have seen in previous sections, an electric circuit is made
+up of a number of different components such as batteries, resistors and
+light bulbs. There are devices to measure the properties of these components.
+These devices are called meters.</para>
+      <para id="id67622">For example, one may be interested in measuring the
+amount of current flowing through a circuit using an <emphasis effect="italics">ammeter</emphasis> or measuring the
+voltage provided by a battery using a <emphasis effect="italics">voltmeter</emphasis>. In this section we will discuss the
+practical usage of voltmeters, ammeters, and <emphasis effect="italics">ohmmeters</emphasis>.</para>
+      <section id="uid72">
+        <title>Voltmeter</title>
+        <para id="id67653">A voltmeter is an instrument for measuring the voltage between two
+points in an electric circuit. In analogy with a water circuit, a
+voltmeter is like a meter designed to measure pressure difference.
+Since one is interested in measuring the voltage between two
+points in a circuit, a voltmeter must be connected in
+<emphasis effect="italics">parallel</emphasis> with the portion of the circuit on which the
+measurement is made.</para>
+        <figure id="uid73">
+          <media id="uid73_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C9_034.png" id="uid73_onlineimage" width="150"><!-- NOTE: attribute width changes image size online (pixels). original width is 150. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C9_034.eps" id="uid73_printimage"/>
+          </media>
+          <caption>A voltmeter should be connected in parallel in a
+circuit.</caption>
+        </figure>
+        <para id="id67678"><link target-id="uid73"/> shows a voltmeter connected
+in parallel with a battery. One lead of the voltmeter is connected
+to one end of the battery and the other lead is connected to the
+opposite end. The voltmeter may also be used to measure the
+voltage across a resistor or any other component of a circuit that
+has a voltage drop.</para>
+      </section>
+      <section id="uid74">
+        <title>Ammeter</title>
+        <para id="id62484">An ammeter is an instrument used to measure the flow of electric
+current in a circuit. Since one is interested in measuring the
+current flowing <emphasis effect="italics">through</emphasis> a circuit component, the ammeter
+must be connected in <emphasis effect="italics">series</emphasis> with the measured circuit
+component (<link target-id="uid75"/>).</para>
+        <figure id="uid75">
+          <media id="uid75_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C9_035.png" id="uid75_onlineimage" width="107"><!-- NOTE: attribute width changes image size online (pixels). original width is 107. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C9_035.eps" id="uid75_printimage"/>
+          </media>
+          <caption>An ammeter should be connected in series in a circuit.</caption>
+        </figure>
+      </section>
+      <section id="uid76">
+        <title>Ohmmeter</title>
+        <para id="id62527">An ohmmeter is an instrument for measuring electrical resistance.
+The basic ohmmeter can function much like an ammeter. The ohmmeter
+works by suppling a constant voltage to the resistor and measuring
+the current flowing through it. The measured current is then
+converted into a corresponding resistance reading through Ohm's
+Law. Ohmmeters only function correctly when measuring resistance over a component
+that is not being powered by a voltage or current source. In other
+words, you cannot measure the resistance of a component that is
+already connected to a live circuit. This is because the
+ohmmeter's accurate indication depends only on its own source of
+voltage. The presence of <emphasis effect="bold">any other</emphasis> voltage across the
+measured circuit component interferes with the ohmmeter's
+operation. <link target-id="uid77"/> shows an ohmmeter
+connected with a resistor.</para>
+        <figure id="uid77">
+          <media id="uid77_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C9_036.png" id="uid77_onlineimage" width="108"><!-- NOTE: attribute width changes image size online (pixels). original width is 108. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C9_036.eps" id="uid77_printimage"/>
+          </media>
+          <caption>An ohmmeter should be used when there are no
+voltages present in the circuit.</caption>
+        </figure>
+      </section>
+      <section id="uid78">
+        <title>Meters Impact on Circuit</title>
+        <para id="id67854">A good quality meter used correctly will not significantly change
+the values it is used to measure. This means that an ammeter has
+very low resistance to not slow down the flow of charge. A voltmeter has a very high resistance so that it does not add another
+parallel pathway to the circuit for the charge to flow along.</para>
+<section id="secfhsst_id1891"><title> Investigation : Using meters </title>
+        <para id="id67868">If possible,
+connect meters in circuits to get used to the use of meters to
+measure electrical quantities. If the meters have more than one
+scale, always connect to the <emphasis effect="bold">largest scale</emphasis> first so that the meter
+will not be damaged by having to measure values that exceed its
+limits. </para>
+</section>
+        <para id="id67887">The table below summarises the use of each measuring instrument
+that we discussed and the way it should be connected to a circuit
+component.</para>
+        <table id="id67892" summary="">
+          <tgroup cols="3">
+            <tbody>
+              <row>
+                <entry>
+                  <emphasis effect="bold">Instrument</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">Measured Quantity</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">Proper Connection</emphasis>
+                </entry>
+              </row>
+              <row>
+                <entry>Voltmeter</entry>
+                <entry>Voltage</entry>
+                <entry>In Parallel</entry>
+              </row>
+              <row>
+                <entry>Ammeter</entry>
+                <entry>Current</entry>
+                <entry>In Series</entry>
+              </row>
+              <row>
+                <entry>Ohmmeter</entry>
+                <entry>Resistance</entry>
+                <entry>Only with Resistor</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <!--empty paragraphs get left behind.-->
+      </section>
+
+<figure id="circuits-4">
+ <title>Khan academy video on circuits - 4</title>
+ <media id="yt-media4" display="block" alt="video on circuits - 4">
+  <flash id="yt-video4" mime-type="application/x-shockwave-flash" src="http://www.youtube.com/v/3NcIK0s3IwU&amp;rel=0" width="425" height="344">
+   <param name="allowscriptaccess" value="always"/>
+   <param name="allowsfullscreen" value="true"/>
+  </flash>
+ </media>
+</figure>
+    <para id="eip-872">The following presentation summarizes the concepts covered in this chapter.</para><figure id="slidesharefigure">
+ <media id="slidesharemedia" alt="Powerpoint presentation on electric circuits">
+  <flash id="slideshareflash" height="355" width="425" mime-type="application/x-shockwave-flash" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=electriccurrent-100511051906-phpapp02&amp;stripped_title=electric-current-4047623&amp;userName=kwarne">
+   <param name="allowScriptAccess" value="always"/>
+   <param name="allowFullScreen" value="true"/>
+  </flash>
+ </media>
+</figure>
+    </section>
+    <section id="cid7">
+      <title>Exercises - Electric circuits</title>
+      <list id="id68040" display="block" list-type="enumerated">
+        <item id="uid79"> Write definitions for each of the following:
+<list id="id68056" display="block" list-type="enumerated"><item id="uid80">resistor
+</item><item id="uid81">coulomb
+</item><item id="uid82">voltmeter
+</item></list> <link url="http://www.fhsst.org/lqX" window="new">Click here for the solution</link> </item>
+        <item id="uid83"> Draw a circuit diagram which consists of the following components:
+<list id="id68109" display="block" list-type="enumerated"><item id="uid84">2 batteries in parallel
+</item><item id="uid85">an open switch
+</item><item id="uid86">2 resistors in parallel
+</item><item id="uid87">an ammeter measuring total current
+</item><item id="uid88">a voltmeter measuring potential difference across one of the parallel resistors
+</item></list> <link url="http://www.fhsst.org/lql" window="new">Click here for the solution</link> </item>
+        <item id="uid89"> Complete the table below:
+<table id="id68187" summary=""><tgroup cols="4"><tbody><row><entry><emphasis effect="bold">Quantity</emphasis></entry><entry><emphasis effect="bold">Symbol</emphasis></entry><entry><emphasis effect="bold">Unit of meaurement</emphasis></entry><entry><emphasis effect="bold">Symbol of unit</emphasis></entry></row><row><entry>e.g. Distance</entry><entry>e.g. d</entry><entry>e.g. kilometer</entry><entry>e.g. km</entry></row><row><entry>Resistance</entry><entry/><entry/><entry/></row><row><entry>Current</entry><entry/><entry/><entry/></row><row><entry>Potential difference</entry><entry/><entry/><entry/></row></tbody></tgroup></table> <link url="http://www.fhsst.org/lq5" window="new">Click here for the solution</link> </item>
+        <item id="uid90">[SC 2003/11] The emf of a battery can best be explained as the <m:math overflow="scroll"><m:mo>⋯</m:mo></m:math><list id="id68404" display="block" list-type="enumerated"><item id="uid91">rate of energy delivered per unit current
+</item><item id="uid92">rate at which charge is delivered
+</item><item id="uid93">rate at which energy is delivered
+</item><item id="uid94">charge per unit of energy delivered by the battery
+</item></list> <link url="http://www.fhsst.org/lqN" window="new">Click here for the solution</link> </item>
+        <item id="uid95">[IEB 2002/11 HG1] Which of the following is the correct definition of the emf of a battery?
+<list id="id68470" display="block" list-type="enumerated"><item id="uid96">It is the product of current and the external resistance of the circuit.
+</item><item id="uid97">It is a measure of the cell's ability to conduct an electric current.
+</item><item id="uid98">It is equal to the “lost volts” in the internal resistance of the circuit.
+</item><item id="uid99">It is the power supplied by the battery per unit current passing through the battery.
+</item></list> <link url="http://www.fhsst.org/lqR" window="new">Click here for the solution</link> </item>
+        <item id="uid100">[IEB 2005/11 HG] Three identical light bulbs A, B and C are connected in an electric circuit as shown in the diagram below.
+<figure id="id68542"><media id="id68542_media" alt=""><image mime-type="image/png" src="../../media/PG10C9_037.png" id="id68542_onlineimage" width="178"><!-- NOTE: attribute width changes image size online (pixels). original width is 178. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C9_037.eps" id="id68542_printimage"/></media></figure><list id="id68549" display="block" list-type="enumerated"><item id="uid101">How bright is bulb A compared to B and C?
+</item><item id="uid102">How bright are the bulbs after switch S has been opened?
+</item><item id="uid103">How do the currents in bulbs A and B change when switch S is opened?
+<table id="id68590" summary=""><tgroup cols="3"><tbody><row><entry/><entry><emphasis effect="bold">Current in A</emphasis></entry><entry><emphasis effect="bold">Current in B</emphasis></entry></row><row><entry>(a)</entry><entry>decreases</entry><entry>increases</entry></row><row><entry>(b)</entry><entry>decreases</entry><entry>decreases</entry></row><row><entry>(c)</entry><entry>increases</entry><entry>increases</entry></row><row><entry>(d)</entry><entry>increases</entry><entry>decreases</entry></row></tbody></tgroup></table></item></list> <link url="http://www.fhsst.org/lqn" window="new">Click here for the solution</link> </item>
+        <item id="uid104">[IEB 2004/11 HG1] When a current <m:math overflow="scroll"><m:mi>I</m:mi></m:math> is maintained in a conductor for a time of <m:math overflow="scroll"><m:mi>t</m:mi></m:math>, how many electrons with charge e pass any cross-section of the conductor per second?
+<list id="id68784" display="block" list-type="enumerated"><item id="uid105">It
+</item><item id="uid106">It/e
+</item><item id="uid107">Ite
+</item><item id="uid108">e/It
+</item></list>  <link url="http://www.fhsst.org/lqQ" window="new">Click here for the solution</link></item>
+      </list>
+    </section>
+  </content>
+</document>

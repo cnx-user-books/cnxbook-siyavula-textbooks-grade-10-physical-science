@@ -1,0 +1,385 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Mirrors</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m40068</md:content-id>
+  <md:title>Mirrors</md:title>
+  <md:abstract/>
+  <md:uuid>928eb8e5-c0df-4e12-87f0-4e6cc33c629b</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid6">
+      <title>Mirrors</title>
+      <para id="id185820">A mirror is a highly reflective surface. The most common mirrors are flat and are known as <emphasis effect="bold">plane mirrors</emphasis>. Household mirrors are plane mirrors. They are made of a flat piece of glass with a thin layer of silver nitrate or aluminium on the back. However, other mirrors are curved and are either <emphasis effect="bold">convex mirrors</emphasis> or are <emphasis effect="bold">concave mirrors</emphasis>. The reflecting properties of all three types of mirrors will be discussed in this section.</para>
+      <section id="uid102">
+        <title>Image Formation</title>
+<definition id="fhsst_id1627"><term id="termfhsst_id1627"> Image </term> <meaning id="meaningfhsst_id1627">
+        <para id="id185859">An image is a representation of an object formed by a mirror or lens. Light from the image is seen. </para>
+        </meaning></definition>
+        <figure id="uid103">
+          <media id="uid103_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C6_026.png" id="uid103_onlineimage" width="314"><!-- NOTE: attribute width changes image size online (pixels). original width is 314. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_026.eps" id="uid103_printimage"/>
+          </media>
+          <caption>An object formed in a mirror is real and upright.</caption>
+        </figure>
+        <para id="id185884">If you place a candle in front of a mirror, you now see two candles. The actual, physical candle is called the object and the picture you see in the mirror is called the image. The <emphasis effect="bold">object</emphasis> is the source of the incident rays. The <emphasis effect="bold">image</emphasis> is the picture that is formed by the reflected rays.</para>
+        <para id="id185901">The object could be an actual source that emits light, such as a light bulb or a candle. More commonly, the object reflects light from another source. When you look at your face in the mirror, your face does not emit light. Instead, light from a light bulb or from the sun reflects off your face and then hits the mirror. However, in working with light rays, it is easiest to pretend the light is coming from the object.</para>
+        <para id="id185908">An image formed by reflection may be real or virtual. A <emphasis effect="bold">real</emphasis> image occurs when light rays actually intersect at the image. A real image is inverted, or upside down. A <emphasis effect="bold">virtual</emphasis> image occurs when light rays do not actually meet at the image. Instead, you "see" the image because your eye projects light rays backward. You are fooled into seeing an image! A virtual image is erect, or right side up (upright).</para>
+        <para id="id185926">You can tell the two types apart by putting a screen at the location of the image. A real image can be formed on the screen because the light rays actually meet there. A virtual image cannot be seen on a screen, since it is not really there.</para>
+        <para id="id185932">To describe objects and images, we need to know their locations and their sizes. The distance from the mirror to the object is the <emphasis effect="bold">object distance</emphasis>, <m:math overflow="scroll"><m:msub><m:mi>d</m:mi><m:mi>o</m:mi></m:msub></m:math>.</para>
+        <para id="id185957">The distance from the mirror to the image is the <emphasis effect="bold">image distance</emphasis>, <m:math overflow="scroll"><m:msub><m:mi>d</m:mi><m:mi>i</m:mi></m:msub></m:math>.</para>
+      </section>
+      <section id="uid104">
+        <title>Plane Mirrors</title>
+<section id="secfhsst_id1646"><title> Investigation : Image formed by a mirror </title>
+        <list id="id185997" display="block" list-type="enumerated">
+          <item id="uid105">Stand one step away from a large mirror
+</item>
+          <item id="uid106">What do you observe in the mirror? This is called your image.
+</item>
+          <item id="uid107">What size is your image? Bigger, smaller or the same size as you?
+</item>
+          <item id="uid108">How far is your image from you? How far is your image from the mirror?
+</item>
+          <item id="uid109">Is your image upright or upside down?
+</item>
+          <item id="uid110">Take one step backwards. What does your image do? How far are you away from your image?
+</item>
+          <item id="uid111">If it were a real object, which foot would the image of you right show fit?
+</item>
+        </list>
+        <figure id="uid112">
+          <media id="uid112_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C6_027.png" id="uid112_onlineimage" width="194"><!-- NOTE: attribute width changes image size online (pixels). original width is 194. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_027.eps" id="uid112_printimage"/>
+          </media>
+          <caption>An image in a mirror is virtual, upright, the same size and inverted front to back.</caption>
+        </figure>
+        
+</section>
+        <para id="id186110">When you look into a mirror, you see an <emphasis effect="italics">image</emphasis> of yourself.</para>
+        <para id="id186120">The image created in the mirror has the following properties:</para>
+        <list id="id186124" display="block" list-type="enumerated">
+          <item id="uid113">The image is <emphasis effect="italics">virtual</emphasis>.
+</item>
+          <item id="uid114">The image is the same distance behind the mirror as the object is in front of the mirror.
+</item>
+          <item id="uid115">The image is inverted front to back.
+</item>
+          <item id="uid116">The image is the same size as the object.
+</item>
+          <item id="uid117">The image is upright.
+</item>
+        </list>
+        <para id="id186195">Virtual images are images formed in places where light does not really reach. Light does not really pass through the mirror to create the image; it only appears to an observer as though the light were coming from behind the mirror. Whenever a mirror creates an image which is virtual, the image will always be located behind the mirror where light does not really pass.</para>
+<definition id="fhsst_id1687"><term id="termfhsst_id1687"> Virtual Image </term> <meaning id="meaningfhsst_id1687">
+        <para id="id186208">A virtual image is upright, on the opposite side of the mirror as the object, and light does not actually reach it. </para>
+        </meaning></definition>
+      </section>
+      <section id="uid118">
+        <title>Ray Diagrams</title>
+        <para id="id186230">We draw <emphasis effect="italics">ray diagrams</emphasis> to predict the image that is formed by a plane mirror. A ray diagram is a geometrical picture that is used for analyzing the images formed by mirrors and lenses. We draw a few characteristic rays from the object to the mirror. We then follow ray-tracing rules to find the path of the rays and locate the image.</para>
+<note id="notfhsst_id1694" type="tip">A mirror obeys the Law of Reflection.</note>
+        <para id="id186248">The ray diagram for the image formed by a plane mirror is the simplest possible ray diagram. <link target-id=""/> shows an object placed in front of a plane mirror. It is convenient to have a central line that runs perpendicular to the mirror. This imaginary line is called the <emphasis effect="bold">principal axis</emphasis>.</para>
+<note id="notfhsst_id1696" type="tip"><para id="uid980324"><emphasis effect="bold">Ray diagrams</emphasis></para>
+        <para id="id186273">The following should be remembered when drawing ray diagrams:</para>
+        <list id="id186279" display="block" list-type="enumerated">
+          <item id="uid119">Objects are represented by arrows. The length of the arrow represents the height of the object.
+</item>
+          <item id="uid120">If the arrow points upwards, then the object is described as upright or erect. If the arrow points downwards then the object is described as inverted.
+</item>
+          <item id="uid121">If the object is real, then the arrow is drawn with a solid line. If the object is virtual, then the arrow is drawn with a dashed line.
+</item>
+        </list>
+</note>
+        <para id="id186326">
+          <emphasis effect="bold">Method: Ray Diagrams for Plane Mirrors</emphasis>
+        </para>
+        <para id="id186333">Ray diagrams are used to find the position and size and whether the image is real or virtual.</para>
+        <list id="id186339" display="block" list-type="enumerated">
+          <item id="uid122">Draw the plane mirror as a straight line on a principal axis.
+<figure id="id186358"><media id="id186358_media" alt=""><image mime-type="image/png" src="../../media/PG10C6_028.png" id="id186358_onlineimage" width="171"><!-- NOTE: attribute width changes image size online (pixels). original width is 171. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_028.eps" id="id186358_printimage"/></media></figure></item>
+          <item id="uid123">Draw the object as an arrow in front of the mirror.
+<figure id="id186381"><media id="id186381_media" alt=""><image mime-type="image/png" src="../../media/PG10C6_029.png" id="id186381_onlineimage" width="213"><!-- NOTE: attribute width changes image size online (pixels). original width is 213. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_029.eps" id="id186381_printimage"/></media></figure></item>
+          <item id="uid124">Draw the image of the object, by using the principle that the image is placed at the same distance behind the mirror that the object is in front of the mirror. The image size is also the same as the object size.
+<figure id="id186405"><media id="id186405_media" alt=""><image mime-type="image/png" src="../../media/PG10C6_030.png" id="id186405_onlineimage" width="272"><!-- NOTE: attribute width changes image size online (pixels). original width is 272. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_030.eps" id="id186405_printimage"/></media></figure></item>
+          <item id="uid125">Place a dot at the point the eye is located.
+</item>
+          <item id="uid126">Pick one point on the image and draw the reflected ray that travels to the eye as it sees this point. Remember to add an arrowhead.
+<figure id="id186440"><media id="id186440_media" alt=""><image mime-type="image/png" src="../../media/PG10C6_031.png" id="id186440_onlineimage" width="171"><!-- NOTE: attribute width changes image size online (pixels). original width is 171. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_031.eps" id="id186440_printimage"/></media></figure></item>
+          <item id="uid127">Draw the incident ray for light traveling from the corresponding point on the object to the mirror, such that the law of reflection is obeyed.
+<figure id="id186463"><media id="id186463_media" alt=""><image mime-type="image/png" src="../../media/PG10C6_032.png" id="id186463_onlineimage" width="171"><!-- NOTE: attribute width changes image size online (pixels). original width is 171. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_032.eps" id="id186463_printimage"/></media></figure></item>
+          <item id="uid128">Continue for other extreme points on the object (i.e. the tip and base of the arrow).
+</item>
+        </list>
+        <para id="id186484">
+          <figure id="id186487">
+            <media id="id186487_media" alt="">
+              <image mime-type="image/png" src="../../media/PG10C6_033.png" id="id186487_onlineimage" width="226"><!-- NOTE: attribute width changes image size online (pixels). original width is 226. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_033.eps" id="id186487_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id186494">Suppose a light ray leaves the top of the object traveling parallel to the principal axis. The ray will hit the mirror at an angle of incidence of 0 degrees. We say that the ray hits the mirror <emphasis effect="italics">normally</emphasis>. According to the law of reflection, the ray will be reflected at 0 degrees. The ray then bounces back in the same direction. We also project the ray back behind the mirror because this is what your eye does.</para>
+        <para id="id186506">Another light ray leaves the top of the object and hits the mirror at its centre. This ray will be reflected at the same angle as its angle of incidence, as shown. If we project the ray backward behind the mirror, it will eventually cross the projection of the first ray we drew. We have found the location of the image! It is a virtual image since it appears in an area that light cannot actually reach (behind the mirror). You can see from the diagram that the image is erect and is the same size as the object. This is exactly as we expected.</para>
+        <para id="id186514">We use a dashed line to indicate that the image is virtual.</para><para id="eip-599"><figure id="mirrors-1" class="khanacademy">
+	  <title>Khan academy video on mirrors - 1</title>
+	  <media id="yt-media3" display="block" alt="video on mirrors 1">
+	  <flash id="yt-video3" mime-type="application/x-shockwave-flash" src="http://www.youtube.com/v/nrOg85VPQgw&amp;rel=0" width="425" height="344">
+	  <param name="allowscriptaccess" value="always"/>
+	  <param name="allowsfullscreen" value="true"/>
+	  </flash>
+	  </media>
+	  </figure></para>
+      </section>
+      <section id="uid129">
+        <title>Spherical Mirrors</title>
+        <para id="id186528">The second class of mirrors that we will look at are spherical mirrors. These mirrors are called spherical mirrors because if you take a sphere and cut it as shown in <link target-id="uid130"/> and then polish the inside of one and the outside of the other, you will get a <emphasis effect="italics">concave mirror</emphasis> and <emphasis effect="italics">convex mirror</emphasis> as shown. These two mirrors will be studied in detail.</para>
+        <para id="id186551">The centre of curvature is the point at the centre of the sphere and describes how big the sphere is.</para>
+        <figure id="uid130">
+          <media id="uid130_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C6_034.png" id="uid130_onlineimage" width="526"><!-- NOTE: attribute width changes image size online (pixels). original width is 526. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_034.eps" id="uid130_printimage"/>
+          </media>
+          <caption>When a sphere is cut and then polished to a reflective surface on the inside a concave mirror is obtained. When the outside is polished to a reflective surface, a convex mirror is obtained.</caption>
+        </figure>
+      </section>
+      <section id="uid131">
+        <title>Concave Mirrors</title>
+        <para id="id186578">The first type of curved mirror we will study are concave mirrors. Concave mirrors have the shape shown in <link target-id="uid132"/>. As with a plane mirror, the principal axis is a line that is perpendicular to the centre of the mirror.</para>
+        <figure id="uid132">
+          <media id="uid132_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C6_035.png" id="uid132_onlineimage" width="286"><!-- NOTE: attribute width changes image size online (pixels). original width is 286. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_035.eps" id="uid132_printimage"/>
+          </media>
+          <caption>Concave mirror with principal axis.</caption>
+        </figure>
+        <para id="id186601">If you think of light reflecting off a concave mirror, you will immediately see that things will look very different compared to a plane mirror. The easiest way to understand what will happen is to draw a ray diagram and work out where the images will form. Once we have done that it is easy to see what properties the image has.</para>
+        <para id="id186607">First we need to define a very important characteristic of the mirror. We have seen that the centre of curvature is the centre of the sphere from which the mirror is cut. We then define that a distance that is half-way between the centre of curvature and the mirror on the principal axis. This point is known as the <emphasis effect="italics">focal point</emphasis> and the distance from the focal point to the mirror is known as the <emphasis effect="italics">focal length</emphasis> (symbol <m:math overflow="scroll"><m:mi>f</m:mi></m:math>). Since the focal point is the midpoint of the line segment joining the vertex and the center of curvature, the focal length would be one-half the radius of curvature. This fact can come in very handy, remember if you know one then you know the other!</para>
+<definition id="fhsst_id1763"><term id="termfhsst_id1763"> Focal Point </term> <meaning id="meaningfhsst_id1763">
+        <para id="id186643">The focal point of a mirror is the midpoint of a line segment joining the vertex and the centre of curvature. It is the position at which all parallel rays are focussed. </para>
+        </meaning></definition>
+        <para id="id186656">Why are we making such a big deal about this point we call the focal point? It has an important property we will use often. A ray parallel to the principal axis hitting the mirror will always be reflected through the focal point. The focal point is the position at which all parallel rays are <emphasis effect="italics">focussed</emphasis>.</para>
+        <figure id="uid133">
+          <media id="uid133_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C6_036.png" id="uid133_onlineimage" width="285"><!-- NOTE: attribute width changes image size online (pixels). original width is 285. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_036.eps" id="uid133_printimage"/>
+          </media>
+          <caption>All light rays pass through the focal point.</caption>
+        </figure>
+        <figure id="uid134">
+          <media id="uid134_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C6_037.png" id="uid134_onlineimage" width="552"><!-- NOTE: attribute width changes image size online (pixels). original width is 552. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_037.eps" id="uid134_printimage"/>
+          </media>
+          <caption>A concave mirror with three rays drawn to locate the image. Each incident ray is reflected according to the Law of Reflection. The intersection of the reflected rays gives the location of the image. Here the image is real and inverted.</caption>
+        </figure>
+        <para id="id186693">From <link target-id="uid134"/>, we see that the image created by a concave mirror is real and inverted, as compared to the virtual and erect image created by a plane mirror.</para>
+<definition id="fhsst_id1782"><term id="termfhsst_id1782"> Real Image </term> <meaning id="meaningfhsst_id1782">
+        <para id="id186708">A real image can be cast on a screen; it is inverted, and on the same side of the mirror as the object. </para>
+        </meaning></definition>
+<section id="secfhsst_id1785"><title> Convergence </title>
+        <para id="id186727">A concave mirror is also known as a converging mirror. Light rays appear to converge to the focal point of a concave mirror. </para>
+</section>
+      </section>
+      <section id="uid135">
+        <title>Convex Mirrors</title>
+        <para id="id186750">The second type of curved mirror we will study are convex mirrors. Convex mirrors have the shape shown in <link target-id="uid136"/>. As with a plane mirror, the principal axis is a line that is perpendicular to the centre of the mirror.</para>
+        <para id="id186760">We have defined the focal point as that point that is half-way along the principal axis between the centre of curvature and the mirror. Now for a convex mirror, this point is <emphasis effect="italics">behind</emphasis> the mirror. A convex mirror has a <emphasis effect="italics">negative</emphasis> focal length because the focal point is behind the mirror.</para>
+        <figure id="uid136">
+          <media id="uid136_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C6_038.png" id="uid136_onlineimage" width="163"><!-- NOTE: attribute width changes image size online (pixels). original width is 163. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_038.eps" id="uid136_printimage"/>
+          </media>
+          <caption>Convex mirror with principle axis, focal point (F) and centre of curvature (C). The centre of the mirror is the optical centre (O).</caption>
+        </figure>
+        <para id="id186790">To determine what the image from a convex mirror looks like and where the image is located, we need to remember that a mirror obeys the laws of reflection and that light appears to come from the image. The image created by a convex mirror is shown in <link target-id="uid137"/>.</para>
+        <figure id="uid137">
+          <media id="uid137_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C6_039.png" id="uid137_onlineimage" width="474"><!-- NOTE: attribute width changes image size online (pixels). original width is 474. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_039.eps" id="uid137_printimage"/>
+          </media>
+          <caption>A convex mirror with three rays drawn to locate the image. Each incident ray is reflected according to the Law of Reflection. The reflected rays diverge. If the reflected rays are extended behind the mirror, then their intersection gives the location of the image behind the mirror. For a convex mirror, the image is virtual and upright.</caption>
+        </figure>
+        <para id="id186817">From <link target-id="uid137"/>, we see that the image created by a convex mirror is virtual and upright, as compared to the real and inverted image created by a concave mirror.</para>
+<section id="secfhsst_id1809"><title> Divergence </title>
+        <para id="id186832">A convex mirror is also known as a diverging mirror. Light rays appear to diverge from the focal point of a convex mirror. </para>
+</section>
+      </section>
+      <section id="uid138">
+        <title>Summary of Properties of Mirrors</title>
+        <para id="id186855">The properties of mirrors are summarised in <link target-id="uid139"/>.</para>
+        <table id="uid139" summary="">
+          <tgroup cols="3">
+            <tbody>
+              <row>
+                <entry>
+                  <emphasis effect="bold">Plane</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">Concave</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">Convex</emphasis>
+                </entry>
+              </row>
+              <row>
+                <entry>–</entry>
+                <entry>converging</entry>
+                <entry>diverging</entry>
+              </row>
+              <row>
+                <entry>virtual image</entry>
+                <entry>real image</entry>
+                <entry>virtual image</entry>
+              </row>
+              <row>
+                <entry>upright</entry>
+                <entry>inverted</entry>
+                <entry>upright</entry>
+              </row>
+              <row>
+                <entry>image behind mirror</entry>
+                <entry>image in front of mirror</entry>
+                <entry>image behind mirror</entry>
+              </row>
+            </tbody>
+          </tgroup>
+          <caption>Summary of properties of concave and convex mirrors.</caption>
+        </table>
+      </section>
+      <section id="uid140">
+        <title>Magnification</title>
+        <para id="id187046">In <link target-id="uid134"/> and <link target-id="uid137"/>, the height of the object and image arrows were different. In any optical system where images are formed from objects, the ratio of the image height, <m:math overflow="scroll"><m:msub><m:mi>h</m:mi><m:mi>i</m:mi></m:msub></m:math>, to the object height, <m:math overflow="scroll"><m:msub><m:mi>h</m:mi><m:mi>o</m:mi></m:msub></m:math> is known as the magnification, <m:math overflow="scroll"><m:mi>m</m:mi></m:math>.</para>
+        <equation id="uid141">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>m</m:mi>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:msub>
+                  <m:mi>h</m:mi>
+                  <m:mi>i</m:mi>
+                </m:msub>
+                <m:msub>
+                  <m:mi>h</m:mi>
+                  <m:mi>o</m:mi>
+                </m:msub>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id187133">This is true for the mirror examples we showed above and will also be true for lenses, which will be introduced in the next sections. For a plane mirror, the height of the image is the same as the height of the object, so the magnification is simply <m:math overflow="scroll"><m:mrow><m:mi>m</m:mi><m:mo>=</m:mo><m:mfrac><m:msub><m:mi>h</m:mi><m:mi>i</m:mi></m:msub><m:msub><m:mi>h</m:mi><m:mi>o</m:mi></m:msub></m:mfrac><m:mo>=</m:mo><m:mn>1</m:mn></m:mrow></m:math>. If the magnification is greater than 1, the image is larger than the object and is said to be <emphasis effect="italics">magnified</emphasis>. If the magnification is less than 1, the image is smaller than the object so the image is said to be <emphasis effect="italics">diminished</emphasis>.</para>
+<exercise id="secfhsst_id1877"><title> Magnification </title>
+        <problem id="probfhsst_id1878">
+        <para id="id187199">A concave mirror forms an image that is 4,8 cm high. The height of the object is 1,6 cm. Calculate the magnification of the mirror. </para>
+        </problem>
+        <solution id="solfhsst_id1881"> <list id="listfhsst_id1881" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Identify what is given and what is asked. </label>
+        <para id="id187224">Image height <m:math overflow="scroll"><m:msub><m:mi>h</m:mi><m:mi>i</m:mi></m:msub></m:math> = 4,8 cm</para>
+        <para id="id187242">Object height <m:math overflow="scroll"><m:msub><m:mi>h</m:mi><m:mi>o</m:mi></m:msub></m:math> = 1,6 cm</para>
+        <para id="id187262">Magnification <m:math overflow="scroll"><m:mi>m</m:mi></m:math> = ?</para>
+        </item> <item> <label> Substitute the values and calculate m. </label>
+        <equation id="id187280">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>m</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:msub>
+                      <m:mi>h</m:mi>
+                      <m:mi>i</m:mi>
+                    </m:msub>
+                    <m:msub>
+                      <m:mi>h</m:mi>
+                      <m:mi>o</m:mi>
+                    </m:msub>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mn>4</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>8</m:mn>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mn>1</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>6</m:mn>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mn>3</m:mn>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id187358">The magnification is 3 times.
+ </para>
+        </item> </list> </solution>
+</exercise>
+<section id="secfhsst_id1946"><title> Mirrors </title>
+        <list id="id187383" display="block" list-type="enumerated"><item id="uid142">List 5 properties of a virtual image created by reflection from a plane mirror.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lyO">Click here for the solution.</link>
+</item>
+          <item id="uid143">What angle does the principal axis make with a plane mirror?<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYc">Click here for the solution.</link>
+</item>
+          <item id="uid144">Is the principal axis a normal to the surface of the plane mirror?<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYx">Click here for the solution.</link>
+</item>
+          <item id="uid145">Do the reflected rays that contribute to forming the image from a plane mirror obey the law of reflection?<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYa">Click here for the solution.</link>
+</item>
+          <item id="uid146">If a candle is placed 50 cm in front of a plane mirror, how far behind the plane mirror will the image be? Draw a ray diagram to show how the image is formed.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYC">Click here for the solution.</link>
+</item>
+          <item id="uid147">If a stool 0,5 m high is placed 2 m in front of a plane mirror, how far behind the plane mirror will the image be and how high will the image be?<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lY1">Click here for the solution.</link>
+</item>
+          <item id="uid148">If Susan stands 3 m in front of a plane mirror, how far from Susan will her image be located?<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYr">Click here for the solution.</link>
+</item>
+          <item id="uid149">Explain why ambulances have the word `ambulance' reversed on the front bonnet of the car?<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYY">Click here for the solution.</link>
+</item>
+          <item id="uid150">Complete the diagram by filling in the missing lines to locate the image.
+<figure id="id187509"><media id="id187509_media" alt=""><image mime-type="image/png" src="../../media/PG10C6_040.png" id="id187509_onlineimage" width="414"><!-- NOTE: attribute width changes image size online (pixels). original width is 414. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_040.eps" id="id187509_printimage"/></media></figure><link class="fullmarks" window="new" url="http://www.fhsst.org/lYg">Click here for the solution.</link></item>
+          <item id="uid151">An object 2 cm high is placed 4 cm in front of a plane mirror. Draw a ray diagram, showing the object, the mirror and the position of the image.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lY4">Click here for the solution.</link>
+</item>
+          <item id="uid152">The image of an object is located 5 cm behind a plane mirror. Draw a ray diagram, showing the image, the mirror and the position of the object.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lY2">Click here for the solution.</link>
+</item>
+          <item id="uid153">How high must a mirror be so that you can see your whole body in it? Does it make a difference if you change the distance you stand in front of the mirror? Explain.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYT">Click here for the solution.</link>
+</item>
+          <item id="uid154">If 1-year old Tommy crawls towards a mirror at a rate of 0,3 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>, at what speed will Tommy and his image approach each other?<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYb">Click here for the solution.</link>
+</item>
+          <item id="uid155">Use a diagram to explain how light converges to the focal point of a concave mirror.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYj">Click here for the solution.</link>
+</item>
+          <item id="uid156">Use a diagram to explain how light diverges away from the focal point of a convex mirror.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYD">Click here for the solution.</link>
+</item>
+          <item id="uid157">An object 1 cm high is placed 4 cm from a concave mirror. If the focal length of the mirror is 2 cm, find the position and size of the image by means of a ray diagram. Is the image real or virtual? What is the magnification? <newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYW">Click here for the solution.</link>
+</item>
+          <item id="uid158">An object 2 cm high is placed 4 cm from a convex mirror. If the focal length of the mirror is 4 cm, find the position and size of the image by means of a ray diagram. Is the image real or virtual? What is the magnification?<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYZ">Click here for the solution.</link>
+</item>
+        </list>
+        
+</section>
+      </section>
+    </section>
+
+  </content>
+</document>

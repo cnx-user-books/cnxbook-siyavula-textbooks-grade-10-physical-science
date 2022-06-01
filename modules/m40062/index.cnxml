@@ -1,0 +1,183 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Reflection</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m40062</md:content-id>
+  <md:title>Reflection</md:title>
+  <md:abstract/>
+  <md:uuid>94a248df-2654-4ff8-9d8f-e82ad81b6f7f</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid4">
+      <title>Reflection</title>
+      <para id="id179375">When you smile into a mirror, you see your own face smiling back at you. This is caused by the reflection of light rays on the mirror. Reflection occurs when a light ray bounces off a surface.</para>
+      <section id="uid15">
+        <title>Terminology</title>
+        <para id="id179388">In <link document="m35714">Transverse Pulses</link> and <link document="m32635">Transverse Waves</link> we saw that when a pulse or wave strikes a surface it is <emphasis effect="italics">reflected</emphasis>. This means that waves bounce off things. Sound waves bounce off walls, light waves bounce off mirrors, radar waves bounce off aeroplanes and it can explain how bats can fly at night and avoid things as thin as telephone wires. The phenomenon of reflection is a very important and useful one.</para>
+        <para id="id179404">We will use the following terminology. The incoming light ray is called the <emphasis effect="bold">incident ray</emphasis>. The light ray moving away from the surface is the <emphasis effect="bold">reflected ray</emphasis>. The most important characteristic of these rays is their angles in relation to the reflecting surface. These angles are measured with respect to the normal of the surface. The <emphasis effect="bold">normal</emphasis> is an imaginary line perpendicular to the surface. The <emphasis effect="bold">angle of incidence, <m:math overflow="scroll"><m:msub><m:mi>θ</m:mi><m:mi>i</m:mi></m:msub></m:math></emphasis> is measured between the incident ray and the surface normal. The <emphasis effect="bold">angle of reflection, <m:math overflow="scroll"><m:msub><m:mi>θ</m:mi><m:mi>r</m:mi></m:msub></m:math></emphasis> is measured between the reflected ray and the surface normal. This is shown in <link target-id="uid16"/>.</para>
+        <para id="id179468">When a ray of light is reflected, the reflected ray lies in the same plane as the incident ray and the normal. This plane is called the <emphasis effect="bold">plane of incidence</emphasis> and is shown in <link target-id="uid17"/>.</para>
+        <figure id="uid16">
+          <media id="uid16_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C6_007.png" id="uid16_onlineimage" width="354"><!-- NOTE: attribute width changes image size online (pixels). original width is 354. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_007.eps" id="uid16_printimage"/>
+          </media>
+          <caption>The angles of incidence and reflection are measured with respect to the surface normal.</caption>
+        </figure>
+        <figure id="uid17">
+          <media id="uid17_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C6_008.png" id="uid17_onlineimage" width="505"><!-- NOTE: attribute width changes image size online (pixels). original width is 505. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_008.eps" id="uid17_printimage"/>
+          </media>
+          <caption>The plane of incidence is the plane including the incident ray, reflected ray, and the surface normal.</caption>
+        </figure>
+      </section>
+      <section id="uid18">
+        <title>Law of Reflection</title>
+        <para id="id178537">The <emphasis effect="bold">Law of Reflection</emphasis> states that the angles of incidence and reflection are always equal and that the reflected ray always lies in the plane of incidence.</para>
+<definition id="fhsst_id205"><term id="termfhsst_id205"> Law of Reflection </term> <meaning id="meaningfhsst_id205">
+        <para id="id178552">The Law of Reflection states that the angle of incidence is equal to the angle of reflection.</para>
+        <equation id="id179717">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mi>θ</m:mi>
+                <m:mi>i</m:mi>
+              </m:msub>
+              <m:mo>=</m:mo>
+              <m:msub>
+                <m:mi>θ</m:mi>
+                <m:mi>r</m:mi>
+              </m:msub>
+            </m:mrow>
+          </m:math>
+        </equation>
+        
+        </meaning></definition>
+        <para id="id179753">The simplest example of the law of incidence is if the angle of incidence is <m:math overflow="scroll"><m:msup><m:mn>0</m:mn><m:mo>∘</m:mo></m:msup></m:math>. In this case, the angle of reflection is also <m:math overflow="scroll"><m:msup><m:mn>0</m:mn><m:mo>∘</m:mo></m:msup></m:math>. You see this when you look straight into a mirror.</para>
+        <figure id="uid19">
+          <media id="uid19_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C6_009.png" id="uid19_onlineimage" width="213"><!-- NOTE: attribute width changes image size online (pixels). original width is 213. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_009.eps" id="uid19_printimage"/>
+          </media>
+          <caption>When a wave strikes a surface at right angles to the surface, then the wave is reflected directly back.</caption>
+        </figure>
+        <para id="id179796">If the angle of incidence is not <m:math overflow="scroll"><m:msup><m:mn>0</m:mn><m:mo>∘</m:mo></m:msup></m:math>, then the angle of reflection is also not <m:math overflow="scroll"><m:msup><m:mn>0</m:mn><m:mo>∘</m:mo></m:msup></m:math>. For example, if a light strikes a surface at <m:math overflow="scroll"><m:msup><m:mn>60</m:mn><m:mo>∘</m:mo></m:msup></m:math> to the surface normal, then the angle that the reflected ray makes with the surface normal is also <m:math overflow="scroll"><m:msup><m:mn>60</m:mn><m:mo>∘</m:mo></m:msup></m:math> as shown in <link target-id="uid20"/>.</para>
+        <figure id="uid20">
+          <media id="uid20_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C6_010.png" id="uid20_onlineimage" width="125"><!-- NOTE: attribute width changes image size online (pixels). original width is 125. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_010.eps" id="uid20_printimage"/>
+          </media>
+          <caption>Ray diagram showing angle of incidence and angle of reflection. The Law of Reflection states that when a light ray reflects off a surface, the angle of reflection <m:math overflow="scroll"><m:msub><m:mi>θ</m:mi><m:mi>r</m:mi></m:msub></m:math> is the same as the angle of incidence <m:math overflow="scroll"><m:msub><m:mi>θ</m:mi><m:mi>i</m:mi></m:msub></m:math>.</caption>
+        </figure>
+<exercise id="secfhsst_id240"><title> Law of Reflection </title>
+        <problem id="probfhsst_id241">
+        <para id="id179910">An incident ray strikes a smooth reflective surface at an angle of 33<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> to the surface normal. Calculate the angle of reflection. </para>
+        </problem>
+        <solution id="solfhsst_id244"> <list id="listfhsst_id244" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Determine what is given and what is required </label>
+        <para id="id179946">We are given the angle between the incident ray and the surface normal. This is the angle of incidence.</para>
+        <para id="id179950">We are required to calculate the angle of reflection.</para>
+        </item> <item> <label> Determine how to approach the problem </label>
+        <para id="id179958">We can use the Law of Reflection, which states that the angle of incidence is equal to the angle of reflection.</para>
+        </item> <item> <label> Calculate the angle of reflection </label>
+        <para id="id179966">We are given the angle of incidence to be 33<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>. Therefore, the angle of reflection is also 33<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>. </para>
+        </item> </list> </solution>
+</exercise>
+      </section>
+      <section id="uid21">
+        <title>Types of Reflection</title>
+        <para id="id180015">The Law of Reflection holds for every light ray. Does this mean that when parallel rays approach a surface, the reflected rays will also be parallel? This depends on the texture of the reflecting surface.</para>
+        <figure id="uid22" orient="vertical">
+          <subfigure id="id180031">
+            <media id="id180031_media" alt="">
+              <image mime-type="image/png" src="../../media/PG10C6_011.png" id="id180031_onlineimage" width="200"><!-- NOTE: attribute width changes image size online (pixels). original width is 200. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_011.eps" id="id180031_printimage"/>
+            </media>
+          </subfigure>
+          <subfigure id="id180039">
+            <media id="id180039_media" alt="">
+              <image mime-type="image/png" src="../../media/PG10C6_012.png" id="id180039_onlineimage" width="240"><!-- NOTE: attribute width changes image size online (pixels). original width is 240. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_012.eps" id="id180039_printimage"/>
+            </media>
+          </subfigure>
+          <caption>Specular and diffuse reflection.</caption>
+        </figure>
+        <section id="uid23">
+          <title>Specular Reflection</title>
+          <para id="id180054"><link target-id="uid22"/>(a) shows a surface that is flat and even. Parallel incident light rays hit the smooth surface and parallel reflected light rays leave the surface. This type of reflection is called <emphasis effect="bold">specular reflection</emphasis>. Specular reflection occurs when rays are reflected from a smooth, shiny surface. The normal to the surface is the same at every point on the surface. Parallel incident rays become parallel reflected rays. When you look in a mirror, the image you see is formed by specular reflection.</para>
+        </section>
+        <section id="uid24">
+          <title>Diffuse Reflection</title>
+          <para id="id180080"><link target-id="uid22"/>(b) shows a surface with bumps and curves. When multiple rays hit this uneven surface, <emphasis effect="bold">diffuse reflection</emphasis> occurs. The incident rays are parallel but the reflected rays are not. Each point on the surface has a different normal. This means the angle of incidence is different at each point. Then according to the Law of Reflection, each angle of reflection is different. Diffuse reflection occurs when light rays are reflected from bumpy surfaces. You can still see a reflection as long as the surface is not too bumpy. Diffuse reflection enables us to see all objects that are not sources of light.</para>
+<section id="secfhsst_id280"><title> Experiment : Specular and Diffuse Reflection </title>
+          <para id="id180104">A bouncing ball can be used to demonstrate the basic difference between specular and diffuse reflection.</para>
+          <para id="id180113">
+            <emphasis effect="bold">Aim:</emphasis>
+          </para>
+          <para id="id180121">To demonstrate and compare specular and diffuse reflection.</para>
+          <para id="id180127">
+            <emphasis effect="bold">Apparatus:</emphasis>
+          </para>
+          <para id="id180135">
+You will need:</para>
+          <list id="id180140" display="block" list-type="enumerated">
+            <item id="uid25">a small ball (a tennis ball or a table tennis ball is perfect)
+</item>
+            <item id="uid26">a smooth surface, like the floor inside the classroom
+</item>
+            <item id="uid27">a very rough surface, like a rocky piece of ground
+</item>
+          </list>
+          <para id="id180180">
+            <emphasis effect="bold">Method:</emphasis>
+          </para>
+          <list id="id180188" display="block" list-type="enumerated">
+            <item id="uid28">Bounce the ball on the smooth floor and observe what happens.
+</item>
+            <item id="uid29">Bounce the ball on the rough ground floor and observe what happens.
+</item>
+            <item id="uid30">What do you observe?
+</item>
+            <item id="uid31">What is the difference between the two surfaces?
+</item>
+          </list>
+          <para id="id180240">
+            <emphasis effect="bold">Conclusions:</emphasis>
+          </para>
+          <para id="id180248">
+You should have seen that the ball bounces (is reflected off the floor) in a predictable manner off the smooth floor, but bounces unpredictably on the rough ground.</para>
+          <para id="id180255">The ball can be seen to be a ray of light and the floor or ground is the reflecting surface. For specular reflection (smooth surface), the ball bounces predictably. For diffuse reflection (rough surface), the ball bounces unpredictably.
+ </para>
+</section>
+<section id="secfhsst_id320"><title> Reflection </title>
+          <list id="id180272" display="block" list-type="enumerated"><item id="uid32">The diagram shows a curved surface. Draw normals to the surface at the marked points.
+<figure id="id180290"><media id="id180290_media" alt=""><image mime-type="image/png" src="../../media/PG10C6_013.png" id="id180290_onlineimage" width="143"><!-- NOTE: attribute width changes image size online (pixels). original width is 143. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_013.eps" id="id180290_printimage"/></media></figure><link class="fullmarks" window="new" url="http://www.fhsst.org/lrz">Click here for the solution.</link></item>
+            <item id="uid33">Which of the points, A–H, in the diagram, correspond to the following:
+<list id="id180309" display="block" list-type="enumerated"><item id="uid34">normal
+</item><item id="uid35">angle of incidence
+</item><item id="uid36">angle of reflection
+</item><item id="uid37">incident ray
+</item><item id="uid38">reflected ray
+</item></list><figure id="id180373"><media id="id180373_media" alt=""><image mime-type="image/png" src="../../media/PG10C6_014.png" id="id180373_onlineimage" width="114"><!-- NOTE: attribute width changes image size online (pixels). original width is 114. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_014.eps" id="id180373_printimage"/></media></figure><link class="fullmarks" window="new" url="http://www.fhsst.org/lru">Click here for the solution.</link></item>
+            <item id="uid39">State the Law of Reflection. Draw a diagram, label the appropriate angles and write a mathematical expression for the Law of Reflection.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lrJ">Click here for the solution.</link>
+</item>
+            <item id="uid41">The diagram shows an incident ray <m:math overflow="scroll"><m:mi>I</m:mi></m:math>. Which of the other 5 rays (A, B, C, D, E) best represents the reflected ray of <m:math overflow="scroll"><m:mi>I</m:mi></m:math>?
+<figure id="id180439"><media id="id180439_media" alt=""><image mime-type="image/png" src="../../media/PG10C6_015.png" id="id180439_onlineimage" width="130"><!-- NOTE: attribute width changes image size online (pixels). original width is 130. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_015.eps" id="id180439_printimage"/></media></figure><link class="fullmarks" window="new" url="http://www.fhsst.org/lrS">Click here for the solution.</link></item>
+            <item id="uid42">A ray of light strikes a surface at 15<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> to the surface normal. Draw a ray diagram showing the incident ray, reflected ray and surface normal. Calculate the angles of incidence and reflection and fill them in on your diagram.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lrh">Click here for the solution.</link>
+</item>
+            <item id="uid45">A ray of light leaves a surface at 65<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> to the surface. Draw a ray diagram showing the incident ray, reflected ray and surface normal. Calculate the angles of incidence and reflection and fill them in on your diagram.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYg">Click here for the solution.</link>
+</item>
+            <item id="uid46">Explain the difference between specular and diffuse reflection.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYl">Click here for the solution.</link>
+</item>
+            <item id="uid47">We see an object when the light that is reflected by the object enters our eyes. Do you think the reflection by most objects is specular reflection or diffuse reflection? Explain.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYi">Click here for the solution.</link>
+</item>
+            <item id="uid48">A beam of light (for example from a torch) is generally not visible at night, as it travels through air. Try this for yourself. However, if you shine the torch through dust, the beam is visible. Explain why this happens.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lY3">Click here for the solution.</link>
+</item>          </list>
+          
+</section>
+        </section>
+      </section>
+    </section>
+
+  </content>
+</document>

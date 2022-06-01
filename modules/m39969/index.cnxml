@@ -1,0 +1,403 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Ionisation energy and the periodic table</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39969</md:content-id>
+  <md:title>Ionisation energy and the periodic table</md:title>
+  <md:abstract/>
+  <md:uuid>3baf25c5-a579-4eb8-bb4c-198ceee1b2ff</md:uuid>
+</metadata>
+
+<content>
+    
+    
+    
+    
+    
+    
+    
+    <section id="cid8">
+      <title>Ionisation Energy and the Periodic Table</title>
+      <section id="uid120">
+        <title>Ions</title>
+        <para id="id260625">In the previous section, we focused our attention on the electron configuration of <emphasis effect="italics">neutral</emphasis> atoms. In a neutral atom, the number of protons is the same as the number of electrons. But what happens if an atom <emphasis effect="italics">gains</emphasis> or <emphasis effect="italics">loses</emphasis> electrons? Does it mean that the atom will still be part of the same element?</para>
+        <para id="id260647">A change in the number of electrons of an atom does not change the type of atom that it is. However, the <emphasis effect="italics">charge</emphasis> of the atom will change. If electrons are added, then the atom will become <emphasis effect="italics">more negative</emphasis>. If electrons are taken away, then the atom will become <emphasis effect="italics">more positive</emphasis>. The atom that is formed in either of these cases is called an <emphasis effect="bold">ion</emphasis>. Put simply, an ion is a charged atom.</para>
+<definition id="fhsst_id815"><term id="termfhsst_id815"> Ion </term> <meaning id="meaningfhsst_id815">
+        <para id="id260685">An ion is a charged atom. A positively charged ion is called a <emphasis effect="bold">cation</emphasis> e.g. Na<sup>+</sup>, and a negatively charged ion is called an <emphasis effect="bold">anion</emphasis> e.g. F<sup><m:math><m:mo>-</m:mo></m:math></sup>. The charge on an ion depends on the number of electrons that have been lost or gained. </para>
+        </meaning></definition>
+        <para id="eip-879">But how do we know how many electrons an atom will gain or lose? Remember what we said about stability? We said that all atoms are trying to get a full outer shell. For the elements on the left hand side of the periodic table the easiest way to do this is to lose electrons and for the elements on the right of the periodic table the easiest way to do this is to gain electrons. So the elements on the left of the periodic table will form cations and the elements on the right hand side of the periodic table will form anions. By doing this the elements can be in the most stable electronic configuration and so be as stable as the noble gases.</para><para id="id260742">Look at the following examples. Notice the number of valence electrons in the neutral atom, the number of electrons that are lost or gained and the final charge of the ion that is formed.</para>
+        <para id="id260747">
+          <emphasis effect="bold">Lithium</emphasis>
+        </para>
+        <para id="id260754">A lithium atom loses one electron to form a positive ion (<link target-id="uid87">figure</link>).</para>
+        <figure id="uid121">
+          <media id="uid121_media" alt="">
+            <image mime-type="image/png" src="../../media/CG10C3_012.png" id="uid121_onlineimage" width="449"><!-- NOTE: attribute width changes image size online (pixels). original width is 449. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG10C3_012.eps" id="uid121_printimage"/>
+          </media>
+          <caption>The arrangement of electrons in a lithium ion.</caption>
+        </figure>
+        <para id="id260785">In this example, the lithium atom loses an electron to form the cation Li<sup>+</sup>.</para>
+        <para id="id260803">
+          <emphasis effect="bold">Fluorine</emphasis>
+        </para>
+        <para id="id260811">A fluorine atom gains one electron to form a negative ion (<link target-id="uid89"/>).</para>
+        <figure id="uid122">
+          <media id="uid122_media" alt="">
+            <image mime-type="image/png" src="../../media/CG10C3_013.png" id="uid122_onlineimage" width="325"><!-- NOTE: attribute width changes image size online (pixels). original width is 325. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG10C3_013.eps" id="uid122_printimage"/>
+          </media>
+          <caption>The arrangement of electrons in a fluorine ion.</caption>
+        </figure>
+<para id="eip-273">You should have noticed in both these examples that each element lost or gained electrons to make a full outer shell.</para><section id="secfhsst_id842"><title> Investigation : The formation of ions
+        </title>
+        <list id="id260856" display="block" list-type="enumerated">
+          <item id="uid123">Use the diagram for lithium as a guide and draw similar diagrams to show how each of the following ions is formed:
+<list id="id260872" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid124">Mg<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup></m:math></item><item id="uid125">Na<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>+</m:mo></m:msup></m:math></item><item id="uid126">Cl<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>-</m:mo></m:msup></m:math></item><item id="uid127">O<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mn>2</m:mn><m:mo>-</m:mo></m:mrow></m:msup></m:math></item></list></item>
+          <item id="uid128">Do you notice anything interesting about the charge on each of these ions? Hint: Look at the number of valence electrons in the neutral atom and the charge on the final ion.
+</item>
+        </list>
+        
+</section>
+        <para id="id261001">
+          <emphasis effect="bold">Observations:</emphasis>
+        </para>
+        <para id="id261008">Once you have completed the activity, you should notice that:</para>
+        <list id="id261012" display="block" list-type="bulleted"><item id="uid129">In each case the number of electrons that is either gained or lost, is the same as the number of electrons that are needed for the atoms to achieve a full outer energy level.
+</item>
+          <item id="uid130">If you look at an energy level diagram for sodium (Na), you will see that in a neutral atom, there is only one valence electron. In order to achieve a full outer energy level, and therefore a more stable state for the atom, this electron will be <emphasis effect="italics">lost</emphasis>.
+</item>
+          <item id="uid131">In the case of oxygen (O), there are six valence electrons. To achieve a full energy level, it makes more sense for this atom to <emphasis effect="italics">gain</emphasis> two electrons. A negative ion is formed.
+</item>
+        </list>
+      </section>
+      <section id="uid132">
+        <title>Ionisation Energy</title>
+        <para id="id261078">Ionisation energy is the energy that is needed to remove one electron from an atom. The ionisation energy will be different for different atoms.</para>
+        <para id="id261083">The second ionisation energy is the energy that is needed to remove a second electron from an atom, and so on. As an energy level becomes more full, it becomes more and more difficult to remove an electron and the ionisation energy <emphasis effect="italics">increases</emphasis>. On the Periodic Table of the Elements, a <emphasis effect="italics">group</emphasis> is a vertical column of the elements, and a <emphasis effect="italics">period</emphasis> is a horizontal row. In the periodic table, ionisation energy <emphasis effect="italics">increases</emphasis> across a period, but <emphasis effect="italics">decreases</emphasis> as you move down a group. The lower the ionisation energy, the more reactive the element will be because there is a greater chance of electrons being involved in chemical reactions. We will look at this in more detail in the next section.</para>
+<section id="secfhsst_id869"><title>The formation of ions         </title><para id="id261135">Match the information in column A with the information in column B by writing only the letter (A to I) next to the question number (1 to 7)</para>
+        <table id="id261142" summary="">
+          <tgroup cols="2">
+            <tbody>
+              <row>
+                <entry>1. A positive ion that has 3 less electrons than its neutral atom</entry>
+                <entry>A. Mg<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup></m:math></entry>
+              </row>
+              <row>
+                <entry>2. An ion that has 1 more electron than its neutral atom</entry>
+                <entry>B. Cl<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>-</m:mo></m:msup></m:math></entry>
+              </row>
+              <row>
+                <entry>3. The anion that is formed when bromine gains an electron</entry>
+                <entry>C. CO<m:math overflow="scroll"><m:msubsup><m:mrow/><m:mrow><m:mn>3</m:mn></m:mrow><m:mrow><m:mn>2</m:mn><m:mo>-</m:mo></m:mrow></m:msubsup></m:math></entry>
+              </row>
+              <row>
+                <entry>4. The cation that is formed from a magnesium atom</entry>
+                <entry>D. Al<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mn>3</m:mn><m:mo>+</m:mo></m:mrow></m:msup></m:math></entry>
+              </row>
+              <row>
+                <entry>5. An example of a compound ion</entry>
+                <entry>E. Br<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mn>2</m:mn><m:mo>-</m:mo></m:mrow></m:msup></m:math></entry>
+              </row>
+              <row>
+                <entry>6. A positive ion with the electron configuration of argon</entry>
+                <entry>F. K<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>+</m:mo></m:msup></m:math></entry>
+              </row>
+              <row>
+                <entry>7. A negative ion with the electron configuration of neon</entry>
+                <entry>G. Mg<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>+</m:mo></m:msup></m:math></entry>
+              </row>
+              <row>
+                <entry/>
+                <entry>H. O<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mn>2</m:mn><m:mo>-</m:mo></m:mrow></m:msup></m:math></entry>
+              </row>
+              <row>
+                <entry/>
+                <entry>I. Br<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>-</m:mo></m:msup></m:math></entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <!--empty paragraphs get left behind.-->
+        
+<para id="uid97224"><link class="fullmarks" window="new" resource="http://www.fhsst.org/lid">Click here for the solution</link></para></section>
+      </section>
+    </section>
+    <section id="cid9">
+      <title>The arrangement of atoms in the periodic table</title>
+      <para id="eip-325"><figure id="slidesharefigure" class="slideshare">
+    	<media id="slidesharemedia" alt="Powerpoint presentation on the periodic table">
+    	<flash id="slideshareflash" height="355" width="425" mime-type="application/x-shockwave-flash" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=periodictableintroduction-100510044643-phpapp01&amp;stripped_title=periodic-table-introduction">
+    	<param name="allowScriptAccess" value="always"/>
+    	<param name="allowFullScreen" value="true"/>
+    	</flash>
+    	</media>
+    	</figure></para><para id="id261491">The <emphasis effect="bold">periodic table of the elements</emphasis> is a method of showing the chemical elements in a table. Most of the work that was done to arrive at the periodic table that we know, can be attributed to a man called <emphasis effect="bold">Dmitri Mendeleev</emphasis> in 1869. Mendeleev was a Russian chemist who designed the table in such a way that recurring ("periodic") trends in the properties of the elements could be shown. Using the trends he observed, he even left gaps for those elements that he thought were 'missing'. He even predicted the properties that he thought the missing elements would have when they were discovered. Many of these elements were indeed discovered and Mendeleev's predictions were proved to be correct.</para>
+      <para id="id261511">To show the recurring properties that he had observed, Mendeleev began new rows in his table so that elements with similar properties were in the same vertical columns, called <emphasis effect="bold">groups</emphasis>. Each row was referred to as a <emphasis effect="bold">period</emphasis>. One important feature to note in the periodic table is that all the non-metals are to the right of the zig-zag line drawn under the element boron. The rest of the elements are metals, with the exception of hydrogen which occurs in the first block of the table despite being a non-metal.</para>
+      <figure id="uid133">
+        <media id="uid133_media" alt="">
+          <image mime-type="image/png" src="../../media/CG10C3_014.png" id="uid133_onlineimage" width="410"><!-- NOTE: attribute width changes image size online (pixels). original width is 410. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/CG10C3_014.eps" id="uid133_printimage"/>
+        </media>
+        <caption>A simplified diagram showing part of the Periodic Table</caption>
+      </figure>
+      <section id="uid134">
+        <title>Groups in the periodic table</title>
+        <para id="id261554">A <emphasis effect="italics">group</emphasis> is a vertical column in the periodic table and is considered to be the most important way of classifying the elements. If you look at a periodic table, you will see the groups numbered at the top of each column. The groups are numbered from left to right as follows: 1, 2, then an open space which contains the <emphasis effect="bold">transition elements</emphasis>, followed by groups 3 to 8. These numbers are normally represented using Roman numerals. In some periodic tables, all the groups are numbered from left to right from number 1 to number 18. In some groups, the elements display very similar chemical properties and the groups are even given separate names to identify them.</para>
+        <para id="id261577">The characteristics of each group are mostly determined by the electron configuration of the atoms of the element.</para>
+        <list id="id261581" display="block" list-type="bulleted"><item id="uid135"><emphasis effect="italics">Group 1:</emphasis> These elements are known as the <emphasis effect="bold">alkali metals</emphasis> and they are very reactive. 
+<figure id="uid139"><media id="uid139_media" alt=""><image mime-type="image/png" src="../../media/CG10C3_015.png" id="uid139_onlineimage" width="436"><!-- NOTE: attribute width changes image size online (pixels). original width is 436. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG10C3_015.eps" id="uid139_printimage"/></media><caption>Electron diagrams for some of the Group 1 elements, with sodium and potasium incomplete; to be completed as an excersise.</caption></figure></item>
+          <item id="uid140"><emphasis effect="italics">Group 2:</emphasis> These elements are known as the <emphasis effect="bold">alkali earth metals</emphasis>. Each element only has two valence electrons and so in chemical reactions, the group 2 elements tend to <emphasis effect="italics">lose</emphasis> these electrons so that the energy shells are complete. These elements are less reactive than those in group 1 because it is more difficult to lose two electrons than it is to lose one.
+</item>
+          <item id="uid141"><emphasis effect="italics">Group 3</emphasis> elements have three valence electrons.
+<note id="notfhsst_id949" type="tip">The number of valence electrons of an element corresponds to its group number on the periodic table.</note></item>
+          <item id="uid142"><emphasis effect="italics">Group 7:</emphasis> These elements are known as the <emphasis effect="bold">halogens</emphasis>. Each element is missing just one electron from its outer energy shell. These elements tend to <emphasis effect="italics">gain</emphasis> electrons to fill this shell, rather than losing them. These elements are also very reactive.
+</item>
+          <item id="uid143"><emphasis effect="italics">Group 8:</emphasis> These elements are the <emphasis effect="bold">noble gases</emphasis>. All of the energy shells of the halogens are full and so these elements are very unreactive.
+<figure id="uid144"><media id="uid144_media" alt=""><image mime-type="image/png" src="../../media/CG10C3_016.png" id="uid144_onlineimage" width="173"><!-- NOTE: attribute width changes image size online (pixels). original width is 173. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG10C3_016.eps" id="uid144_printimage"/></media><caption>Electron diagrams for two of the noble gases, helium (He) and neon (Ne).</caption></figure></item>
+          <item id="uid145"><emphasis effect="italics">Transition metals:</emphasis> The differences between groups in the transition metals are not usually dramatic.
+</item>
+        </list>
+<section id="secfhsst_id936"><title> Investigation : The properties of elements
+</title>
+<para id="uid798724">Refer to <link target-id="uid139"/>.</para>
+<list id="id261630" display="block" list-type="enumerated"><item id="uid136">Use a periodic table to help you to complete the last two diagrams for sodium (Na) and potassium (K).
+</item><item id="uid137">What do you notice about the number of electrons in the valence energy level in each case?
+</item><item id="uid138">Explain why elements from group 1 are more reactive than elements from group 2 on the periodic table (Hint: Think back to 'ionisation energy').
+</item></list>
+
+</section>
+        <para id="id261833">It is worth noting that in each of the groups described above, the <emphasis effect="bold">atomic diameter</emphasis> of the elements increases as you move down the group. This is because, while the number of valence electrons is the same in each element, the number of core electrons increases as one moves down the group.</para>
+      </section>
+      <section id="uid146">
+        <title>Periods in the periodic table</title>
+        <para id="id261855">A <emphasis effect="bold">period</emphasis> is a horizontal row in the periodic table of the elements. Some of the trends that can be observed within a period are highlighted below:</para>
+        <list id="id261865" display="block" list-type="bulleted">
+          <item id="uid147">As you move from one group to the next within a period, the number of valence electrons increases by one each time.
+</item>
+          <item id="uid148">Within a single period, all the valence electrons occur in the same energy shell. If the period increases, so does the energy shell in which the valence electrons occur.
+</item>
+          <item id="uid149">In general, the diameter of atoms decreases as one moves from left to right across a period. Consider the attractive force between the positively charged nucleus and the negatively charged electrons in an atom. As you move across a period, the number of protons in each atom increases. The number of electrons also increases, but these electrons will still be in the same energy shell. As the number of protons increases, the force of attraction between the nucleus and the electrons will increase and the atomic diameter will decrease.
+</item>
+          <item id="uid150">Ionisation energy increases as one moves from left to right across a period. As the valence electron shell moves closer to being full, it becomes more difficult to remove electrons. The opposite is true when you move down a <emphasis effect="italics">group</emphasis> in the table because more energy shells are being added. The electrons that are closer to the nucleus 'shield' the outer electrons from the attractive force of the positive nucleus. Because these electrons are not being held to the nucleus as strongly, it is easier for them to be removed and the ionisation energy decreases.
+</item>
+          <item id="uid151">In general, the reactivity of the elements decreases from left to right across a period.
+</item>
+        </list>
+<para id="eip-293">You may see periodic tables labeled with s-block, p-block, d-block and f-block. This is simply another way to group the elements. When we group elements like this we are simply noting which orbitals are being filled in each block. This method of grouping is not very useful to the work covered at this level.</para><section id="secfhsst_id975"><title> Trends in ionisation energy
+        </title>
+        <para id="id261960">Refer to the data table below which gives the ionisation energy (in kJ<m:math overflow="scroll"><m:mo>·</m:mo></m:math>mol<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>) and atomic number (Z) for a number of elements in the periodic table:</para>
+        <table id="id261984" summary="">
+          <tgroup cols="4">
+            <tbody>
+              <row>
+                <entry>
+                  <emphasis effect="bold">Z</emphasis>
+                </entry>
+                <entry>Ionisation energy</entry>
+                <entry>
+                  <emphasis effect="bold">Z</emphasis>
+                </entry>
+                <entry>Ionisation energy</entry>
+              </row>
+              <row>
+                <entry>1</entry>
+                <entry>1310</entry>
+                <entry>10</entry>
+                <entry>2072</entry>
+              </row>
+              <row>
+                <entry>2</entry>
+                <entry>2360</entry>
+                <entry>11</entry>
+                <entry>494</entry>
+              </row>
+              <row>
+                <entry>3</entry>
+                <entry>517</entry>
+                <entry>12</entry>
+                <entry>734</entry>
+              </row>
+              <row>
+                <entry>4</entry>
+                <entry>895</entry>
+                <entry>13</entry>
+                <entry>575</entry>
+              </row>
+              <row>
+                <entry>5</entry>
+                <entry>797</entry>
+                <entry>14</entry>
+                <entry>783</entry>
+              </row>
+              <row>
+                <entry>6</entry>
+                <entry>1087</entry>
+                <entry>15</entry>
+                <entry>1051</entry>
+              </row>
+              <row>
+                <entry>7</entry>
+                <entry>1397</entry>
+                <entry>16</entry>
+                <entry>994</entry>
+              </row>
+              <row>
+                <entry>8</entry>
+                <entry>1307</entry>
+                <entry>17</entry>
+                <entry>1250</entry>
+              </row>
+              <row>
+                <entry>9</entry>
+                <entry>1673</entry>
+                <entry>18</entry>
+                <entry>1540</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <!--empty paragraphs get left behind.-->
+        <list id="id262371" display="block" list-type="enumerated">
+          <item id="uid152">Draw a line graph to show the relationship between atomic number (on the x-axis) and ionisation energy (y-axis).
+</item>
+          <item id="uid153">Describe any trends that you observe.
+</item>
+          <item id="uid154">Explain why...
+<list id="id262412" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid155">the ionisation energy for Z=2 is higher than for Z=1
+</item><item id="uid156">the ionisation energy for Z=3 is lower than for Z=2
+</item><item id="uid157">the ionisation energy increases between Z=5 and Z=7
+</item></list></item>
+        </list><para id="eip-271"><link window="new" class="fullmarks" resource="http://www.fhsst.org/liv">Click here for the solution</link></para>
+        
+</section>
+<section id="secfhsst_id1062"><title>Elements in the periodic table         </title>
+        <para id="id262476">Refer to the elements listed below:</para>
+        <para id="id262482">Lithium (Li); Chlorine (Cl); Magnesium (Mg); Neon (Ne); Oxygen (O); Calcium (Ca); Carbon (C)</para>
+        <!--empty paragraphs get left behind.-->
+        <para id="id262495">Which of the elements listed above:</para>
+        <list id="id262499" display="block" list-type="enumerated">
+          <item id="uid158">belongs to Group 1
+</item>
+          <item id="uid159">is a halogen
+</item>
+          <item id="uid160">is a noble gas
+</item>
+          <item id="uid161">is an alkali metal
+</item>
+          <item id="uid162">has an atomic number of 12
+</item>
+          <item id="uid163">has 4 neutrons in the nucleus of its atoms
+</item>
+          <item id="uid164">contains electrons in the 4th energy level
+</item>
+          <item id="uid165">has only one valence electron
+</item>
+          <item id="uid166">has all its energy orbitals full
+</item>
+          <item id="uid167">will have chemical properties that are most similar
+</item>
+          <item id="uid168">will form positive ions
+</item>
+        </list><para id="eip-705"><link window="new" class="fullmarks" resource="http://www.fhsst.org/liw">Click here for the solution</link></para>
+        
+</section>
+      </section>
+    </section>
+    <section id="cid10">
+      <title>Summary</title>
+      <list id="id262657" display="block" list-type="bulleted"><item id="uid169">Much of what we know today about the atom, has been the result of the work of a number of scientists who have added to each other's work to give us a good understanding of atomic structure.
+</item>
+        <item id="uid170">Some of the important scientific contributors include <emphasis effect="bold">J.J.Thomson</emphasis> (discovery of the electron, which led to the Plum Pudding Model of the atom), <emphasis effect="bold">Ernest Rutherford</emphasis> (discovery that positive charge is concentrated in the centre of the atom) and <emphasis effect="bold">Niels Bohr</emphasis> (the arrangement of electrons around the nucleus in energy levels).
+</item>
+        <item id="uid171">Because of the very small mass of atoms, their mass is measured in <emphasis effect="bold">atomic mass units</emphasis> (u). 1 u = 1,67 <m:math overflow="scroll"><m:mo>×</m:mo></m:math> 10<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>24</m:mn></m:mrow></m:msup></m:math> g.
+</item>
+        <item id="uid172">An atom is made up of a central <emphasis effect="bold">nucleus</emphasis> (containing <emphasis effect="bold">protons</emphasis> and <emphasis effect="bold">neutrons</emphasis>), surrounded by <emphasis effect="bold">electrons</emphasis>.
+</item>
+        <item id="uid173">The <emphasis effect="bold">atomic number</emphasis> (Z) is the number of protons in an atom.
+</item>
+        <item id="uid174">The <emphasis effect="bold">atomic mass number</emphasis> (A) is the number of protons and neutrons in the nucleus of an atom.
+</item>
+        <item id="uid175">The <emphasis effect="bold">standard notation</emphasis> that is used to write an element, is <m:math overflow="scroll"><m:msubsup><m:mrow/><m:mi>Z</m:mi><m:mi>A</m:mi></m:msubsup></m:math>X, where X is the element symbol, A is the atomic mass number and Z is the atomic number.
+</item>
+        <item id="uid176">The <emphasis effect="bold">isotope</emphasis> of a particular element is made up of atoms which have the same number of protons as the atoms in the original element, but a different number of neutrons. This means that not all atoms of an element will have the same atomic mass.
+</item>
+        <item id="uid177">The <emphasis effect="bold">relative atomic mass</emphasis> of an element is the average mass of one atom of all the naturally occurring isotopes of a particular chemical element, expressed in atomic mass units. The relative atomic mass is written under the elements' symbol on the Periodic Table.
+</item>
+        <item id="uid178">The energy of electrons in an atom is <emphasis effect="bold">quantised</emphasis>. Electrons occur in specific energy levels around an atom's nucleus.
+</item>
+        <item id="uid179">Within each energy level, an electron may move within a particular shape of <emphasis effect="bold">orbital</emphasis>. An orbital defines the space in which an electron is most likely to be found. There are different orbital shapes, including s, p, d and f orbitals.
+</item>
+        <item id="uid180">Energy diagrams such as <emphasis effect="bold">Aufbau diagrams</emphasis> are used to show the electron configuration of atoms.
+</item>
+        <item id="uid181">The electrons in the outermost energy level are called <emphasis effect="bold">valence electrons</emphasis>.
+</item>
+        <item id="uid182">The electrons that are not valence electrons are called <emphasis effect="bold">core electrons</emphasis>.
+</item>
+        <item id="uid183">Atoms whose outermost energy level is full, are less chemically reactive and therefore more stable, than those atoms whose outer energy level is not full.
+</item>
+        <item id="uid184">An <emphasis effect="bold">ion</emphasis> is a charged atom. A <emphasis effect="bold">cation</emphasis> is a positively charged ion and an <emphasis effect="bold">anion</emphasis> is a negatively charged ion.
+</item>
+        <item id="uid185">When forming an ion, an atom will lose or gain the number of electrons that will make its valence energy level full.
+</item>
+        <item id="uid186">An element's <emphasis effect="bold">ionisation energy</emphasis> is the energy that is needed to remove one electron from an atom.
+</item>
+        <item id="uid187">Ionisation energy increases across a <emphasis effect="bold">period</emphasis> in the periodic table.
+</item>
+        <item id="uid188">Ionisation energy decreases down a <emphasis effect="bold">group</emphasis> in the periodic table.
+</item>
+      </list>
+<para id="eip-867"><figure id="slidesharefigure2" class="slideshare">
+    	<media id="slidesharemedia2" alt="Powerpoint presentation on atomic theory">
+    	<flash id="slideshareflash2" height="355" width="425" mime-type="application/x-shockwave-flash" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=atomictheoryrevision-100512033251-phpapp01&amp;stripped_title=atomic-theory-revision">
+    	<param name="allowScriptAccess" value="always"/>
+    	<param name="allowFullScreen" value="true"/>
+    	</flash>
+    	</media>
+    	</figure></para><section id="secfhsst_id1140"><title> Summary </title>
+      <list id="id263110" display="block" list-type="enumerated"><item id="uid189">Write down only the word/term for each of the following descriptions.
+<list id="id263126" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid190">The sum of the number of protons and neutrons in an atom
+</item><item id="uid191">The defined space around an atom's nucleus, where an electron is most likely to be found
+</item></list><link class="fullmarks" window="new" resource="http://www.fhsst.org/lif">Click here for the solution</link></item>
+        <item id="uid192">For each of the following, say whether the statement is True or False. If it is False, re-write the statement correctly.
+<list id="id263169" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid193"><m:math overflow="scroll"><m:msubsup><m:mrow/><m:mn>10</m:mn><m:mn>20</m:mn></m:msubsup></m:math>Ne and <m:math overflow="scroll"><m:msubsup><m:mrow/><m:mn>10</m:mn><m:mn>22</m:mn></m:msubsup></m:math>Ne each have 10 protons, 12 electrons and 12 neutrons.
+</item><item id="uid194">The atomic mass of any atom of a particular element is always the same.
+</item><item id="uid195">It is safer to use helium gas rather than hydrogen gas in balloons.
+</item><item id="uid196">Group 1 elements readily form negative ions.
+</item></list><link class="fullmarks" window="new" resource="http://www.fhsst.org/liG">Click here for the solution</link></item>
+        <item id="uid197">Multiple choice questions: In each of the following, choose the <emphasis effect="bold">one</emphasis> correct answer.
+<list id="id263273" display="block" list-type="enumerated"><item id="uid198">The three basic components of an atom are:
+<list id="id263289" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid199">protons, neutrons, and ions
+</item><item id="uid200">protons, neutrons, and electrons
+</item><item id="uid201">protons, neutrinos, and ions
+</item><item id="uid202">protium, deuterium, and tritium
+</item></list><link class="fullmarks" window="new" resource="http://www.fhsst.org/li7">Click here for the solution</link></item><item id="uid203">The charge of an atom is...
+<list id="id263355" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid204">positive
+</item><item id="uid205">neutral
+</item><item id="uid206">negative
+</item></list><link class="fullmarks" window="new" resource="http://www.fhsst.org/liA">Click here for the solution</link></item><item id="uid207">If Rutherford had used neutrons instead of alpha particles in his scattering experiment, the neutrons would...
+<list id="id263410" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid208">not deflect because they have no charge
+</item><item id="uid209">have deflected more often
+</item><item id="uid210">have been attracted to the nucleus easily
+</item><item id="uid211">have given the same results
+</item></list><link class="fullmarks" window="new" resource="http://www.fhsst.org/lio">Click here for the solution</link></item><item id="uid212">Consider the isotope <m:math overflow="scroll"><m:msubsup><m:mrow/><m:mn>92</m:mn><m:mn>234</m:mn></m:msubsup></m:math>U. Which of the following statements is <emphasis effect="italics">true</emphasis>?
+<list id="id263500" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid213">The element is an isotope of <m:math overflow="scroll"><m:msubsup><m:mrow/><m:mn>94</m:mn><m:mn>234</m:mn></m:msubsup></m:math>Pu
+</item><item id="uid214">The element contains 234 neutrons
+</item><item id="uid215">The element has the same electron configuration as <m:math overflow="scroll"><m:msubsup><m:mrow/><m:mn>92</m:mn><m:mn>238</m:mn></m:msubsup></m:math>U
+</item><item id="uid216">The element has an atomic mass number of 92
+</item></list><link class="fullmarks" window="new" resource="http://www.fhsst.org/lis">Click here for the solution</link></item><item id="uid217">The electron configuration of an atom of chlorine can be represented using the following notation:
+<list id="id263598" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid218">1s<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>2</m:mn></m:msup></m:math> 2s<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>8</m:mn></m:msup></m:math> 3s<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>7</m:mn></m:msup></m:math></item><item id="uid219">1s<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>2</m:mn></m:msup></m:math> 2s<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>2</m:mn></m:msup></m:math> 2p<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>6</m:mn></m:msup></m:math> 3s<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>2</m:mn></m:msup></m:math> 3p<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>5</m:mn></m:msup></m:math></item><item id="uid220">1s<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>2</m:mn></m:msup></m:math> 2s<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>2</m:mn></m:msup></m:math> 2p<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>6</m:mn></m:msup></m:math> 3s<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>2</m:mn></m:msup></m:math> 3p<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>6</m:mn></m:msup></m:math></item><item id="uid221">1s<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>2</m:mn></m:msup></m:math> 2s<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>2</m:mn></m:msup></m:math> 2p<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>5</m:mn></m:msup></m:math></item></list><link class="fullmarks" window="new" resource="http://www.fhsst.org/liH">Click here for the solution</link></item></list></item>
+        <item id="uid222">The following table shows the first ionisation energies for the elements of period 1 and 2.
+<table id="id263866" summary=""><tgroup cols="3"><tbody><row><entry>Period</entry><entry>Element</entry><entry>First ionisation energy (<m:math overflow="scroll"><m:mrow><m:mi>k</m:mi><m:mi>J</m:mi><m:mo>.</m:mo><m:mi>m</m:mi><m:mi>o</m:mi><m:msup><m:mi>l</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math>)</entry></row><row><entry>1</entry><entry>H</entry><entry>1312</entry></row><row><entry/><entry>He</entry><entry>2372</entry></row><row><entry/><entry>Li</entry><entry>520</entry></row><row><entry/><entry>Be</entry><entry>899</entry></row><row><entry/><entry>B</entry><entry>801</entry></row><row><entry/><entry>C</entry><entry>1086</entry></row><row><entry>2</entry><entry>N</entry><entry>1402</entry></row><row><entry/><entry>O</entry><entry>1314</entry></row><row><entry/><entry>F</entry><entry>1681</entry></row><row><entry/><entry>Ne</entry><entry>2081</entry></row></tbody></tgroup></table><list id="id264201" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid223">What is the meaning of the term <emphasis effect="italics">first ionisation energy</emphasis>?
+</item><item id="uid224">Identify the pattern of first ionisation energies in a period.
+</item><item id="uid225">Which TWO elements exert the strongest attractive forces on their electrons? Use the data in the table to give a reason for your answer.
+</item><item id="uid226">Draw Aufbau diagrams for the TWO elements you listed in the previous question and explain why these elements are so stable.
+</item><item id="uid227">It is safer to use helium gas than hydrogen gas in balloons. Which property of helium makes it a safer option?
+</item><item id="uid228">'Group 1 elements readily form positive ions'.
+Is this statement correct? Explain your answer by referring to the table.
+</item></list><link class="fullmarks" window="new" resource="http://www.fhsst.org/li6">Click here for the solution</link></item>
+      </list>
+      
+</section>
+    </section>
+  </content>
+</document>

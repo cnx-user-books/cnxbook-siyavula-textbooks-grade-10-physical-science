@@ -1,0 +1,97 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39928</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:abstract/>
+  <md:uuid>f014f56e-2c64-460e-a0b8-604fe3adc8dd</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid2">
+      <title>Introduction</title>
+      <para id="id62184">The earth's atmosphere is made up of about 78% nitrogen, making it the largest pool of this gas. Nitrogen is essential for many biological processes. It is in all amino acids, proteins and nucleic acids. As you will see in a later chapter, these compounds are needed to build tissues, transport substances around the body and control what happens in living organisms. In plants, much of the nitrogen is used in chlorophyll molecules which are needed for photosynthesis and growth.</para>
+      <para id="id62192">So, if nitrogen is so essential for life, how does it go from being a gas in the atmosphere to being part of living organisms such as plants and animals? The problem with nitrogen is that it is an 'inert' gas, which means that it is unavailable to living organisms in its gaseous form. This is because of the strong triple bond between its atoms that makes it difficult to break. Something needs to happen to the nitrogen gas to change it into a form that it can be used. And at some later stage, these new compounds must be converted back into nitrogen gas so that the amount of nitrogen in the atmosphere stays the same. This process of changing nitrogen into different forms is called the <emphasis effect="bold">nitrogen cycle</emphasis> (<link target-id="uid4"/>).</para>
+<definition id="fhsst_id49"><term id="termfhsst_id49"> The nitrogen cycle </term> <meaning id="meaningfhsst_id49">
+      <para id="id62556">The nitrogen cycle is a biogeochemical cycle that describes how nitrogen and nitrogen-containing compounds are changed in nature. </para>
+      </meaning></definition>
+      <para id="id62568">Very broadly, the nitrogen cycle is made up of the following processes:</para>
+      <list id="id62571" display="block" list-type="bulleted">
+        <item id="uid1"><emphasis effect="bold">Nitrogen fixation</emphasis> - The process of converting inert nitrogen gas into more useable nitrogen compounds such as ammonia.
+</item>
+        <item id="uid2"><emphasis effect="bold">Nitrification</emphasis> - The conversion of ammonia into nitrites and then into nitrates, which can be absorbed and used by plants.
+</item>
+        <item id="uid3"><emphasis effect="bold">Denitrification</emphasis> - The conversion of nitrates back into nitrogen gas in the atmosphere.
+</item>
+      </list>
+      <para id="id62624">We are going to look at each of these processes in more detail.</para>
+      <figure id="uid4">
+        <media id="uid4_media" alt="">
+          <image mime-type="image/png" src="../../media/NitrogenCycle.png" id="uid4_onlineimage" width="399"><!-- NOTE: attribute width changes image size online (pixels). original width is 399. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/NitrogenCycle.eps" id="uid4_printimage"/>
+        </media>
+        <caption>A simplified diagram of the nitrogen cycle</caption>
+      </figure>
+    </section>
+    <section id="cid3">
+      <title>Nitrogen fixation</title>
+      <para id="id62650">Nitrogen fixation is needed to change gaseous nitrogen into forms such as ammonia that are more useful to living organisms. Some fixation occurs in lightning strikes and in industrial processes, but most fixation is done by different types of bacteria living either in the soil or in parts of the plants.</para>
+      <list id="id62655" display="block" list-type="enumerated"><item id="uid5"><emphasis effect="bold">Biological fixation</emphasis>
+Some bacteria are able to fix nitrogen. They use an enzyme called <emphasis effect="italics">nitrogenase</emphasis> to combine gaseous nitrogen with hydrogen to form ammonia. The bacteria then use some of this ammonia to produce their own organic compounds, while what is left of the ammonia becomes available in the soil.
+Some of these bacteria are free-living, in other words they live in the soil. Others live in the root nodules of legumes (e.g. soy, peas and beans). Here they form a mutualistic relationship with the plant. The bacteria get carbohydrates (food) from the plant and, in exchange, produce ammonia which can be converted into nitrogen compounds that are essential for the survival of the plant. In nutrient-poor soils, planting lots of legumes can help to enrich the soil with nitrogen compounds.
+A simplified equation for biological nitrogen fixation is:<newline/>
+N<sub>2</sub> + 8H<sup>+</sup> + 8e<sup><m:math><m:mo>-</m:mo></m:math></sup><m:math><m:mo>→</m:mo></m:math> 2NH<sub>3</sub> + H<sub>2</sub><newline/>
+In this equation the 8e<sup><m:math><m:mo>-</m:mo></m:math></sup> means 8 electrons.
+Energy is used in the process, but this is not shown in the above equation.
+Another important source of ammonia in the soil is <emphasis effect="bold">decomposition</emphasis>. When animals and plants die, the nitrogen compounds that were present in them are broken down and converted into ammonia. This process is carried out by decomposition bacteria and fungi in the soil.
+</item>
+        <item id="uid6"><emphasis effect="bold">Industrial nitrogen fixation</emphasis>
+In the Haber-Bosch process, nitrogen (N<sub>2</sub>) is converted together with hydrogen gas (H<sub>2</sub>) into ammonia (NH<sub>3</sub>) fertiliser. This is an artificial process.
+</item>
+        <item id="uid7"><emphasis effect="bold">Lightning</emphasis>
+In the atmosphere, lightning and photons are important in the reaction between nitrogen (N<sub>2</sub>) and oxygen (O<sub>2</sub>) to form nitric oxide (NO) and then nitrates.
+</item>
+      </list>
+<note id="notfhsst_id90"><title> Interesting Fact </title>
+      <para id="id62905">It is interesting to note that by cultivating legumes, using the Haber-Bosch process to manufacture chemical fertilisers and increasing pollution from vehicles and industry, humans have more than doubled the amount of nitrogen that would normally be changed from nitrogen gas into a biologically useful form. This has serious environmental consequences.</para>
+</note>
+    </section>
+    <section id="cid4">
+      <title>Nitrification</title>
+      <para id="id62927">Nitrification involves two biological oxidation reactions: firstly, the oxidation of ammonia with oxygen to form nitrite (NO<sub>2</sub><sup><m:math><m:mo>-</m:mo></m:math></sup>) and secondly the oxidation of these nitrites into nitrates.</para>
+      <list id="id62949" display="block" list-type="enumerated">
+        <item id="uid8">NH<sub>3</sub> + O<sub>2</sub> <m:math><m:mo>→</m:mo></m:math> NO<sub>2</sub><sup><m:math><m:mo>-</m:mo></m:math></sup> + 3H<sup>+</sup> + 2e<sup><m:math><m:mo>-</m:mo></m:math></sup> (production of <emphasis effect="italics">nitrites</emphasis>)
+</item>
+        <item id="uid9">NO<sub>2</sub><sup><m:math overflow="scroll"><m:mo>-</m:mo></m:math></sup> + H<sub>2</sub>O<m:math><m:mo>→</m:mo></m:math> NO<sub>3</sub><sup><m:math><m:mo>-</m:mo></m:math></sup> + 2H<sup>+</sup> + 2e<sup><m:math><m:mo>-</m:mo></m:math></sup>(production of <emphasis effect="italics">nitrates</emphasis>)
+</item>
+      </list>
+      <para id="id63123">Nitrification is an important step in the nitrogen cycle in soil because it converts the ammonia (from the nitrogen fixing part of the cycle) into nitrates, which are easily absorbed by the roots of plants. This absorption of nitrates by plants is called <emphasis effect="bold">assimilation</emphasis>. Once the nitrates have been assimilated by the plants, they become part of the plants' proteins. These plant proteins are then available to be eaten by animals. In other words, animals (including humans) obtain their own nitrogen by feeding on plants. Nitrification is performed by bacteria in the soil, called <emphasis effect="italics">nitrifying bacteria</emphasis>.</para>
+<section id="secfhsst_id104"><title> Case Study : Nitrates in drinking water
+      </title>
+      <para id="id63154">
+        <emphasis effect="italics">Read the information below and then carry out your own research to help you answer the questions that follow.</emphasis>
+      </para>
+      <para id="id63163">The negatively charged nitrate ion is not held onto soil particles and so can be easily washed out of the soil. This is called <emphasis effect="bold">leaching</emphasis>. In this way, valuable nitrogen can be lost from the soil, reducing the soil's fertility. The nitrates can then accumulate in groundwater and eventually in drinking water. There are strict regulations that control how much nitrate can be present in drinking water, because nitrates can be reduced to highly reactive nitrites by microorganisms in the gut. Nitrites are absorbed from the gut and bind to haemoglobin (the pigment in blood that helps to transport oxygen around the body). This reduces the ability of the haemoglobin to carry oxygen. In young babies this can lead to respiratory distress, a condition known as "blue baby syndrome".</para>
+      <list id="id63180" display="block" list-type="enumerated">
+        <item id="uid10">How is nitrate concentration in water measured?
+</item>
+        <item id="uid11">What concentration of nitrates in drinking water is considered acceptable? You can use drinking water standards for any part of the world, if you can't find any for South Africa.
+</item>
+        <item id="uid12">What is 'blue baby syndrome' and what are the symptoms of the disease?
+</item>
+      </list>
+      
+</section>
+    </section>
+    <section id="cid5">
+      <title>Denitrification</title>
+      <para id="id63239">Denitrification is the process of reducing nitrate and nitrite into gaseous nitrogen. The process is carried out by <emphasis effect="italics">denitrification bacteria</emphasis>. The nitrogen that is produced is returned to the atmosphere to complete the nitrogen cycle.</para>
+      <para id="id63249">The equation for the reaction is:</para>
+      <para id="id63254">2NO<sub>3</sub><sup><m:math><m:mo>-</m:mo></m:math></sup> + 10e<sup><m:math><m:mo>-</m:mo></m:math></sup> + 12H<sup>+</sup>
+            <m:math><m:mo>→</m:mo></m:math> N<sub>2</sub> + 6H<sub>2</sub>O
+
+      </para>
+    </section>
+
+  </content>
+</document>

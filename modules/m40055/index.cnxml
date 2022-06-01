@@ -1,0 +1,863 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Weight and acceleration due to gravity</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m40055</md:content-id>
+  <md:title>Weight and acceleration due to gravity</md:title>
+  <md:abstract/>
+  <md:uuid>d85e3111-6378-49b7-b713-16ec667c7ef3</md:uuid>
+</metadata>
+
+<content>
+    <para id="eip-224"><figure id="FallingObjects-1" class="veritasium"><title>Veritasium video on falling objects - 1</title><media id="yt-media1" display="block" alt="video on falling objects 1">
+	  <flash id="yt-video1" mime-type="application/x-shockwave-flash" src="http://www.youtube.com/v/_mCC-68LyZM&amp;rel=0" width="425" height="344">
+	  <param name="allowscriptaccess" value="always"/>
+	  <param name="allowsfullscreen" value="true"/>
+	  </flash>
+	  </media>
+	  </figure></para><section id="cid2">
+      <title>Weight</title>
+      <para id="id62187">Weight is the gravitational force that the Earth exerts on any object. The weight of an objects gives you an indication of how strongly the Earth attracts that body towards its centre. Weight is calculated as follows:</para>
+      <para id="id62192"><m:math overflow="scroll"><m:mi mathvariant="normal">Weight</m:mi><m:mo>=</m:mo><m:mrow><m:mi>m</m:mi><m:mi>g</m:mi></m:mrow></m:math></para>
+      <para id="id62546">where <m:math overflow="scroll"><m:mi>m</m:mi></m:math> = mass of the object (in kg)</para>
+      <para id="id62556">and <m:math overflow="scroll"><m:mi>g</m:mi></m:math> = the acceleration due to gravity (<m:math overflow="scroll"><m:mn>9,8</m:mn><m:mspace width="2pt"/><m:mi>m</m:mi><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>2</m:mn></m:mrow></m:msup></m:math>)</para>
+      <para id="id62593">For example, what is Sarah's weight if her mass is <m:math><m:mn>50</m:mn><m:mspace width="4pt"/><m:mi>kg</m:mi></m:math>. Sarah's weight is calculated according to:
+<equation id="id62602"><m:math overflow="scroll" mode="display"><m:mtable displaystyle="true"><m:mtr><m:mtd columnalign="right"><m:mi> Weight </m:mi></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mi>m</m:mi><m:mi>g</m:mi></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mrow><m:mo>(</m:mo><m:mn>50</m:mn><m:mspace width="4pt"/><m:mi> kg </m:mi><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mn>9</m:mn><m:mo>,</m:mo><m:mn>8</m:mn><m:mspace width="0.166667em"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:msup><m:mi mathvariant="normal">s</m:mi><m:mrow><m:mo>-</m:mo><m:mn>2</m:mn></m:mrow></m:msup><m:mo>)</m:mo></m:mrow></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mn>490</m:mn><m:mspace width="4pt"/><m:mi> kg </m:mi><m:mo>·</m:mo><m:mspace width="0.166667em"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:msup><m:mi mathvariant="normal">s</m:mi><m:mrow><m:mo>-</m:mo><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mn>490</m:mn><m:mspace width="4pt"/><m:mi mathvariant="normal">N</m:mi></m:mrow></m:mtd></m:mtr></m:mtable></m:math></equation><!--empty paragraphs get left behind.--><figure id="id62758"><media id="id62758_media" alt=""><image mime-type="image/png" src="../../media/PG10C3_001.png" id="id62758_onlineimage" width="129"><!-- NOTE: attribute width changes image size online (pixels). original width is 129. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C3_001.eps" id="id62758_printimage"/></media></figure></para>
+<note id="notfhsst_id17" type="tip">Weight is sometimes abbreviated as <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mi>g</m:mi></m:msub></m:math> which refers to the force of gravity. Do not use the abbreviation <m:math overflow="scroll"><m:mi>W</m:mi></m:math> for weight as it refers to `Work'.</note>
+      <para id="id62792">Now, we have said that the value of <m:math overflow="scroll"><m:mi>g</m:mi></m:math> is approximately <m:math overflow="scroll"><m:mn>9,8</m:mn><m:mspace width="4pt"/><m:mi>m</m:mi><m:mo>·</m:mo><m:mi>s</m:mi><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>2</m:mn></m:mrow></m:msup></m:math> on the surface of the Earth. The actual value varies slightly over the surface of the Earth.
+Each planet in our Solar System has its own value for <m:math overflow="scroll"><m:mi>g</m:mi></m:math>. These values are listed as multiples of <m:math overflow="scroll"><m:mi>g</m:mi></m:math> on Earth in <link target-id="uid1"/></para>
+      <table id="uid1" summary="Gravitational acceleration on the surfaces of each planet">
+<tgroup cols="2"><tbody>
+            <row>
+              <entry>
+                <emphasis effect="bold">Planet</emphasis>
+              </entry>
+              <entry>Gravitational Acceleration (multiples of <m:math overflow="scroll"><m:mi>g</m:mi></m:math> on Earth)</entry>
+            </row>
+            <row>
+              <entry>Mercury</entry>
+              <entry>0,376</entry>
+            </row>
+            <row>
+              <entry>Venus</entry>
+              <entry>0,903</entry>
+            </row>
+            <row>
+              <entry>Earth</entry>
+              <entry>1</entry>
+            </row>
+            <row>
+              <entry>Mars</entry>
+              <entry>0,38</entry>
+            </row>
+            <row>
+              <entry>Jupiter</entry>
+              <entry>2,34</entry>
+            </row>
+            <row>
+              <entry>Saturn</entry>
+              <entry>1,16</entry>
+            </row>
+            <row>
+              <entry>Uranus</entry>
+              <entry>1,15</entry>
+            </row>
+            <row>
+              <entry>Neptune</entry>
+              <entry>1,19</entry>
+            </row>
+            <row>
+              <entry>Pluto</entry>
+              <entry>0,066</entry>
+            </row>
+          </tbody>
+        
+</tgroup><caption>A list of the gravitational accelerations at the surfaces of each of the planets in our solar system. Values are listed as multiples of <m:math overflow="scroll"><m:mi>g</m:mi></m:math> on Earth. <emphasis effect="bold">Note</emphasis>: The "surface" is taken to mean the cloud tops of the gas giants (Jupiter, Saturn, Uranus and Neptune).</caption>
+</table>
+<exercise id="secfhsst_id69"><title> Determining mass and weight on other planets </title>
+      <problem id="probfhsst_id70">
+      <para id="id63095">Sarah's mass on Earth is <m:math><m:mn>50</m:mn><m:mspace width="4pt"/><m:mi>kg</m:mi></m:math>. What is her mass and weight on Mars? </para>
+      </problem>
+      <solution id="solfhsst_id73"> <list id="listfhsst_id73" list-type="enumerated" number-style="arabic" class="stepwise">
+      <item> <label> Determine what information is given and what is asked </label>
+      <para id="id63118">m (on Earth) = <m:math><m:mn>50</m:mn><m:mspace width="4pt"/><m:mi>kg</m:mi></m:math></para>
+      <para id="id63121">m (on Mars) = ?</para>
+      <para id="id63126">Weight (on Mars) = ?</para>
+      </item> <item> <label> Calculate her mass on Mars </label>
+      <para id="id63137">Sarah's mass does not change because she is still made up of the same amount of matter. Her mass on Mars is therefore <m:math><m:mn>50</m:mn><m:mspace width="4pt"/><m:mi>kg</m:mi></m:math>.</para>
+      </item> <item> <label> Calculate her weight on Mars </label>
+      <equation id="id63148">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:msup>
+                    <m:mi> Sarah </m:mi>
+                    <m:mo>'</m:mo>
+                  </m:msup>
+                  <m:mi mathvariant="normal">s</m:mi>
+                  <m:mspace width="3.33333pt"/>
+                  <m:mi> weight </m:mi>
+                </m:mrow>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>50</m:mn>
+                  <m:mo>×</m:mo>
+                  <m:mn>0</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>38</m:mn>
+                  <m:mo>×</m:mo>
+                  <m:mn>9</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>8</m:mn>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>186</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>2</m:mn>
+                  <m:mspace width="3.33333pt"/>
+                  <m:mi mathvariant="normal">N</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      
+      </item> </list> </solution>
+</exercise>
+      <section id="uid2">
+        <title>Differences between Mass and Weight</title>
+        <para id="id63434">Mass is measured in kilograms (kg) and is the amount of matter in an object. An object's mass does not change unless matter is added or removed from the object.</para>
+        <para id="id63439">The differences between mass and weight can be summarised in the following table:</para>
+        <table id="id63443" summary="">
+          <tgroup cols="2">
+            <tbody>
+              <row>
+                <entry>
+                  <emphasis effect="bold">Mass</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">Weight</emphasis>
+                </entry>
+              </row>
+              <row>
+                <entry>1. is a measure of how much matter there is in an object.</entry>
+                <entry>1. is the force with which the Earth attracts an object.</entry>
+              </row>
+              <row>
+                <entry>2. is measured in kilograms.</entry>
+                <entry>2. is measured in newtons</entry>
+              </row>
+              <row>
+                <entry>3. is the same on any planet.</entry>
+                <entry>3. is different on different planets.</entry>
+              </row>
+              <row>
+                <entry>4. is a scalar.</entry>
+                <entry>4. is a vector.</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <!--empty paragraphs get left behind.-->
+<section id="secfhsst_id169"><title> Weight </title>
+        <list id="id63564" display="block" list-type="enumerated"><item id="uid3">A bag of sugar has a mass of <m:math><m:mn>1</m:mn><m:mspace width="4pt"/><m:mi>kg</m:mi></m:math>. How much does it weigh:
+<list id="id63579" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid4">on Earth?
+</item><item id="uid5">on Jupiter?
+</item><item id="uid6">on Pluto?
+</item></list><link window="new" class="fullmarks" url="http://www.fhsst.org/lx5">Click here for the solution</link></item>
+          <item id="uid7">Neil Armstrong was the first man to walk on the surface of the Moon. The gravitational acceleration on the Moon is <m:math overflow="scroll"><m:mfrac><m:mn>1</m:mn><m:mn>6</m:mn></m:mfrac></m:math> of the gravitational acceleration on Earth, and there is negligible gravitational acceleration in outer space. If Neil's mass was <m:math><m:mn>90</m:mn><m:mspace width="4pt"/><m:mi>kg</m:mi></m:math>, what was his weight:
+<list id="id63643" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid8">on Earth?
+</item><item id="uid9">on the Moon?
+</item><item id="uid10">in outer space?
+</item></list><link window="new" class="fullmarks" url="http://www.fhsst.org/lxN">Click here for the solution</link></item>
+          <item id="uid11">A monkey has a mass of <m:math><m:mn>15</m:mn><m:mspace width="4pt"/><m:mi>kg</m:mi></m:math> on Earth. The monkey travels to Mars. What is his mass and weight on Mars?<newline/><link window="new" class="fullmarks" url="http://www.fhsst.org/lxR">Click here for the solution</link>
+</item>
+          <item id="uid12">Determine your mass by using a bathroom scale and calculate your weight for each planet in the Solar System, using the values given in <link target-id="uid1"/><newline/><link window="new" class="fullmarks" url="http://www.fhsst.org/lxn">Click here for the solution</link></item>
+        </list>
+        
+</section>
+      </section>
+    </section>
+
+    <section id="cid3">
+      <title>Acceleration due to Gravity</title>
+      <section id="uid13">
+        <title>Gravitational Fields</title>
+        <para id="id63737">A <emphasis effect="italics">field</emphasis> is a region of space in which a mass experiences a force. Therefore, a <emphasis effect="italics">gravitational</emphasis> field is a region of space in which a mass experiences a gravitational force.</para>
+      </section>
+      <section id="uid14">
+        <title>Free fall</title>
+<note id="notfhsst_id197" type="tip">Free fall is motion in the Earth's gravitational field when no other forces act on the object.</note>
+        <para id="id63768">Free fall is the term used to describe a special kind of motion in the Earth's gravitational field. Free fall is motion in the Earth's gravitational field when no other forces act on the object. It is basically an ideal situation, since in reality, there is always some air friction which slows down the motion.</para>
+<section id="secfhsst_id199"><title> Experiment : Acceleration due to Gravity </title>
+        <para id="id63781"><emphasis effect="bold">Aim:</emphasis> Investigating the acceleration of two different objects during free fall.</para>
+        <para id="id63791"><emphasis effect="bold">Apparatus:</emphasis> Tennis ball and a sheet of A4 paper.</para>
+        <para id="id63801">
+          <emphasis effect="bold">Method:</emphasis>
+        </para>
+        <list id="id63809" display="block" list-type="enumerated">
+          <item id="uid15">Hold the tennis ball and sheet of paper (horizontally) the same distance from the ground. Which one would strike the ground first if both were dropped?
+<figure id="id63828"><media id="id63828_media" alt=""><image mime-type="image/png" src="../../media/PG10C3_002.png" id="id63828_onlineimage" width="61"><!-- NOTE: attribute width changes image size online (pixels). original width is 61. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C3_002.eps" id="id63828_printimage"/></media></figure></item>
+          <item id="uid16">Drop both objects and observe. Explain your observations.
+</item>
+          <item id="uid17">Now crumple the paper into a ball, more or less the same size as the tennis ball. Drop the paper and tennis ball again and observe. Explain your observations.
+</item>
+          <item id="uid18">Why do you think the two situations are different?
+</item>
+          <item id="uid19">Compare the value for the acceleration due to gravity of the tennis ball to the crumpled piece of paper.
+</item>
+          <item id="uid20">Predict what will happen if an iron ball and a tennis ball of the same size are dropped from the same height. What will the values for their acceleration due to gravity be?
+</item>
+        </list>
+        
+</section>
+        <para id="id63909">If a metal ball and tennis ball (of the same size) were dropped from the same height, both would reach the ground at the same time. It does not matter that the one ball is heavier than the other. The acceleration of an object due to gravity is independent of the mass of the object. It does not matter what the mass of the object is.</para>
+        <para id="id63916">The shape of the object, however, is important. The sheet of paper took much longer to reach the ground than the tennis ball. This is because the effect of air friction on the paper was much greater than the air friction on the tennis ball.</para>
+        <para id="id63923">If we lived in a world where there was no air resistance, the A4 sheet of paper and the tennis ball would reach the ground at the same time. This happens in outer space or in a vaccuum.</para>
+        <para id="id63930">Galileo Galilei, an Italian scientist, studied the motion of objects. The following case study will tell you more about one of his investigations.</para>
+<section id="secfhsst_id225"><title> Case Study : Galileo Galilei </title>
+        <para id="id63944">In the late sixteenth century, it was generally believed that heavier objects would fall faster than lighter objects. The Italian scientist Galileo Galilei thought differently. Galileo hypothesized that two objects would fall at the same rate regardless of their mass. Legend has it that in 1590, Galileo planned out an experiment. He climbed to the top of the Leaning Tower of Pisa and dropped several large objects to test his theory. He wanted to show that two different objects fall at the same rate (as long as we ignore air resistance). Galileo's experiment proved his hypothesis correct; the acceleration of a falling object is independent of the object's mass.</para>
+        <para id="id63956">A few decades after Galileo, Sir Isaac Newton would show that acceleration depends upon both force and mass. While there is greater force acting on a larger object, this force is canceled out by the object's greater mass. Thus two objects will fall (actually they are pulled) to the earth at exactly the same rate.</para>
+        <para id="id63964"><emphasis effect="bold">Questions:</emphasis> Read the case study above and answer the following questions.</para>
+        <list id="id63975" display="block" list-type="enumerated">
+          <item id="uid21">Divide into pairs and explain Galileo's experiment to your friend.
+</item>
+          <item id="uid22">Write down an aim and a hypothesis for Galileo's experiment.
+</item>
+          <item id="uid23">Write down the result and conclusion for Galileo's experiment.
+</item>
+        </list>
+        
+</section>
+<section id="secfhsst_id239"><title> Research Project : Experimental Design </title>
+        <para id="id64033">Design an experiment similar to the one done by Galileo to prove that the acceleration due to gravity of an object is independent of the object's mass. The investigation must be such that you can perform it at home or at school. Bring your apparatus to school and perform the experiment. Write it up and hand it in for assessment. </para>
+</section>
+<section id="secfhsst_id242"><title> Case Study : Determining the acceleration due to gravity 1 </title>
+        <para id="id64055">Study the set of photographs alongside showing the position of a ball being dropped from a height at constant time intervals. The distance of the ball from the starting point in each consecutive image is observed to be: <m:math overflow="scroll"><m:mrow><m:msub><m:mi>x</m:mi><m:mn>1</m:mn></m:msub><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math> cm, <m:math overflow="scroll"><m:mrow><m:msub><m:mi>x</m:mi><m:mn>2</m:mn></m:msub><m:mo>=</m:mo><m:mn>4</m:mn><m:mo>,</m:mo><m:mn>9</m:mn></m:mrow></m:math> cm, <m:math overflow="scroll"><m:mrow><m:msub><m:mi>x</m:mi><m:mn>3</m:mn></m:msub><m:mo>=</m:mo><m:mn>19</m:mn><m:mo>,</m:mo><m:mn>6</m:mn></m:mrow></m:math> cm, <m:math overflow="scroll"><m:mrow><m:msub><m:mi>x</m:mi><m:mn>4</m:mn></m:msub><m:mo>=</m:mo><m:mn>44</m:mn><m:mo>,</m:mo><m:mn>1</m:mn></m:mrow></m:math> cm, <m:math overflow="scroll"><m:mrow><m:msub><m:mi>x</m:mi><m:mn>5</m:mn></m:msub><m:mo>=</m:mo><m:mn>78</m:mn><m:mo>,</m:mo><m:mn>4</m:mn></m:mrow></m:math> cm and <m:math overflow="scroll"><m:mrow><m:msub><m:mi>x</m:mi><m:mn>6</m:mn></m:msub><m:mo>=</m:mo><m:mn>122</m:mn><m:mo>,</m:mo><m:mn>5</m:mn></m:mrow></m:math> cm. Answer the following questions:</para>
+        
+        <para id="id64207"><list id="id64214" display="block" list-type="enumerated"><item id="uid24">Determine the time between each picture if the frequency of the exposures were 10 Hz.
+</item><item id="uid25">Calculate the velocity, <m:math overflow="scroll"><m:msub><m:mi>v</m:mi><m:mn>2</m:mn></m:msub></m:math>, of the ball between positions 1 and 3.
+<equation id="id64257"><m:math overflow="scroll" mode="display"><m:mrow><m:msub><m:mi>v</m:mi><m:mn>2</m:mn></m:msub><m:mo>=</m:mo><m:mfrac><m:mrow><m:msub><m:mi>x</m:mi><m:mn>3</m:mn></m:msub><m:mo>-</m:mo><m:msub><m:mi>x</m:mi><m:mn>1</m:mn></m:msub></m:mrow><m:mrow><m:msub><m:mi>t</m:mi><m:mn>3</m:mn></m:msub><m:mo>-</m:mo><m:msub><m:mi>t</m:mi><m:mn>1</m:mn></m:msub></m:mrow></m:mfrac></m:mrow></m:math></equation></item><item id="uid26">Calculate the velocity, <m:math overflow="scroll"><m:msub><m:mi>v</m:mi><m:mn>5</m:mn></m:msub></m:math>, of the ball between positions 4 and 6.
+<equation id="id64342"><m:math overflow="scroll" mode="display"><m:mrow><m:msub><m:mi>v</m:mi><m:mn>5</m:mn></m:msub><m:mo>=</m:mo><m:mfrac><m:mrow><m:msub><m:mi>x</m:mi><m:mn>6</m:mn></m:msub><m:mo>-</m:mo><m:msub><m:mi>x</m:mi><m:mn>4</m:mn></m:msub></m:mrow><m:mrow><m:msub><m:mi>t</m:mi><m:mn>6</m:mn></m:msub><m:mo>-</m:mo><m:msub><m:mi>t</m:mi><m:mn>4</m:mn></m:msub></m:mrow></m:mfrac></m:mrow></m:math></equation></item><item id="uid27">Calculate the acceleration the ball between positions 2 and 5.
+<equation id="id64411"><m:math overflow="scroll" mode="display"><m:mrow><m:mi>a</m:mi><m:mo>=</m:mo><m:mfrac><m:mrow><m:msub><m:mi>v</m:mi><m:mn>5</m:mn></m:msub><m:mo>-</m:mo><m:msub><m:mi>v</m:mi><m:mn>2</m:mn></m:msub></m:mrow><m:mrow><m:msub><m:mi>t</m:mi><m:mn>5</m:mn></m:msub><m:mo>-</m:mo><m:msub><m:mi>t</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:mfrac></m:mrow></m:math></equation></item><item id="uid28">Compare your answer to the value for the acceleration due to gravity (<m:math overflow="scroll"><m:mn>9,8</m:mn><m:mspace width="2pt"/><m:mi>m</m:mi><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>2</m:mn></m:mrow></m:msup></m:math>).
+</item></list><figure id="id64514"><media id="id64514_media" alt=""><image mime-type="image/png" src="../../media/PG10C3_003.png" id="id64514_onlineimage" width="62"><!-- NOTE: attribute width changes image size online (pixels). original width is 62. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C3_003.eps" id="id64514_printimage"/></media></figure>
+
+
+ </para>
+</section>
+        <para id="id64528">The acceleration due to gravity is constant. This means we can use the equations of motion under constant acceleration that we derived in <link document="m30867" target-id="cid10" window="new">motion in one dimension</link> to describe the motion of an object in free fall. The equations are repeated here for ease of use.</para>
+        <equation id="id64542"><m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>v</m:mi>
+                    <m:mi>i</m:mi>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi> initial velocity</m:mi>
+                    <m:mo>(</m:mo>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi mathvariant="normal">s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                    <m:mo>)</m:mo>
+                    <m:mi> at </m:mi><m:mspace width="2pt"/>
+                    <m:mi mathvariant="normal">t</m:mi>
+                    <m:mo>=</m:mo>
+                    <m:mn>0</m:mn>
+                    <m:mi mathvariant="normal">s</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>v</m:mi>
+                    <m:mi>f</m:mi>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi> final velocity</m:mi>
+                    <m:mo>(</m:mo>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi mathvariant="normal">s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                    <m:mo>)</m:mo>
+                    <m:mi> at time </m:mi><m:mspace width="2pt"/>
+                    <m:mi mathvariant="normal">t</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mi>Δ</m:mi>
+                    <m:mi>x</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi> displacement </m:mi>
+                    <m:mo>(</m:mo>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>t</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi> time </m:mi>
+                    <m:mo>(</m:mo>
+                    <m:mi mathvariant="normal">s</m:mi>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mi>Δ</m:mi>
+                    <m:mi>t</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi> time interval</m:mi>
+                    <m:mo>(</m:mo>
+                    <m:mi mathvariant="normal">s</m:mi>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>g</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi> acceleration </m:mi>
+                    <m:mo>(</m:mo>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi mathvariant="normal">s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>2</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <equation id="uid29"><m:math overflow="scroll" mode="display">
+                  <m:msub>
+                    <m:mi>v</m:mi>
+                    <m:mi>f</m:mi>
+                  </m:msub>
+                  <m:mo>=</m:mo>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mi>i</m:mi>
+                    </m:msub>
+                    <m:mo>+</m:mo>
+                    <m:mi>g</m:mi>
+                    <m:mi>t</m:mi>
+          </m:math>
+        </equation>
+<equation id="eip-511"><m:math overflow="scroll" mode="display">
+                    <m:mi>Δ</m:mi>
+                    <m:mi>x</m:mi>
+                  <m:mo>=</m:mo>
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:msub>
+                          <m:mi>v</m:mi>
+                          <m:mi>i</m:mi>
+                        </m:msub>
+                        <m:mo>+</m:mo>
+                        <m:msub>
+                          <m:mi>v</m:mi>
+                          <m:mi>f</m:mi>
+                        </m:msub>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mn>2</m:mn>
+                    </m:mfrac>
+                    <m:mi>t</m:mi>
+</m:math></equation><equation id="eip-915"><m:math overflow="scroll" mode="display">
+                    <m:mi>Δ</m:mi>
+                    <m:mi>x</m:mi>
+                  <m:mo>=</m:mo>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mi>i</m:mi>
+                    </m:msub>
+                    <m:mi>t</m:mi>
+                    <m:mo>+</m:mo>
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:mn>2</m:mn>
+                    </m:mfrac>
+                    <m:mi>g</m:mi>
+                    <m:msup>
+                      <m:mi>t</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+</m:math></equation><equation id="eip-477"><m:math overflow="scroll" mode="display">
+                  <m:msubsup>
+                    <m:mi>v</m:mi>
+                    <m:mi>f</m:mi>
+                    <m:mn>2</m:mn>
+                  </m:msubsup>
+                  <m:mo>=</m:mo>
+                    <m:msubsup>
+                      <m:mi>v</m:mi>
+                      <m:mi>i</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msubsup>
+                    <m:mo>+</m:mo>
+                    <m:mn>2</m:mn>
+                    <m:mi>g</m:mi>
+                    <m:mi>Δ</m:mi>
+                    <m:mi>x</m:mi>
+          </m:math></equation><section id="secfhsst_id521"><title> Experiment : Determining the acceleration due to gravity 2 </title>
+        <para id="id65002">Work in groups of at least two people.</para>
+        <para id="id65007"><emphasis effect="bold">Aim:</emphasis> To determine the acceleration of an object in freefall.</para>
+        <para id="id65018"><emphasis effect="bold">Apparatus:</emphasis> Large marble, two stopwatches, measuring tape.</para>
+        <para id="id65029"><emphasis effect="bold">Method:</emphasis> </para>
+        <list id="id65039" display="block" list-type="enumerated">
+          <item id="uid30">Measure the height of a door, from the top of the door to the floor, exactly. Write down the measurement.
+</item>
+          <item id="uid31">One person must hold the marble at the top of the door. Drop the marble to the floor at the same time as he/she starts the first stopwatch.
+</item>
+          <item id="uid32">The second person watches the floor and starts his stopwatch when the marble hits the floor.
+</item>
+          <item id="uid33">The two stopwatches are stopped together and the two times substracted. The difference in time will give the time taken for the marble to fall from the top of the door to the floor.
+</item>
+          <item id="uid34">Design a table to show the results of your experiment. Choose appropriate headings and units.
+</item>
+          <item id="uid35">Choose an appropriate equation of motion to calculate the acceleration of the marble. Remember that the marble starts from rest and that it's displacement was determined in the first step.
+</item>
+          <item id="uid36">Write a conclusion for your investigation.
+</item>
+          <item id="uid37">Answer the following questions:
+<list id="id65146" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid38">Why do you think two stopwatches were used in this investigation?
+</item><item id="uid39">Compare the value for acceleration obtained in your investigation with the value of acceleration due to gravity (<m:math overflow="scroll"><m:mn>9,8</m:mn> <m:mspace width="2pt"/><m:mi>m</m:mi><m:mo>·</m:mo><m:mi>s</m:mi><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>2</m:mn></m:mrow></m:msup></m:math>). Explain your answer.
+</item></list></item>
+        </list>
+        
+</section>
+<exercise id="secfhsst_id548"><title> A freely falling ball </title>
+        <problem id="probfhsst_id549">
+        <para id="id65224">A ball is dropped from the balcony of a tall building. The balcony is <m:math><m:mn>15</m:mn><m:mspace width="2pt"/><m:mi>m</m:mi></m:math> above the ground. Assuming gravitational acceleration is <m:math overflow="scroll"><m:mn>9,8</m:mn> <m:mspace width="2pt"/><m:mi>m</m:mi><m:mo>·</m:mo><m:mi>s</m:mi><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>2</m:mn></m:mrow></m:msup></m:math>, find:</para>
+        <list id="id65258" display="block" list-type="enumerated">
+          <item id="uid40">the time required for the ball to hit the ground, and
+</item>
+          <item id="uid41">the velocity with which it hits the ground.
+</item>
+        </list>
+        
+        </problem>
+        <solution id="solfhsst_id559"> <list id="listfhsst_id559" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Draw a rough sketch of the problem </label>
+        <para id="id65308">It always helps to understand the problem if we draw a picture like the one below:</para>
+        <para id="id65312">
+          <figure id="id65315">
+            <media id="id65315_media" alt="">
+              <image mime-type="image/png" src="../../media/PG10C3_004.png" id="id65315_onlineimage" width="126"><!-- NOTE: attribute width changes image size online (pixels). original width is 126. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG10C3_004.eps" id="id65315_printimage"/>
+            </media>
+          </figure>
+        </para>
+        </item> <item> <label> Identify what information is given and what is asked for </label>
+        <para id="id65326">We have these quantities:</para>
+        <equation id="id65330">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mi>Δ</m:mi>
+                    <m:mi>x</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>15</m:mn>
+                    <m:mspace width="4pt"/>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>v</m:mi>
+                    <m:mi>i</m:mi>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>0</m:mn>
+                    <m:mspace width="4pt"/>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi mathvariant="normal">s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>g</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>9</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>8</m:mn>
+                    <m:mspace width="4pt"/>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi mathvariant="normal">s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>2</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        </item> <item> <label> Choose up or down as the positive direction. </label>
+        <para id="id65471">Since the ball is falling, we choose down as positive. This means that the values for <m:math overflow="scroll"><m:msub><m:mi>v</m:mi><m:mi>i</m:mi></m:msub></m:math>, <m:math overflow="scroll"><m:mrow><m:mi>Δ</m:mi><m:mi>x</m:mi></m:mrow></m:math> and <m:math overflow="scroll"><m:mi>a</m:mi></m:math> will be positive.</para>
+        </item> <item> <label> Choose the most appropriate equation. </label>
+        <para id="id65515">We can use <link target-id="eip-915"/> to find the time:  <m:math overflow="scroll"><m:mrow><m:mi>Δ</m:mi><m:mi>x</m:mi><m:mo>=</m:mo><m:msub><m:mi>v</m:mi><m:mi>i</m:mi></m:msub><m:mi>t</m:mi><m:mo>+</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mi>g</m:mi><m:msup><m:mi>t</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math></para>
+        </item> <item> <label> Use the equation to find <m:math overflow="scroll"><m:mi>t</m:mi></m:math>. </label>
+        <equation id="id65574">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mi>Δ</m:mi>
+                    <m:mi>x</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mi>i</m:mi>
+                    </m:msub>
+                    <m:mi>t</m:mi>
+                    <m:mo>+</m:mo>
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:mn>2</m:mn>
+                    </m:mfrac>
+                    <m:mi>g</m:mi>
+                    <m:msup>
+                      <m:mi>t</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mn>15</m:mn>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>0</m:mn>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mi>t</m:mi>
+                    <m:mo>+</m:mo>
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:mn>2</m:mn>
+                    </m:mfrac>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>9</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>8</m:mn>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:msup>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mi>t</m:mi>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mn>15</m:mn>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>4</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>9</m:mn>
+                    <m:mspace width="3.33333pt"/>
+                    <m:msup>
+                      <m:mi>t</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msup>
+                    <m:mi>t</m:mi>
+                    <m:mn>2</m:mn>
+                  </m:msup>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>3</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>0612</m:mn>
+                    <m:mo>.</m:mo>
+                    <m:mo>.</m:mo>
+                    <m:mo>.</m:mo>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>t</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>1</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>7496</m:mn>
+                    <m:mo>.</m:mo>
+                    <m:mo>.</m:mo>
+                    <m:mo>.</m:mo>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>t</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>1</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>75</m:mn>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mi>s</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        </item> <item> <label> Find the final velocity <m:math overflow="scroll"><m:msub><m:mi>v</m:mi><m:mi>f</m:mi></m:msub></m:math>. </label>
+        <para id="id65824">Using <link target-id="uid29"/> to find <m:math overflow="scroll"><m:msub><m:mi>v</m:mi><m:mi>f</m:mi></m:msub></m:math>:</para>
+        <equation id="id65845">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>v</m:mi>
+                    <m:mi>f</m:mi>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mi>i</m:mi>
+                    </m:msub>
+                    <m:mo>+</m:mo>
+                    <m:mi>g</m:mi>
+                    <m:mi>t</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>v</m:mi>
+                    <m:mi>f</m:mi>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>0</m:mn>
+                    <m:mo>+</m:mo>
+                    <m:mo>(</m:mo>
+                    <m:mn>9</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>8</m:mn>
+                    <m:mo>)</m:mo>
+                    <m:mo>(</m:mo>
+                    <m:mn>1</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>7496</m:mn>
+                    <m:mo>.</m:mo>
+                    <m:mo>.</m:mo>
+                    <m:mo>.</m:mo>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>v</m:mi>
+                    <m:mi>f</m:mi>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>17</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>1464</m:mn>
+                    <m:mo>.</m:mo>
+                    <m:mo>.</m:mo>
+                    <m:mo>.</m:mo>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id65974">Remember to add the direction: <m:math overflow="scroll"><m:msub><m:mi>v</m:mi><m:mi>f</m:mi></m:msub><m:mo>=</m:mo><m:mn>17,15</m:mn><m:mspace width="2pt"/><m:mi>m</m:mi><m:mo>·</m:mo><m:mi>s</m:mi><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math> downwards.
+ </para>
+        </item> </list> </solution>
+</exercise>
+        <para id="id66031">By now you should have seen that free fall motion is just a special case of motion with constant acceleration, and we use the same equations as before. The only difference is that the value for the acceleration, <m:math overflow="scroll"><m:mi>a</m:mi></m:math>, is always equal to the value of gravitational acceleration, <m:math overflow="scroll"><m:mi>g</m:mi></m:math>. In the equations of motion we can replace <m:math overflow="scroll"><m:mi>a</m:mi></m:math> with <m:math overflow="scroll"><m:mi>g</m:mi></m:math>.</para>
+<section id="secfhsst_id891"><title> Gravitational Acceleration </title>
+        <list id="id66080" display="block" list-type="enumerated"><item id="uid42">A brick falls from the top of a <m:math><m:mn>5</m:mn><m:mspace width="2pt"/><m:mi>m</m:mi></m:math> high building. Calculate the velocity with which the brick reaches the ground. How long does it take the brick to reach the ground?<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lxQ">Click here for the solution</link>
+</item>
+          <item id="uid43">A stone is dropped from a window. It takes the stone <m:math><m:mn>1,5</m:mn><m:mspace width="2pt"/><m:mi>s</m:mi></m:math> to reach the ground. How high above the ground is the window?<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lxU">Click here for the solution</link>
+</item>
+          <item id="uid44">An apple falls from a tree from a height of <m:math><m:mn>1,8</m:mn><m:mspace width="2pt"/><m:mi>m</m:mi></m:math>. What is the velocity of the apple when it reaches the ground?<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lxP">Click here for the solution</link>
+</item>
+        </list>
+        
+</section>
+      </section>
+    </section>
+
+  </content>
+</document>

@@ -1,0 +1,439 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>The properties of matter</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39947</md:content-id>
+  <md:title>The properties of matter</md:title>
+  <md:abstract/>
+  <md:uuid>e96f34ce-049b-463c-8866-74c0ae48ab7b</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid6">
+      <title>The Properties of Matter</title>
+      <para id="id309103">Let us now look at what we have learned about chemical 
+bonds, intermolecular forces and the kinetic theory of matter, and see whether 
+this can help us to understand some of the macroscopic properties of materials.
+</para>
+      <list id="id309108" display="block" list-type="enumerated"><item id="uid43"><emphasis effect="bold">Melting point</emphasis>
+<definition id="fhsst_id276"><term id="termfhsst_id276"> Melting point </term> 
+<meaning id="meaningfhsst_id276">
+The temperature at which a <emphasis effect="italics">solid</emphasis> changes 
+its phase or state to become a <emphasis effect="italics">liquid</emphasis>. The 
+process is called melting and the reverse process (change in phase from liquid 
+to solid) is called <emphasis effect="bold">freezing</emphasis>. 
+</meaning></definition>In order for a solid to melt, the energy of the particles 
+must increase enough to overcome the bonds that are holding the particles 
+together. It makes sense then that a solid which is held together by strong 
+bonds will have a <emphasis effect="italics">higher</emphasis> melting point 
+than one where the bonds are weak, because more energy (heat) is needed to break 
+the bonds. In the examples we have looked at metals, ionic solids and some 
+atomic lattices (e.g. diamond) have high melting points, whereas the melting 
+points for molecular solids and other atomic lattices (e.g. graphite) are much 
+lower. Generally, the intermolecular forces between molecular solids are 
+<emphasis effect="italics">weaker</emphasis> than those between ionic and 
+metallic solids.
+</item>
+        <item id="uid44"><emphasis effect="bold">Boiling point</emphasis>
+<definition id="fhsst_id282"><term id="termfhsst_id282"> Boiling point </term> 
+<meaning id="meaningfhsst_id282">
+The temperature at which a <emphasis effect="italics">liquid</emphasis> changes 
+its phase to become a <emphasis effect="italics">gas</emphasis>. The process is 
+called evaporation and the reverse process is called condensation 
+</meaning></definition>When the temperature of a liquid increases, the average 
+kinetic energy of the particles also increases and they are able to overcome 
+the bonding forces that are holding them in the liquid. When boiling point is 
+reached, <emphasis effect="italics">evaporation</emphasis> takes place and some 
+particles in the liquid become a gas. In other words, the energy of the 
+particles is too great for them to be held in a liquid anymore. The stronger the 
+bonds within a liquid, the higher the boiling point needs to be in order to 
+break these bonds. Metallic and ionic compounds have high boiling points while 
+the boiling point for molecular liquids is lower.
+The data in <link target-id="uid45"/> below may help you to understand some of 
+the concepts we have explained. Not all of the substances in the table are 
+solids at room temperature, so for now, let's just focus on the <emphasis effect="italics">boiling points</emphasis> for each of these substances. What do 
+you notice?
+<table id="uid45" summary=""><tgroup cols="3"><tbody><row><entry><emphasis effect="bold">Substance</emphasis></entry><entry><emphasis effect="bold">Melting 
+point (<m:math overflow="scroll"><m:mrow><m:msup><m:mrow/><m:mn>0</m:mn>
+</m:msup><m:mi>C</m:mi></m:mrow></m:math>)</emphasis></entry><entry><emphasis effect="bold">Boiling point (<m:math overflow="scroll"><m:mrow><m:msup><m:mrow/>
+<m:mn>0</m:mn></m:msup><m:mi>C</m:mi></m:mrow></m:math>)</emphasis></entry>
+</row><row><entry>Ethanol (C<sub>2</sub>H<sub>6</sub>O)</entry><entry>-
+114,3</entry><entry>78,4</entry></row><row><entry>Water</entry><entry>0</entry>
+<entry>100</entry></row><row><entry>Mercury</entry><entry>-38,83</entry>
+<entry>356,73</entry></row><row><entry>Sodium chloride</entry><entry>801</entry>
+<entry>1465</entry></row></tbody></tgroup><caption>The melting and boiling 
+points for a number of substances</caption></table>
+You will have seen that substances such as ethanol, with relatively weak 
+intermolecular forces, have the lowest boiling point, while substances with 
+stronger intermolecular forces such as sodium chloride and mercury, must be 
+heated much more if the particles are to have enough energy to overcome the 
+forces that are holding them together in the liquid.</item></list>
+<section id="secfhsst_id289"><title>Forces and boiling point </title><para id="uid9732">The table below gives the molecular formula and the boiling point 
+for a number of organic compounds called <emphasis effect="italics">alkanes</emphasis> (more on these compounds in grade 12). Refer 
+to the table and then answer the questions that follow.</para>
+<table id="id309695" summary="Alakane boiling points">
+<tgroup cols="3"><tbody><row><entry>Organic compound</entry><entry>Molecular 
+formula</entry><entry>Boiling point (<m:math overflow="scroll"><m:msup><m:mrow/>
+<m:mn>0</m:mn></m:msup></m:math>C)</entry></row><row><entry>Methane</entry>
+<entry>CH<sub>4</sub></entry><entry>-161.6</entry></row><row>
+<entry>Ethane</entry><entry>C<sub>2</sub>H<sub>6</sub></entry><entry>-
+88.6</entry></row><row><entry>Propane</entry><entry>C<sub>3</sub>H<sub>8</sub>
+</entry><entry>-45</entry></row><row><entry>Butane</entry>
+<entry>C<sub>4</sub>H<sub>10</sub></entry><entry>-0.5</entry></row><row>
+<entry>Pentane</entry><entry>C<sub>5</sub>H<sub>12</sub></entry>
+<entry>36.1</entry></row><row><entry>Hexane</entry>
+<entry>C<sub>6</sub>H<sub>14</sub></entry><entry>69</entry></row><row>
+<entry>Heptane</entry><entry>C<sub>7</sub>H<sub>16</sub></entry>
+<entry>98.42</entry></row><row><entry>Octane</entry>
+<entry>C<sub>8</sub>H<sub>18</sub></entry><entry>125.52</entry></row></tbody>
+</tgroup>
+</table><para id="uid9732422">Data from: http://www.wikipedia.com</para><list id="id310184" display="block" list-type="enumerated"><item id="uid46">Draw a 
+graph to show the relationship between the number of carbon atoms in each 
+alkane and its boiling point. (Number of carbon atoms will go on the x-axis and 
+boiling point on the y-axis).
+</item><item id="uid47">Describe what you see.
+</item><item id="uid48">Suggest a reason for what you have observed.
+</item><item id="uid49">Why was it enough for us to use 'number of carbon atoms' 
+as a measure of the molecular weight of the molecules?
+<link window="new" class="fullmarks" resource="http://www.fhsst.org/liP">Click 
+here for the solution</link>
+</item></list>
+<para id="uid973"><title>Density and viscosity</title><emphasis effect="bold">Density</emphasis> is a measure of the mass of a substance per 
+unit volume. The density of a solid is generally higher than that of a liquid 
+because the particles are held much more closely together and therefore there 
+are more particles packed together in a particular volume. In other words, there 
+is a greater mass of the substance in a particular volume. In general, density 
+increases as the strength of the intermolecular forces increases. <emphasis effect="bold">Viscosity</emphasis> is a measure of how resistant a liquid is to 
+flowing (in other words, how easy it is to pour the liquid from one container to 
+another). Viscosity is also sometimes described as the 'thickness' of a fluid. 
+Think for example of syrup and how slowly it pours from one container into 
+another. Now compare this to how easy it is to pour water. The viscosity of 
+syrup is greater than the viscosity of water. Once again, the stronger the 
+intermolecular forces in the liquid, the greater its viscosity.
+</para>
+      <para id="id310287">It should be clear now that we can explain a lot of 
+the <emphasis effect="bold">macroscopic properties</emphasis> of matter (i.e. 
+the characteristics we can see or observe) by understanding their <emphasis effect="bold">microscopic structure</emphasis> and the way in which the atoms 
+and molecules that make up matter are held together.</para>
+</section>
+<section id="secfhsst_id304"><title> Investigation : Determining the density of 
+liquids:
+      </title>
+      <para id="id310317">Density is a very important property because it helps 
+us to identify different materials. Every material, depending on the elements 
+that make it up and the arrangement of its atoms, will have a different 
+density.</para>
+      <para id="id310324">The equation for density is:</para>
+      <para id="id310330">Density = Mass/Volume</para>
+      <para id="id310336">
+        <emphasis effect="bold">Discussion questions:</emphasis>
+      </para>
+      
+      <para id="id310350">To calculate the density of liquids and solids, we 
+need to be able to first determine their mass and volume. As a group, think 
+about the following questions:</para>
+      <list id="id310355" display="block" list-type="bulleted">
+        <item id="uid51">How would you determine the mass of a liquid?
+</item>
+        <item id="uid52">How would you determine the volume of an irregular 
+solid?
+</item>
+      </list>
+      <para id="id310384">
+        <emphasis effect="bold">Apparatus:</emphasis>
+      </para>
+      <para id="id310391">Laboratory mass balance, 10 ml and 100 ml graduated 
+cylinders, thread, distilled water, two different liquids.</para>
+      <para id="id310398">
+        <emphasis effect="bold">Method:</emphasis>
+      </para>
+      <para id="id310407">Determine the density of the distilled water and two 
+liquids as follows:</para>
+      <list id="id310413" display="block" list-type="enumerated">
+        <item id="uid53">Measure and record the mass of a 10 ml graduated 
+cyclinder.
+</item>
+        <item id="uid54">Pour an amount of distilled water into the cylinder.
+</item>
+        <item id="uid55">Measure and record the combined mass of the water and 
+cylinder.
+</item>
+        <item id="uid56">Record the volume of distilled water in the cylinder
+</item>
+        <item id="uid57">Empty, clean and dry the graduated cylinder.
+</item>
+        <item id="uid58">Repeat the above steps for the other two liquids you 
+have.
+</item>
+        <item id="uid59">Complete the table below.
+</item>
+      </list>
+      <table id="id310505" summary="Volumes, masses and densities">
+<tgroup cols="4"><tbody>
+            <row>
+              <entry>
+                <emphasis effect="bold">Liquid</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Mass (g)</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Volume (ml)</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Density (<m:math overflow="scroll">
+<m:mrow><m:mi>g</m:mi><m:mo>·</m:mo><m:mi>m</m:mi><m:msup><m:mi>l</m:mi><m:mrow>
+<m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math>)</emphasis>
+              </entry>
+            </row>
+            <row>
+              <entry>Distilled water</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Liquid 1</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Liquid 2</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        
+
+</tgroup>
+</table>
+      <!--empty paragraphs get left behind.-->
+      
+</section>
+<section id="secfhsst_id385"><title> Investigation : Determining the density of 
+irregular solids:
+      </title>
+      <para id="id310705">
+        <emphasis effect="bold">Apparatus:</emphasis>
+      </para>
+      <para id="id310714">Use the same materials and equpiment as before (for 
+the liquids). Also find a number of solids that have an irregular shape.</para>
+      <para id="id310721">
+        <emphasis effect="bold">Method:</emphasis>
+      </para>
+      <para id="id310730">Determine the density of irregular solids as follows:
+</para>
+      <list id="id310736" display="block" list-type="enumerated">
+        <item id="uid60">Measure and record the mass of one of the irregular 
+solids.
+</item>
+        <item id="uid61">Tie a piece of thread around the solid.
+</item>
+        <item id="uid62">Pour some water into a 100 ml graduated cylinder and 
+record the volume.
+</item>
+        <item id="uid63">Gently lower the solid into the water, keeping hold of 
+the thread. Record the combined volume of the solid and the water.
+</item>
+        <item id="uid64">Determine the volume of the solid by subtracting the 
+combined volume from the original volume of the water only.
+</item>
+        <item id="uid65">Repeat these steps for the second object.
+</item>
+        <item id="uid66">Complete the table below.
+</item>
+      </list>
+      <table id="id310828" summary="Table">
+<tgroup cols="4"><tbody>
+            <row>
+              <entry>
+                <emphasis effect="bold">Solid</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Mass (g)</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Volume (ml)</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Density (<m:math overflow="scroll">
+<m:mrow><m:mi>g</m:mi><m:mo>·</m:mo><m:mi>m</m:mi><m:msup><m:mi>l</m:mi><m:mrow>
+<m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math>)</emphasis>
+              </entry>
+            </row>
+            <row>
+              <entry>Solid 1</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Solid 2</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Solid 3</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+      <!--empty paragraphs get left behind.-->
+      
+</section>
+    </section>
+    <section id="cid7">
+      <title>Summary</title>
+      <list id="id311034" display="block" list-type="bulleted"><item id="uid67">The smallest unit of matter is the <emphasis effect="bold">atom</emphasis>. Atoms can combine to form <emphasis effect="bold">molecules</emphasis>.
+</item>
+        <item id="uid68">A <emphasis effect="bold">molecule</emphasis> is a 
+group of two or more atoms that are attracted to each other by chemical bonds.
+</item>
+        <item id="uid69">A <emphasis effect="bold">small molecule</emphasis> 
+consists of a few atoms per molecule. A <emphasis effect="bold">giant 
+molecule</emphasis> consists of millions of atoms per molecule, for example 
+metals and diamonds.
+</item>
+        <item id="uid70">The structure of a molecule can be represented in a 
+number of ways.
+</item>
+        <item id="uid71">The <emphasis effect="bold">chemical formula</emphasis> 
+of a molecule is an abbreviated way of showing a molecule, using the symbols for 
+the elements in the molecule. There are two types of chemical formulae: 
+molecular and empirical formula.
+</item>
+        <item id="uid72">The <emphasis effect="bold">molecular 
+formula</emphasis> of a molecule gives the exact number of atoms of each element 
+that are in the molecule.
+</item>
+        <item id="uid73">The <emphasis effect="bold">empirical 
+formula</emphasis> of a molecule gives the relative number of atoms of each 
+element in the molecule.
+</item>
+        <item id="uid74">Molecules can also be represented using <emphasis effect="bold">diagrams</emphasis>.
+</item>
+        <item id="uid75">A <emphasis effect="bold">ball and stick</emphasis> 
+diagram is a 3-dimensional molecular model that uses 'balls' to represent atoms 
+and 'sticks' to represent the bonds between them.
+</item>
+        <item id="uid76">A <emphasis effect="bold">space-filling 
+model</emphasis> is also a 3-dimensional molecular model. The atoms are 
+represented by spheres.
+</item>
+        <item id="uid77">In a molecule, atoms are held together by <emphasis effect="bold">chemical bonds</emphasis> or <emphasis effect="bold">intramolecular forces</emphasis>. Covalent bonds, ionic bonds and 
+metallic bonds are examples of chemical bonds.
+</item>
+        <item id="uid78">A <emphasis effect="bold">covalent bond</emphasis> 
+exists between non-metal atoms. An <emphasis effect="bold">ionic bond</emphasis> 
+exists between non-metal and metal atoms and a <emphasis effect="bold">metallic 
+bond</emphasis> exists between metal atoms.
+</item>
+        <item id="uid79"><emphasis effect="bold">Intermolecular 
+forces</emphasis> are the bonds that hold <emphasis effect="italics">molecules</emphasis> together.
+</item>
+        <item id="uid80">The <emphasis effect="bold">kinetic theory of 
+matter</emphasis> attempts to explain the behaviour of matter in different 
+phases.
+</item>
+        <item id="uid81">The kinetic theory of matter says that all matter is 
+composed of <emphasis effect="bold">particles</emphasis> which have a certain 
+amount of <emphasis effect="bold">energy</emphasis> which allows them to 
+<emphasis effect="bold">move</emphasis> at different speeds depending on the 
+temperature (energy). There are <emphasis effect="bold">spaces</emphasis> 
+between the particles and also <emphasis effect="bold">attractive 
+forces</emphasis> between particles when they come close together.
+</item>
+        <item id="uid82">Understanding chemical bonds, intermolecular forces and 
+the kinetic theory of matter can help to explain many of the <emphasis effect="bold">macroscopic properties</emphasis> of matter.
+</item>
+        <item id="uid83"><emphasis effect="bold">Melting point</emphasis> is the 
+temperature at which a <emphasis effect="italics">solid</emphasis> changes its 
+phase to become a <emphasis effect="italics">liquid</emphasis>. The reverse 
+process (change in phase from liquid to solid) is called <emphasis effect="bold">freezing</emphasis>. The stronger the chemical bonds and 
+intermolecular forces in a substance, the higher the melting point will be.
+</item>
+        <item id="uid84"><emphasis effect="bold">Boiling point</emphasis> is the 
+temperature at which a liquid changes phase to become a gas. The stronger the 
+chemical bonds and intermolecular forces in a substance, the higher the boiling 
+point will be.
+</item>
+        <item id="uid85"><emphasis effect="bold">Density</emphasis> is a measure 
+of the mass of a substance per unit volume.
+</item>
+        <item id="uid86"><emphasis effect="bold">Viscosity</emphasis> is a 
+measure of how resistant a liquid is to flowing.
+</item>
+      </list>
+<section id="secfhsst_id497"><title>Summary exercise       </title><list id="id311490" display="block" list-type="enumerated">
+        <item id="uid87">Give one word or term for each of the following 
+descriptions.
+<list id="id311506" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid88">The 
+property that determines how easily a liquid flows.
+</item><item id="uid89">The change in phase from liquid to gas.
+</item><item id="uid90">A composition of two or more atoms that act as a unit.
+</item><item id="uid91">Chemical formula that gives the relative number of atoms 
+of each element that are in a molecule.
+</item></list><link window="new" class="fullmarks" resource="http://www.fhsst.org/liE">Click here for the solution</link>
+</item>
+        <item id="uid92">For each of the following questions, choose the one 
+correct answer from the list provided.
+<list id="id311573" display="block" list-type="enumerated"><item id="uid93">Ammonia, an ingredient in household cleaners, can be broken down to 
+form one part nitrogen (N) and three parts hydrogen (H). This means that 
+ammonia...
+<list id="id311590" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid94">is a 
+colourless gas
+</item><item id="uid95">is not a compound
+</item><item id="uid96">cannot be an element
+</item><item id="uid97">has the formula N<sub>3</sub>H
+</item></list><link window="new" class="fullmarks" resource="http://www.fhsst.org/liV">Click here for the solution</link>
+</item><item id="uid98">If one substance A has a melting point that is <emphasis effect="italics">lower</emphasis> than the melting point of substance B, this 
+suggests that...
+<list id="id311675" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid99">A 
+will be a liquid at room temperature.
+</item><item id="uid100">The chemical bonds in substance A are weaker than those 
+in substance B.
+</item><item id="uid101">The chemical bonds in substance A are stronger than 
+those in substance B.
+</item><item id="uid102">B will be a gas at room temperature.
+</item></list></item></list><link window="new" class="fullmarks" resource="http://www.fhsst.org/lip">Click here for the solution</link>
+</item>
+        <item id="uid103">Boiling point is an important concept to understand.
+<list id="id311744" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid104">Define 'boiling point'.
+</item><item id="uid105">What change in phase takes place when a liquid reaches 
+its boiling point?
+</item><item id="uid106">What is the boiling point of water?
+</item><item id="uid107">Use the kinetic theory of matter and your knowledge of 
+intermolecular forces to explain why water changes phase at this temperature.
+</item></list><link window="new" class="fullmarks" resource="http://www.fhsst.org/lim">Click here for the solution</link>
+</item>
+        <item id="uid108">Refer to the table below which gives the melting and 
+boiling points of a number of elements and then answer the questions that 
+follow. (<emphasis effect="italics">Data from 
+http://www.chemicalelements.com</emphasis>)
+<table id="id311817" summary=""><tgroup cols="3"><tbody><row><entry><emphasis effect="bold">Element</emphasis></entry><entry><emphasis effect="bold">Melting 
+point</emphasis></entry><entry><emphasis effect="bold">Boiling point (<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math>C)</emphasis>
+</entry></row><row><entry>copper</entry><entry>1083</entry><entry>2567</entry>
+</row><row><entry>magnesium</entry><entry>650</entry><entry>1107</entry></row>
+<row><entry>oxygen</entry><entry>-218.4</entry><entry>-183</entry></row><row>
+<entry>carbon</entry><entry>3500</entry><entry>4827</entry></row><row>
+<entry>helium</entry><entry>-272</entry><entry>-268.6</entry></row><row>
+<entry>sulphur</entry><entry>112.8</entry><entry>444.6</entry></row></tbody>
+</tgroup></table><list id="id312057" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid109">What state of matter (i.e. solid, liquid or gas) will each of 
+these elements be in at room temperature?
+</item><item id="uid110">Which of these elements has the strongest forces 
+between its atoms? Give a reason for your answer.
+</item><item id="uid111">Which of these elements has the weakest forces between 
+its atoms? Give a reason for your answer.
+</item></list><link window="new" class="fullmarks" resource="http://www.fhsst.org/liy">Click here for the solution</link></item>
+      </list>
+      
+</section>
+    </section>
+  </content>
+</document>

@@ -1,0 +1,185 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Graphs of particle motion</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m40103</md:content-id>
+  <md:title>Graphs of particle motion</md:title>
+  <md:abstract/>
+  <md:uuid>773e521a-4bc8-4e61-bd59-8bd28cecc734</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid5">
+      <title>Graphs of Position and Velocity</title>
+      <para id="id313982">When a pulse moves through a medium, there are two different motions: the motion of the particles of the medium and the motion of the pulse. These two motions are at right angles to each other when the pulse is transverse. Each motion will be discussed.</para>
+      <para id="id313988">Consider the situation shown in <link target-id="uid15"/>. The dot represents one particle of the medium. We see that as the pulse moves to the right the particle only moves up and down.</para>
+      <section id="uid13">
+        <title>Motion of a Particle of the Medium</title>
+        <para id="id314005">First we consider the motion of a particle of the medium when a pulse moves through the medium. For the explanation we will zoom into the medium so that we are looking at the atoms of the medium. These atoms are connected to each other as shown in <link target-id="uid14"/>.</para>
+        <figure id="uid14">
+          <media id="uid14_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C4_005.png" id="uid14_onlineimage" width="142"><!-- NOTE: attribute width changes image size online (pixels). original width is 142. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C4_005.eps" id="uid14_printimage"/>
+          </media>
+          <caption>Particles in a medium.</caption>
+        </figure>
+        <para id="id314028">When a pulse moves through the medium, the particles in the medium <emphasis effect="bold">only</emphasis> move up and down. We can see this in <link target-id="uid15"/> which shows the motion of a single particle as a pulse moves through the medium.</para>
+        <figure id="uid15">
+          <media id="uid15_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C4_006.png" id="uid15_onlineimage" width="113"><!-- NOTE: attribute width changes image size online (pixels). original width is 113. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C4_006.eps" id="uid15_printimage"/>
+          </media>
+          <caption>Positions of a pulse in a rope at different times. The pulse moves to the right as shown by the arrow. You can also see the motion of a point in the medium through which the pulse is travelling. Each block is 1 cm.</caption>
+        </figure>
+<note id="notfhsst_id301" type="tip">A particle in the medium <emphasis effect="bold">only</emphasis> moves up and down when a transverse pulse moves through the medium. The pulse moves from left to right (or right to left). The motion of the particle is perpendicular to the motion of a transverse pulse.</note>
+        <para id="id314071">If you consider the motion of the particle as a function of time, you can draw a graph of position vs. time and velocity vs. time.</para>
+<section id="secfhsst_id303"><title> Investigation : Drawing a position-time graph </title>
+        <list id="id314083" display="block" list-type="enumerated">
+          <item id="uid16">Study <link target-id="uid15"/> and complete the following table:
+<table id="id314101" summary=""><tgroup cols="11"><tbody><row><entry><emphasis effect="bold">time (s)</emphasis></entry><entry> 0</entry><entry> 1</entry><entry> 2</entry><entry> 3</entry><entry> 4</entry><entry> 5</entry><entry> 6</entry><entry> 7</entry><entry> 8</entry><entry> 9</entry></row><row><entry><emphasis effect="bold">position (cm)</emphasis></entry><entry/><entry/><entry/><entry/><entry/><entry/><entry/><entry/><entry/><entry/></row></tbody></tgroup></table></item>
+          <item id="uid17">Use your table to draw a graph of position vs. time for a particle in a medium.
+</item>
+        </list>
+        
+</section>
+        <para id="id314306">The position vs. time graph for a particle in a medium when a pulse passes through the medium is shown in <link target-id="uid18"/></para>
+        <figure id="uid18">
+          <media id="uid18_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C4_007.png" id="uid18_onlineimage" width="318"><!-- NOTE: attribute width changes image size online (pixels). original width is 318. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C4_007.eps" id="uid18_printimage"/>
+          </media>
+          <caption>Position against Time graph of a particle in the medium through which a transverse pulse is travelling.</caption>
+        </figure>
+<section id="secfhsst_id320"><title> Investigation : Drawing a velocity-time graph </title>
+        <list id="id314335" display="block" list-type="enumerated">
+          <item id="uid19">Study <link target-id="uid18"/> and complete the following table:
+<table id="id314355" summary=""><tgroup cols="11"><tbody><row><entry><emphasis effect="bold">time (s)</emphasis></entry><entry> 0</entry><entry> 1</entry><entry> 2</entry><entry> 3</entry><entry> 4</entry><entry> 5</entry><entry> 6</entry><entry> 7</entry><entry> 8</entry><entry> 9</entry></row><row><entry><emphasis effect="bold">velocity (cm.s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>)</emphasis></entry><entry/><entry/><entry/><entry/><entry/><entry/><entry/><entry/><entry/><entry/></row></tbody></tgroup></table></item>
+          <item id="uid20">Use your table to draw a graph of velocity vs time for a particle in a medium.
+</item>
+        </list>
+        
+</section>
+        <para id="id314582">The velocity vs. time graph far a particle in a medium when a pulse passes through the medium is shown in <link target-id="uid21"/>.</para>
+        <figure id="uid21">
+          <media id="uid21_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C4_008.png" id="uid21_onlineimage" width="382"><!-- NOTE: attribute width changes image size online (pixels). original width is 382. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C4_008.eps" id="uid21_printimage"/>
+          </media>
+          <caption>Velocity against Time graph of a particle in the medium through which a transverse pulse is travelling.</caption>
+        </figure>
+      </section>
+      <section id="uid22">
+        <title>Motion of the Pulse</title>
+        <para id="id314614">The motion of the pulse is much simpler than the motion of a particle in the medium.</para>
+<note id="notfhsst_id341" type="tip">A point on a transverse pulse, eg. the peak, <emphasis effect="bold">only</emphasis> moves in the direction of the motion of the pulse.</note>
+<exercise id="secfhsst_id342"><title> Transverse pulse through a medium </title>
+        <problem id="probfhsst_id343">
+        <figure id="uid23"><media id="uid23_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C4_009.png" id="uid23_onlineimage" width="227"><!-- NOTE: attribute width changes image size online (pixels). original width is 227. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C4_009.eps" id="uid23_printimage"/>
+          </media>
+          
+        <caption>Position of the peak of a pulse at different times (since we know the shape of the pulse does not change we can look at only one point on the pulse to keep track of its position, the peak for example). The pulse moves to the right as shown by the arrow. Each square is <m:math overflow="scroll"><m:mrow><m:mn>0,5</m:mn><m:mspace width="2pt"/><m:mi>cm</m:mi></m:mrow></m:math>.</caption></figure>
+        <para id="id314673">Given the series of snapshots of a transverse pulse moving through a medium, depicted in <link target-id="uid23"/>, do the following:</para>
+        <list id="id314682" display="block" list-type="bulleted">
+          <item id="uid24">draw up a table of time, position and velocity,
+</item>
+          <item id="uid25">plot a position vs. time graph,
+</item>
+          <item id="uid26">plot a velocity vs. time graph.
+</item>
+        </list>
+        
+        </problem>
+        <solution id="solfhsst_id362"> <list id="listfhsst_id362" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Interpreting the figure </label>
+        <para id="id314745"><link target-id="uid23"/> shows the motion of a pulse through a medium and a dot to indicate the same position on the pulse. If we follow the dot, we can draw a graph of position vs time for a pulse. At <m:math><m:mi>t</m:mi><m:mo>=</m:mo> <m:mn>0</m:mn><m:mspace width="2pt"/><m:mi>s</m:mi></m:math> the dot is at <m:math><m:mn>0</m:mn><m:mspace width="2pt"/><m:mi>cm</m:mi></m:math>. At <m:math><m:mi>t</m:mi><m:mo>=</m:mo> <m:mn>1</m:mn><m:mspace width="2pt"/><m:mi>s</m:mi></m:math> the dot is <m:math><m:mn>1</m:mn><m:mspace width="2pt"/><m:mi>cm</m:mi></m:math> away from its original postion. At <m:math><m:mi>t</m:mi><m:mo>=</m:mo> <m:mn>2</m:mn><m:mspace width="2pt"/><m:mi>s</m:mi></m:math> the dot is <m:math><m:mn>2</m:mn><m:mspace width="2pt"/><m:mi>cm</m:mi></m:math> away from its original postion, and so on.</para>
+        </item> <item> <label> We can draw the following table: </label>
+        <table id="id314762" summary="">
+          <tgroup cols="11">
+            <tbody>
+              <row>
+                <entry>
+                  <emphasis effect="bold">time (s)</emphasis>
+                </entry>
+                <entry>0</entry>
+                <entry>1</entry>
+                <entry>2</entry>
+                <entry>3</entry>
+                <entry>4</entry>
+                <entry>5</entry>
+                <entry>6</entry>
+                <entry>7</entry>
+                <entry>8</entry>
+                <entry>9</entry>
+              </row>
+              <row>
+                <entry>
+                  <emphasis effect="bold">position (cm)</emphasis>
+                </entry>
+                <entry>0</entry>
+                <entry>1</entry>
+                <entry>2</entry>
+                <entry>3</entry>
+                <entry>4</entry>
+                <entry>5</entry>
+                <entry>6</entry>
+                <entry>7</entry>
+                <entry>8</entry>
+                <entry>9</entry>
+              </row>
+              <row>
+                <entry>
+                  <emphasis effect="bold">velocity (cm.s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>)</emphasis>
+                </entry>
+                <entry>1</entry>
+                <entry>1</entry>
+                <entry>1</entry>
+                <entry>1</entry>
+                <entry>1</entry>
+                <entry>1</entry>
+                <entry>1</entry>
+                <entry>1</entry>
+                <entry>1</entry>
+                <entry>1</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <!--empty paragraphs get left behind.-->
+        </item> <item> <label> A graph of position vs time is drawn as is shown in the figure. </label>
+        <para id="id315076">
+          <figure id="id315079">
+            <media id="id315079_media" alt="">
+              <image mime-type="image/png" src="../../media/PG10C4_010.png" id="id315079_onlineimage" width="319"><!-- NOTE: attribute width changes image size online (pixels). original width is 319. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG10C4_010.eps" id="id315079_printimage"/>
+            </media>
+          </figure>
+        </para>
+        </item> <item> <label> Similarly, a graph of velocity vs time is drawn and is shown in the figure below. </label>
+        <para id="id315090">
+          <figure id="id315093">
+            <media id="id315093_media" alt="">
+              <image mime-type="image/png" src="../../media/PG10C4_011.png" id="id315093_onlineimage" width="325"><!-- NOTE: attribute width changes image size online (pixels). original width is 325. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG10C4_011.eps" id="id315093_printimage"/>
+            </media>
+          </figure>
+        </para>
+        
+        </item> </list> </solution>
+</exercise>
+<section id="secfhsst_id439"><title> Travelling Pulse </title>
+        <list id="id315122" display="block" list-type="enumerated"><item id="uid27">A pulse is passed through a rope and the following pictures were obtained for each time interval:
+<figure id="id315142"><media id="id315142_media" alt=""><image mime-type="image/png" src="../../media/PG10C4_012.png" id="id315142_onlineimage" width="118"><!-- NOTE: attribute width changes image size online (pixels). original width is 118. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C4_012.eps" id="id315142_printimage"/></media></figure><list id="id315148" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid28">Complete the following table for a particle in the medium:
+<table id="id315164" summary=""><tgroup cols="10"><tbody><row><entry><emphasis effect="bold">time (s)</emphasis></entry><entry>0,00</entry><entry>0,25</entry><entry>0,50</entry><entry>0,75</entry><entry>1,00</entry><entry>1,25</entry><entry>1,50</entry><entry>1,75</entry><entry>2,00</entry></row><row><entry><emphasis effect="bold">position (mm)</emphasis></entry><entry/><entry/><entry/><entry/><entry/><entry/><entry/><entry/><entry/></row><row><entry><emphasis effect="bold">velocity (mm.s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>)</emphasis></entry><entry/><entry/><entry/><entry/><entry/><entry/><entry/><entry/><entry/></row></tbody></tgroup></table></item><item id="uid29">Draw a position vs. time graph for the motion of the particle at <m:math><m:mn>3</m:mn><m:mspace width="2pt"/><m:mi>cm</m:mi></m:math>.
+</item><item id="uid30">Draw a velocity vs. time graph for the motion of the particle at <m:math><m:mn>3</m:mn><m:mspace width="2pt"/><m:mi>cm</m:mi></m:math>.
+</item><item id="uid31">Draw a position vs. time graph for the motion of the pulse through the rope.
+</item><item id="uid32">Draw a velocity vs. time graph for the motion of the pulse through the rope.
+</item></list><newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/l1s">Click here for the solution.</link></item>
+        </list>
+        
+</section>
+      </section>
+    </section>
+
+  </content>
+</document>

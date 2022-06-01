@@ -1,0 +1,81 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Introduction and key concepts</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m40026</md:content-id>
+  <md:title>Introduction and key concepts</md:title>
+  <md:abstract/>
+  <md:uuid>354faecb-6322-4afe-b138-4b1969377cdf</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid2">
+      <title>Introduction</title>
+      <para id="id200254">Electrostatics is the study of electric charge which is static (not moving).</para>
+    </section>
+    <section id="cid3">
+      <title>Two kinds of charge</title>
+      <para id="id200267">All objects surrounding us (including people!) contain large amounts of electric charge. There
+are two types of electric charge: <emphasis effect="bold">positive</emphasis> charge and <emphasis effect="bold">negative</emphasis> charge.
+If the same amounts
+of negative and positive charge are brought together, they neutralise each other and there
+is <emphasis effect="italics">no net charge</emphasis>. <emphasis effect="bold">Neutral</emphasis> objects are objects which contain equal amouts of positive
+and negative charges. However, if there is a little bit more of one type of charge than the other on the
+object then the object is said to be <emphasis effect="bold">electrically charged</emphasis>. The picture below shows
+what the distribution of charges might look like for a neutral, positively charged and
+negatively charged object.</para>
+      <para id="id200640">
+        <figure id="id200643">
+          <media id="id200643_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C9_001-809d.png" id="id200643_onlineimage" width="371"><!-- NOTE: attribute width changes image size online (pixels). original width is 371. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C9_001-506e.eps" id="id200643_printimage"/>
+          </media>
+        </figure>
+      </para>
+    </section>
+    <section id="cid4">
+      <title>Unit of charge</title>
+      <para id="id200658">Charge is measured in units called <emphasis effect="bold">coulombs (C)</emphasis>. A coulomb of charge is a very large charge. In electrostatics we therefore often work with charge in microcoulombs (1 <m:math overflow="scroll"><m:mi>μ</m:mi></m:math>C = <m:math overflow="scroll"><m:mrow><m:mn>1</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>6</m:mn></m:mrow></m:msup></m:mrow></m:math> C) and nanocoulombs (1 nC = <m:math overflow="scroll"><m:mrow><m:mn>1</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>9</m:mn></m:mrow></m:msup></m:mrow></m:math> C).</para>
+    </section>
+    <section id="cid5">
+      <title>Conservation of charge</title>
+      <para id="id200729">Objects may become charged in many ways, including by contact with or being rubbed by other objects. This means that they can gain extra negative or positive charge. For example, charging happens
+when you rub your feet against the carpet. When you
+then touch something metallic or another person, you feel a shock as
+the excess charge that you have collected is <emphasis effect="italics">discharged</emphasis>.</para>
+<note id="notfhsst_id106" type="tip">Charge, like energy, cannot be created or destroyed. We say
+that charge is <emphasis effect="bold">conserved</emphasis>.</note>
+      <para id="id200752">When you rub your feet
+against the carpet, negative charge is transferred to you
+from the carpet. The carpet will then become positively
+charged by the <emphasis effect="italics">same amount</emphasis>.</para>
+      <para id="id200762">Another example is to take two <emphasis effect="italics">neutral</emphasis> objects such as a plastic ruler and a cotton cloth (handkerchief). To begin, the two objects are neutral (i.e. have the same amounts of positive and negative charge).</para>
+      <para id="id200774">
+        <figure id="id200777">
+          <media id="id200777_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C9_002-8e62.png" id="id200777_onlineimage" width="420"><!-- NOTE: attribute width changes image size online (pixels). original width is 420. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C9_002-810c.eps" id="id200777_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id200783">Now, if the cotton cloth is used to rub the ruler, negative charge
+is transferred <emphasis effect="italics">from</emphasis> the cloth <emphasis effect="italics">to</emphasis> the ruler.
+The ruler is now <emphasis effect="italics">negatively</emphasis> charged and the cloth is <emphasis effect="italics">positively</emphasis> charged.
+If you count up all the positive and negative charges at the beginning and the end, there are still the same amount. i.e. total charge has been <emphasis effect="italics">conserved</emphasis>!</para>
+      <para id="id200814">
+        <figure id="id200819">
+          <media id="id200819_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C9_003-19f6.png" id="id200819_onlineimage" width="429"><!-- NOTE: attribute width changes image size online (pixels). original width is 429. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C9_003-70c8.eps" id="id200819_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id200825">Note that in this example the numbers are made up to be easy to calculate. In the real world only a tiny fraction of the charges would move from one object to the other, but the total charge would still be conserved.</para><para id="eip-600">The following simulation will help you understand what happens when you rub an object against another object.<newline/> <link class="phetsim" window="new" url="http://phet.colorado.edu/sims/balloons/balloons_en.jnlp">run demo</link>
+<figure id="id11328"><media id="id11328_media" alt="">
+            <image mime-type="image/png" src="../../media/phet1.png" id="id11328_onlineimage" width="149"><!-- NOTE: attribute width changes image size online (pixels). original width is 	149. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/phet1.eps" id="id11328_printimage"/>
+            </media>
+            </figure></para>
+    </section>
+
+  </content>
+</document>

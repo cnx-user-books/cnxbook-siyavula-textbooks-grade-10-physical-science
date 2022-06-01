@@ -1,0 +1,131 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Resistance</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m40006</md:content-id>
+  <md:title>Resistance</md:title>
+  <md:abstract/>
+  <md:uuid>e77caf3b-23c0-4630-b1bf-074db91093a7</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid5">
+      <title>Resistance</title>
+      <section id="uid62">
+        <title>What causes resistance?</title>
+        <para id="id67246">We have spoken about resistors that reduce the flow of charge
+in a conductor. On a microscopic level, electrons moving through
+the conductor collide with the particles of which the conductor
+(metal) is made. When they collide, they transfer kinetic energy.
+The electrons
+therefore lose kinetic energy and slow down. This leads to
+resistance. The transferred energy causes the resistor to heat up.
+You can feel this directly if you touch a cellphone charger when you are charging a cell phone - the charger gets warm because its circuits have some resistors in them!</para>
+<definition id="fhsst_id1729"><term id="termfhsst_id1729"> Resistance </term> <meaning id="meaningfhsst_id1729">
+        <para id="id67260">Resistance slows down the flow of charge in a circuit. We use the symbol <emphasis effect="bold">R</emphasis> to show resistance and it is measured in units called <emphasis effect="bold">Ohms</emphasis> with the symbol <m:math overflow="scroll"><m:mi>Ω</m:mi></m:math>.</para>
+        <equation id="id67288">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mn>1</m:mn>
+              <m:mspace width="4pt"/>
+              <m:mi> Ohm </m:mi>
+              <m:mo>=</m:mo>
+              <m:mn>1</m:mn>
+              <m:mfrac>
+                <m:mi> Volt </m:mi>
+                <m:mi> Ampere </m:mi>
+              </m:mfrac>
+              <m:mo>.</m:mo>
+            </m:mrow>
+          </m:math>
+        </equation>
+        
+        </meaning></definition>
+        <para id="id67330"><emphasis effect="italics">All</emphasis> conductors have some resistance. For example, a piece of wire
+has less resistance than a light bulb, but both have resistance. A lightbulb is a very thin wire surrounded by a glass housing The high resistance of the filament (small wire) in a lightbulb causes the electrons to
+transfer a lot of their kinetic energy in the form of heat<footnote id="uid63">Flourescent lightbulbs do not use thin wires; they use the fact that certain gases glow when a current flows through them. They are much more efficient (much less resistance) than lightbulbs.</footnote>. The heat energy is enough
+to cause the filament to glow white-hot which produces light. The wires
+connecting the lamp to the cell or battery hardly even get warm while
+conducting the same amount of current. This is because of their
+much lower resistance due to their larger cross-section (they are thicker).</para>
+        <para id="id67354">An important effect of a resistor is that it <emphasis effect="italics">converts</emphasis> electrical
+energy into other forms of <emphasis effect="bold">heat</emphasis> energy. <emphasis effect="bold">Light</emphasis> energy is a by-product of the heat that is produced.</para>
+<note id="notfhsst_id1758"><title> Interesting Fact </title> There is a special type of conductor,
+called a <emphasis effect="bold">superconductor</emphasis> that has no resistance, but the
+materials that make up all known superconductors only start superconducting
+at very low temperatures (approximately -170<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>C).</note>
+        <section id="uid64">
+          <title>Why do batteries go flat?</title>
+          <para id="id67413">A battery stores chemical potential energy. When it is connected in a circuit, a chemical reaction takes place inside the battery which converts chemical potential energy to electrical energy which powers the electrons to move through the circuit. All the circuit elements (such as the conducting leads, resistors and lightbulbs) have some resistance to the flow of charge and convert the electrical energy to heat and, in the case of the lightbulb, light.
+Since energy is always conserved, the battery goes flat when all its chemical potential energy has been converted into other forms of energy.</para>
+        </section>
+      </section>
+      <section id="uid65">
+        <title>Resistors in electric circuits</title>
+        <para id="id67431">It is important to understand what effect adding resistors to a circuit has on the <emphasis effect="italics">total</emphasis> resistance of a circuit and on the current that can flow in the circuit.</para>
+        <section id="uid66">
+          <title>Resistors in series</title>
+          <para id="id67450">When we add resistors in series to a circuit, we <emphasis effect="italics">increase</emphasis> the resistance to the flow of current. There is only <emphasis effect="bold">one path</emphasis> that the current can flow down and the current is the same at all places in the series circuit. Take a look at the diagram below: On the left there is a circuit with a single resistor and a battery. No matter where we measure the current, it is the same in a series circuit. On the right, we have added a second resistor in series to the circuit. The <emphasis effect="italics">total</emphasis> resistance of the circuit has <emphasis effect="italics">increased</emphasis> and you can see from the reading on the ammeter that the current in the circuit has decreased.</para>
+          <para id="id67481">
+            <figure id="id67485">
+              <media id="id67485_media" alt="">
+                <image mime-type="image/png" src="../../media/PG10C9_032.png" id="id67485_onlineimage" width="426"><!-- NOTE: attribute width changes image size online (pixels). original width is 426. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG10C9_032.eps" id="id67485_printimage"/>
+              </media>
+            </figure>
+          </para>
+
+<figure id="circuits-2">
+ <title>Khan academy video on circuits - 2</title>
+ <media id="yt-media2" display="block" alt="video on circuits - 2">
+  <flash id="yt-video2" mime-type="application/x-shockwave-flash" src="http://www.youtube.com/v/7vHh1sfZ5KE&amp;rel=0" width="425" height="344">
+   <param name="allowscriptaccess" value="always"/>
+   <param name="allowsfullscreen" value="true"/>
+  </flash>
+ </media>
+</figure>
+
+
+
+        </section>
+        <section id="uid67">
+          <title>Resistors in parallel</title>
+          <para id="id67501">In contrast to the series case, when we add resistors in parallel, we create <emphasis effect="bold">more paths</emphasis> along which current can flow. By doing this we <emphasis effect="italics">decrease</emphasis> the total resistance of the circuit!</para>
+          <para id="id67518">Take a look at the diagram below. On the left we have the same circuit as in the previous diagram with a battery and a resistor. The ammeter shows a current of 1 ampere. On the right we have added a second resistor in parallel to the first resistor. This has increased the number of paths (branches) the charge can take through the circuit - the total resistance has decreased. You can see that the current in the circuit has increased. Also notice that the current in the different branches can be different.</para>
+          <para id="id67525">
+            <figure id="id67528">
+              <media id="id67528_media" alt="">
+                <image mime-type="image/png" src="../../media/PG10C9_033.png" id="id67528_onlineimage" width="432"><!-- NOTE: attribute width changes image size online (pixels). original width is 432. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG10C9_033.eps" id="id67528_printimage"/>
+              </media>
+            </figure>
+          </para>
+
+<figure id="circuits-3">
+ <title>Khan academy video on circuits - 3</title>
+ <media id="yt-media3" display="block" alt="video on circuits - 3">
+  <flash id="yt-video3" mime-type="application/x-shockwave-flash" src="http://www.youtube.com/v/ZrMw7P6P2Gw&amp;rel=0" width="425" height="344">
+   <param name="allowscriptaccess" value="always"/>
+   <param name="allowsfullscreen" value="true"/>
+  </flash>
+ </media>
+</figure>
+
+<section id="secfhsst_id1795"><title> Resistance </title>
+          <list id="id67542" display="block" list-type="enumerated">
+            <item id="uid68">What is the unit of resistance called and what is its symbol? <link url="http://www.fhsst.org/lqk" window="new">Click here for the solution</link>
+</item>
+            <item id="uid69">Explain what happens to the total resistance of a circuit when resistors are added in series? <link url="http://www.fhsst.org/lq0" window="new">Click here for the solution</link>
+</item>
+            <item id="uid70">Explain what happens to the total resistance of a circuit when resistors are added in parallel? <link url="http://www.fhsst.org/lq8" window="new">Click here for the solution</link>
+</item>
+            <item id="uid71">Why do batteries go flat? <link url="http://www.fhsst.org/lq9" window="new">Click here for the solution</link>
+</item>
+          </list>
+          
+</section>
+        </section>
+      </section>
+    </section>
+
+  </content>
+</document>

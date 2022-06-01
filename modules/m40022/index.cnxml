@@ -1,0 +1,131 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Forces between charges</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m40022</md:content-id>
+  <md:title>Forces between charges</md:title>
+  <md:abstract/>
+  <md:uuid>764a9872-270c-4e6e-9d94-edd61145b879</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid6">
+      <title>Force between Charges</title>
+      <para id="id200840">The force exerted by non-moving (static) charges on each other is called the <emphasis effect="bold">electrostatic force.</emphasis> The electrostatic force between:</para>
+      <list id="id200849" display="block" list-type="bulleted">
+        <item id="uid1"><emphasis effect="bold">like</emphasis> charges are <emphasis effect="bold">repulsive</emphasis></item>
+        <item id="uid2"><emphasis effect="bold">opposite</emphasis> (unlike) charges are <emphasis effect="bold">attractive</emphasis>.
+</item>
+      </list>
+      <para id="id200894">In other words, like charges repel each other while opposite
+charges attract each other. This is different to the gravitational force which is only attractive.</para>
+      <para id="id200898">
+        <figure id="id200901">
+          <media id="id200901_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C9_004-a0da.png" id="id200901_onlineimage" width="271"><!-- NOTE: attribute width changes image size online (pixels). original width is 271. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C9_004-fb59.eps" id="id200901_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id200907">The <emphasis effect="italics">closer</emphasis> together the charges are, the <emphasis effect="italics">stronger</emphasis> the electrostatic force between them.</para>
+      <para id="id200921">
+        <figure id="id200924">
+          <media id="id200924_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C9_005-81d2.png" id="id200924_onlineimage" width="284"><!-- NOTE: attribute width changes image size online (pixels). original width is 284. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C9_005-d499.eps" id="id200924_printimage"/>
+          </media>
+        </figure>
+      </para>
+<section id="secfhsst_id162"><title> Experiment : Electrostatic Force </title>
+      <para id="id200937">You can easily test that
+like charges repel and unlike charges attract each other by doing a very
+simple experiment.</para>
+      <para id="id200944">Take a glass rod and rub it with a piece of silk, then hang it from its middle with a piece string so that it is free to move. If you then bring another glass rod which you
+have also charged in the same way next to it, you will see the rod
+on the string turn <emphasis effect="italics">away</emphasis> from the rod in your hand i.e. it
+is <emphasis effect="bold">repelled</emphasis>. If, however, you take a plastic rod, rub it
+with a piece of fur and then bring it close to the rod on the
+string, you will see the rod on the string turn <emphasis effect="italics">towards</emphasis> the
+rod in your hand i.e. it is <emphasis effect="bold">attracted</emphasis>.</para>
+      <para id="id200971">
+        <figure id="id200974">
+          <media id="id200974_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C9_006-fa9d.png" id="id200974_onlineimage" width="312"><!-- NOTE: attribute width changes image size online (pixels). original width is 312. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C9_006-a9be.eps" id="id200974_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id200980">This happens because when you rub the glass with silk,
+tiny amounts of negative charge are transferred from the glass
+onto the silk, which causes the glass to have less negative charge
+than positive charge, making it <emphasis effect="bold">positively charged</emphasis>. When
+you rub the plastic rod with the fur, you transfer tiny amounts of
+negative charge onto the rod and so it has more negative charge
+than positive charge on it, making it <emphasis effect="bold">negatively charged</emphasis>.
+ </para>
+</section>
+<exercise id="secfhsst_id190"><title> Application of electrostatic forces </title>
+      <problem id="probfhsst_id191">
+      <para id="id201015">Two charged metal spheres hang from strings and are free to move as shown in the picture below. The right hand sphere is positively charged. The charge on the left hand sphere is unknown.</para>
+      <para id="id201022">
+        <figure id="id201025">
+          <media id="id201025_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C9_007-8e73.png" id="id201025_onlineimage" width="78"><!-- NOTE: attribute width changes image size online (pixels). original width is 78. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C9_007-042d.eps" id="id201025_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id201031">The left sphere is now brought close to the right sphere.</para>
+      <list id="id201034" display="block" list-type="enumerated">
+        <item id="uid3">If the left hand sphere swings towards the right hand sphere, what can you say about the charge on the left sphere and why?
+</item>
+        <item id="uid4">If the left hand sphere swings away from the right hand sphere, what can you say about the charge on the left sphere and why?
+</item>
+      </list>
+      
+      </problem>
+      <solution id="solfhsst_id210"> <list id="listfhsst_id210" list-type="enumerated" number-style="arabic" class="stepwise">
+      <item> <label> Identify what is known and what question you need to answer: </label>
+      <para id="id201084">In the first case, we have a sphere with positive charge which is <emphasis effect="italics">attracting</emphasis> the left charged sphere. We need to find the charge on the left sphere.</para>
+      </item> <item> <label> What concept is being used? </label>
+      <para id="id201097">We are dealing with electrostatic forces between charged objects. Therefore, we know that <emphasis effect="italics">like</emphasis> charges <emphasis effect="italics">repel</emphasis> each other and <emphasis effect="italics">opposite</emphasis> charges <emphasis effect="italics">attract</emphasis> each other.</para>
+      </item> <item> <label> Use the concept to find the solution </label>
+      <list id="id201126" display="block" list-type="enumerated">
+        <item id="uid5">In the first case, the positively charged sphere is attracting the left sphere. Since an electrostatic force between unlike charges is attractive, the left sphere must be <emphasis effect="italics">negatively</emphasis> charged.
+</item>
+        <item id="uid6">In the second case, the positively charged sphere repels the left sphere. Like charges repel each other. Therefore, the left sphere must now also be <emphasis effect="italics">positively</emphasis> charged.
+</item>
+      </list>
+      
+      </item> </list> </solution>
+</exercise>
+<note id="eip-148" type="aside"><title>Electrostatic Force</title><para id="id201187">The electrostatic force determines the
+arrangement of charge on the surface of conductors. This is possible because charges can move inside a conductive material. When we place
+a charge on a spherical conductor the repulsive forces between the
+individual like charges cause them to spread uniformly over the
+surface of the sphere. However, for conductors with non-regular
+shapes, there is a concentration of charge near the point or points
+of the object. Notice in <link target-id="id201199"/> that we show a concentration of charge with more <m:math><m:mo>-</m:mo></m:math> or + signs, while we represent uniformly spread charges with uniformly spaced <m:math><m:mo>-</m:mo></m:math> or + signs.</para>
+      <para id="id201196">
+        <figure id="id201199">
+          <media id="id201199_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C9_008-530b.png" id="id201199_onlineimage" width="137"><!-- NOTE: attribute width changes image size online (pixels). original width is 137. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C9_008-373f.eps" id="id201199_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id201205">This collection of charge can actually allow charge to leak off
+the conductor if the point is sharp enough. It is for this reason
+that buildings often have a lightning rod on the roof to remove
+any charge the building has collected. This minimises the
+possibility of the building being struck by lightning. This
+“spreading out” of charge would not occur if we were to place
+the charge on an insulator since charge cannot move in
+insulators. </para></note>
+<note id="notfhsst_id250" type="note"><title>Interesting Fact </title>The word 'electron' comes from the Greek word for amber. The
+ancient Greeks observed that if you rubbed a piece of amber, you
+could use it to pick up bits of straw.
+</note>
+    </section>
+ 
+  </content>
+</document>
