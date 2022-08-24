@@ -1,3 +1,150 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col11245</md:content-id>  <md:title>Siyavula textbooks: Grade 10 Physical Science</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>en</md:language>              <md:uuid>18df8656-8cc2-48d3-8ebb-3d449c250b09</md:uuid>
-<md:slug>siyavula-textbooks-grade-10-physical-science</md:slug>
-</metadata>  <col:content>                        <col:subcollection>        <md:title>Classification of matter</md:title>                                <col:content>                    <col:module document="m39993"/>                            <col:module document="m39999"/>                            <col:module document="m39998"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>What are the objects around us made of</md:title>                                <col:content>                    <col:module document="m39951"/>                            <col:module document="m39944"/>                            <col:module document="m39947"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>The atom</md:title>                                <col:content>                    <col:module document="m39957"/>                            <col:module document="m39954"/>                            <col:module document="m39960"/>                            <col:module document="m39967"/>                            <col:module document="m39969"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Physical and chemical change</md:title>                                <col:content>                    <col:module document="m39987"/>                            <col:module document="m39985"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Representing chemical change</md:title>                                <col:content>                    <col:module document="m39989"/>                            <col:module document="m39977"/>                            <col:module document="m39995"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>The water cycle</md:title>                                <col:content>                    <col:module document="m39919"/>                            <col:module document="m39913"/>                            <col:module document="m39915"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>The nitrogen cycle</md:title>                                <col:content>                    <col:module document="m39928"/>                            <col:module document="m39924"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>The hydrosphere</md:title>                                <col:content>                    <col:module document="m39931"/>                            <col:module document="m39937"/>                            <col:module document="m39935"/>                            <col:module document="m39941"/>                          </col:content>      </col:subcollection>              <col:module document="m30853"/>                                          <col:subcollection>        <md:title>Motion in one dimension</md:title>                                <col:content>                    <col:module document="m40073"/>                            <col:module document="m40078"/>                            <col:module document="m40076"/>                            <col:module document="m40079"/>                            <col:module document="m40085"/>                            <col:module document="m40082"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Gravity and mechanical energy</md:title>                                <col:content>                    <col:module document="m40055"/>                            <col:module document="m40047"/>                            <col:module document="m40057"/>                            <col:module document="m40059"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Transverse pulses</md:title>                                <col:content>                    <col:module document="m40092"/>                            <col:module document="m40103"/>                            <col:module document="m40095"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Transverse waves</md:title>                                <col:content>                    <col:module document="m40097"/>                            <col:module document="m40109"/>                            <col:module document="m40107"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Geometrical optics</md:title>                                <col:content>                    <col:module document="m40071"/>                            <col:module document="m40062"/>                            <col:module document="m40065"/>                            <col:module document="m40068"/>                            <col:module document="m40070"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Magnetism</md:title>                                <col:content>                    <col:module document="m40037"/>                            <col:module document="m40042"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Electrostatics</md:title>                                <col:content>                    <col:module document="m40026"/>                            <col:module document="m40022"/>                            <col:module document="m40040"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Electric circuits</md:title>                                <col:content>                    <col:module document="m40002"/>                            <col:module document="m40003"/>                            <col:module document="m40017"/>                            <col:module document="m40006"/>                            <col:module document="m40015"/>                          </col:content>      </col:subcollection>      </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Free High School Science Texts Project">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11245</md:content-id>
+    <md:title>Siyavula textbooks: Grade 10 Physical Science</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>18df8656-8cc2-48d3-8ebb-3d449c250b09</md:uuid>
+    <md:slug>siyavula-textbooks-grade-10-physical-science</md:slug>
+  </metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Classification of matter</md:title>
+      <col:content>
+        <col:module document="m39993"/>
+        <col:module document="m39999"/>
+        <col:module document="m39998"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>What are the objects around us made of</md:title>
+      <col:content>
+        <col:module document="m39951"/>
+        <col:module document="m39944"/>
+        <col:module document="m39947"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>The atom</md:title>
+      <col:content>
+        <col:module document="m39957"/>
+        <col:module document="m39954"/>
+        <col:module document="m39960"/>
+        <col:module document="m39967"/>
+        <col:module document="m39969"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Physical and chemical change</md:title>
+      <col:content>
+        <col:module document="m39987"/>
+        <col:module document="m39985"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Representing chemical change</md:title>
+      <col:content>
+        <col:module document="m39989"/>
+        <col:module document="m39977"/>
+        <col:module document="m39995"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>The water cycle</md:title>
+      <col:content>
+        <col:module document="m39919"/>
+        <col:module document="m39913"/>
+        <col:module document="m39915"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>The nitrogen cycle</md:title>
+      <col:content>
+        <col:module document="m39928"/>
+        <col:module document="m39924"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>The hydrosphere</md:title>
+      <col:content>
+        <col:module document="m39931"/>
+        <col:module document="m39937"/>
+        <col:module document="m39935"/>
+        <col:module document="m39941"/>
+      </col:content>
+    </col:subcollection>
+    <col:module document="m30853"/>
+    <col:subcollection>
+      <md:title>Motion in one dimension</md:title>
+      <col:content>
+        <col:module document="m40073"/>
+        <col:module document="m40078"/>
+        <col:module document="m40076"/>
+        <col:module document="m40079"/>
+        <col:module document="m40085"/>
+        <col:module document="m40082"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Gravity and mechanical energy</md:title>
+      <col:content>
+        <col:module document="m40055"/>
+        <col:module document="m40047"/>
+        <col:module document="m40057"/>
+        <col:module document="m40059"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Transverse pulses</md:title>
+      <col:content>
+        <col:module document="m40092"/>
+        <col:module document="m40103"/>
+        <col:module document="m40095"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Transverse waves</md:title>
+      <col:content>
+        <col:module document="m40097"/>
+        <col:module document="m40109"/>
+        <col:module document="m40107"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Geometrical optics</md:title>
+      <col:content>
+        <col:module document="m40071"/>
+        <col:module document="m40062"/>
+        <col:module document="m40065"/>
+        <col:module document="m40068"/>
+        <col:module document="m40070"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Magnetism</md:title>
+      <col:content>
+        <col:module document="m40037"/>
+        <col:module document="m40042"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Electrostatics</md:title>
+      <col:content>
+        <col:module document="m40026"/>
+        <col:module document="m40022"/>
+        <col:module document="m40040"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Electric circuits</md:title>
+      <col:content>
+        <col:module document="m40002"/>
+        <col:module document="m40003"/>
+        <col:module document="m40017"/>
+        <col:module document="m40006"/>
+        <col:module document="m40015"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
